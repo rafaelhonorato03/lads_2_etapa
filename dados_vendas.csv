@@ -1,0 +1,1001 @@
+data,categoria,produto,regiao,estado,canal_venda,valor_venda,quantidade,avaliacao
+2023-04-13 00:00:00,Casa,Armário,Centro-Oeste,MS,Online,2988.28,3,3
+2023-03-29 00:00:00,Beleza,Perfume,Centro-Oeste,GO,Online,4849.85,6,2
+2023-07-11 00:00:00,Casa,Armário,Norte,RR,Loja Física,2628.53,9,1
+2023-02-28 00:00:00,Roupas,Sapato,Sudeste,ES,Aplicativo,2285.79,3,4
+2023-02-24 00:00:00,Casa,Sofá,Centro-Oeste,DF,Aplicativo,3404.73,9,2
+2023-03-30 00:00:00,Casa,Mesa,Nordeste,BA,Loja Física,497.38,4,4
+2023-09-21 00:00:00,Alimentos,Arroz,Sudeste,RJ,Telefone,3779.25,6,2
+2023-09-17 00:00:00,Beleza,Condicionador,Nordeste,MA,Loja Física,1981.8,4,4
+2023-07-09 00:00:00,Beleza,Hidratante,Nordeste,PB,Telefone,1790.2,9,5
+2023-01-15 00:00:00,Beleza,Shampoo,Norte,AM,Telefone,1980.46,8,3
+2023-03-22 00:00:00,Alimentos,Óleo,Norte,RO,Online,4632.24,9,4
+2023-05-15 00:00:00,Eletrônicos,Fones de ouvido,Nordeste,BA,Telefone,1860.38,8,5
+2023-04-09 00:00:00,Casa,Cadeira,Centro-Oeste,DF,Aplicativo,606.78,3,1
+2023-01-05 00:00:00,Roupas,Vestido,Norte,PA,Loja Física,2202.29,3,1
+2023-02-21 00:00:00,Beleza,Perfume,Sul,RS,Aplicativo,2057.81,4,5
+2023-06-09 00:00:00,Alimentos,Óleo,Sudeste,RJ,Loja Física,4042.52,9,5
+2023-05-14 00:00:00,Casa,Cama,Sudeste,ES,Telefone,4463.87,7,4
+2023-08-19 00:00:00,Eletrônicos,Smartphone,Norte,RO,Loja Física,12.6,9,3
+2023-12-25 00:00:00,Alimentos,Arroz,Sul,PR,Aplicativo,1354.37,8,3
+2023-06-09 00:00:00,Eletrônicos,Fones de ouvido,Norte,AM,Loja Física,4812.61,7,2
+2023-04-23 00:00:00,Beleza,Shampoo,Norte,RO,Online,4883.31,6,5
+2023-08-12 00:00:00,Eletrônicos,Smartphone,Centro-Oeste,GO,Loja Física,2659.36,6,4
+2023-07-22 00:00:00,Alimentos,Arroz,Sul,SC,Loja Física,2000.13,1,1
+2023-05-04 00:00:00,Alimentos,Café,Centro-Oeste,MS,Telefone,3391.05,3,2
+2023-05-27 00:00:00,Casa,Cama,Norte,AM,Telefone,1939.81,2,1
+2023-09-24 00:00:00,Casa,Sofá,Norte,PA,Aplicativo,2711.83,3,4
+2023-05-24 00:00:00,Roupas,Camiseta,Sudeste,ES,Online,1216.84,5,5
+2023-06-09 00:00:00,Alimentos,Arroz,Norte,RO,Aplicativo,3632.52,3,4
+2023-06-01 00:00:00,Eletrônicos,Fones de ouvido,Centro-Oeste,DF,Telefone,3928.85,8,4
+2023-09-11 00:00:00,Alimentos,Arroz,Centro-Oeste,DF,Online,1426.77,2,2
+2023-11-06 00:00:00,Alimentos,Café,Norte,RR,Online,100.2,5,4
+2023-05-15 00:00:00,Alimentos,Arroz,Norte,RR,Aplicativo,1844.9,7,5
+2023-02-20 00:00:00,Alimentos,Óleo,Nordeste,PB,Loja Física,3229.07,1,5
+2023-11-13 00:00:00,Alimentos,Açúcar,Centro-Oeste,MS,Online,227.58,5,3
+2023-08-21 00:00:00,Beleza,Hidratante,Norte,AC,Aplicativo,4818.46,1,4
+2023-07-10 00:00:00,Beleza,Hidratante,Norte,RO,Telefone,1869.71,6,2
+2023-11-19 00:00:00,Roupas,Calça,Centro-Oeste,GO,Loja Física,1619.53,8,1
+2023-10-26 00:00:00,Beleza,Condicionador,Nordeste,CE,Loja Física,4336.69,7,1
+2023-02-05 00:00:00,Beleza,Perfume,Norte,RR,Aplicativo,1696.6,2,2
+2023-10-15 00:00:00,Alimentos,Arroz,Nordeste,PB,Loja Física,2958.26,6,1
+2023-06-29 00:00:00,Roupas,Vestido,Sudeste,SP,Online,4141.07,5,4
+2023-09-19 00:00:00,Beleza,Perfume,Centro-Oeste,MT,Telefone,3633.2,2,4
+2023-04-16 00:00:00,Alimentos,Arroz,Centro-Oeste,MS,Loja Física,401.5,5,2
+2023-04-27 00:00:00,Eletrônicos,Fones de ouvido,Sul,PR,Loja Física,4576.92,2,1
+2023-08-25 00:00:00,Beleza,Shampoo,Sul,RS,Telefone,2776.23,6,5
+2023-09-04 00:00:00,Alimentos,Açúcar,Nordeste,CE,Online,609.62,5,1
+2023-04-04 00:00:00,Casa,Armário,Sudeste,ES,Loja Física,3819.19,5,4
+2023-10-16 00:00:00,Beleza,Condicionador,Nordeste,PB,Telefone,236.07,3,2
+2023-04-06 00:00:00,Eletrônicos,Smart TV,Sul,RS,Loja Física,142.29,4,4
+2023-06-27 00:00:00,Alimentos,Açúcar,Norte,AM,Online,2732.63,5,4
+2023-11-19 00:00:00,Eletrônicos,Smartphone,Nordeste,CE,Telefone,1377.07,2,5
+2023-08-30 00:00:00,Alimentos,Arroz,Nordeste,PB,Loja Física,3411.25,2,3
+2023-04-15 00:00:00,Casa,Mesa,Sul,SC,Online,4683.87,8,4
+2023-08-05 00:00:00,Beleza,Hidratante,Norte,RR,Loja Física,2123.12,8,3
+2023-06-26 00:00:00,Alimentos,Açúcar,Nordeste,BA,Aplicativo,2906.91,7,5
+2023-09-25 00:00:00,Eletrônicos,Smart TV,Norte,RO,Online,1894.87,1,4
+2023-08-05 00:00:00,Beleza,Sabonete,Centro-Oeste,DF,Telefone,64.08,9,3
+2023-03-17 00:00:00,Eletrônicos,Fones de ouvido,Sudeste,MG,Loja Física,3162.87,5,5
+2023-04-09 00:00:00,Casa,Sofá,Sudeste,MG,Online,3764.35,7,1
+2023-02-08 00:00:00,Beleza,Hidratante,Nordeste,PE,Aplicativo,4979.7,5,3
+2023-08-03 00:00:00,Beleza,Sabonete,Centro-Oeste,GO,Aplicativo,723.53,1,5
+2023-08-18 00:00:00,Beleza,Condicionador,Norte,PA,Aplicativo,3534.15,5,5
+2023-06-14 00:00:00,Alimentos,Café,Norte,RR,Online,4736.77,9,5
+2023-05-12 00:00:00,Casa,Cama,Centro-Oeste,DF,Telefone,2796.44,3,3
+2023-06-22 00:00:00,Beleza,Condicionador,Sudeste,RJ,Loja Física,3707.46,8,5
+2023-12-27 00:00:00,Eletrônicos,Tablet,Sul,SC,Online,1880.6,1,1
+2023-11-08 00:00:00,Eletrônicos,Smart TV,Nordeste,MA,Online,4849.7,5,5
+2023-07-22 00:00:00,Casa,Armário,Sudeste,MG,Aplicativo,4846.82,2,1
+2023-11-01 00:00:00,Eletrônicos,Smart TV,Centro-Oeste,MS,Aplicativo,236.78,8,4
+2023-06-05 00:00:00,Beleza,Condicionador,Sudeste,ES,Loja Física,1947.46,2,4
+2023-08-08 00:00:00,Beleza,Shampoo,Sudeste,ES,Aplicativo,3493.83,1,1
+2023-07-31 00:00:00,Beleza,Perfume,Sul,PR,Loja Física,390.24,6,2
+2023-09-13 00:00:00,Beleza,Shampoo,Nordeste,PE,Telefone,4384.54,5,1
+2023-03-06 00:00:00,Roupas,Camiseta,Centro-Oeste,DF,Loja Física,1910.65,6,3
+2023-10-10 00:00:00,Eletrônicos,Smart TV,Norte,PA,Online,2079.95,1,5
+2023-11-07 00:00:00,Casa,Sofá,Sul,RS,Online,4983.22,5,5
+2023-02-22 00:00:00,Beleza,Condicionador,Nordeste,CE,Online,1213.01,9,1
+2023-02-20 00:00:00,Beleza,Hidratante,Sudeste,RJ,Online,3361.79,2,4
+2023-04-05 00:00:00,Roupas,Calça,Nordeste,CE,Aplicativo,1545.81,1,4
+2023-08-10 00:00:00,Alimentos,Arroz,Norte,AC,Online,3200.41,3,4
+2023-08-14 00:00:00,Roupas,Calça,Nordeste,CE,Aplicativo,4521.75,4,1
+2023-06-15 00:00:00,Eletrônicos,Fones de ouvido,Nordeste,CE,Online,4748.11,4,2
+2023-07-03 00:00:00,Eletrônicos,Laptop,Norte,RR,Telefone,2301.09,2,5
+2023-07-24 00:00:00,Alimentos,Óleo,Centro-Oeste,MT,Aplicativo,653.11,7,3
+2023-01-08 00:00:00,Casa,Cama,Norte,RO,Telefone,2375.07,2,5
+2023-05-02 00:00:00,Alimentos,Óleo,Sul,PR,Loja Física,1400.17,6,5
+2023-11-22 00:00:00,Eletrônicos,Smart TV,Norte,RR,Loja Física,4472.14,1,2
+2023-10-28 00:00:00,Alimentos,Arroz,Nordeste,BA,Aplicativo,3143.22,8,3
+2023-11-15 00:00:00,Beleza,Shampoo,Nordeste,MA,Online,431.74,3,5
+2023-06-29 00:00:00,Roupas,Sapato,Nordeste,PB,Loja Física,193.05,8,3
+2023-01-07 00:00:00,Alimentos,Óleo,Sudeste,SP,Loja Física,2242.59,3,3
+2023-01-15 00:00:00,Eletrônicos,Smart TV,Sudeste,RJ,Aplicativo,1617.18,7,2
+2023-05-06 00:00:00,Casa,Sofá,Norte,AC,Telefone,2375.11,3,1
+2023-04-19 00:00:00,Roupas,Sapato,Nordeste,BA,Telefone,646.63,9,5
+2023-01-06 00:00:00,Casa,Mesa,Nordeste,CE,Telefone,2496.26,6,5
+2023-10-16 00:00:00,Beleza,Hidratante,Sudeste,RJ,Aplicativo,448.56,8,1
+2023-09-04 00:00:00,Alimentos,Óleo,Sul,RS,Loja Física,1995.3,4,1
+2023-04-04 00:00:00,Alimentos,Arroz,Nordeste,CE,Telefone,2388.33,5,2
+2023-04-28 00:00:00,Casa,Cadeira,Sudeste,SP,Telefone,1219.62,1,2
+2023-05-22 00:00:00,Beleza,Sabonete,Sudeste,SP,Aplicativo,2973.48,6,2
+2023-01-10 00:00:00,Beleza,Condicionador,Sudeste,RJ,Online,3426.01,4,1
+2023-11-15 00:00:00,Beleza,Shampoo,Norte,AM,Aplicativo,2371.1,6,3
+2023-04-04 00:00:00,Eletrônicos,Smart TV,Sudeste,ES,Loja Física,630.24,8,3
+2023-05-17 00:00:00,Roupas,Sapato,Centro-Oeste,MT,Online,3708.19,6,4
+2023-11-16 00:00:00,Beleza,Sabonete,Norte,AC,Loja Física,3999.69,3,5
+2023-06-14 00:00:00,Beleza,Sabonete,Centro-Oeste,GO,Loja Física,4540.25,9,5
+2023-02-11 00:00:00,Eletrônicos,Laptop,Centro-Oeste,DF,Loja Física,2703.51,1,1
+2023-05-25 00:00:00,Eletrônicos,Laptop,Sul,RS,Aplicativo,593.32,6,3
+2023-06-28 00:00:00,Roupas,Sapato,Sul,PR,Telefone,3709.89,4,5
+2023-02-07 00:00:00,Eletrônicos,Smartphone,Sul,PR,Aplicativo,3722.29,4,2
+2023-01-10 00:00:00,Beleza,Sabonete,Nordeste,BA,Loja Física,4108.07,4,5
+2023-08-04 00:00:00,Casa,Armário,Sul,PR,Aplicativo,2050.69,2,3
+2023-04-05 00:00:00,Alimentos,Óleo,Sudeste,ES,Loja Física,1266.48,5,4
+2023-01-11 00:00:00,Roupas,Calça,Centro-Oeste,MS,Loja Física,2935.29,2,1
+2023-04-21 00:00:00,Casa,Cadeira,Sudeste,ES,Telefone,4594.57,5,5
+2023-11-24 00:00:00,Roupas,Camiseta,Sudeste,MG,Loja Física,353.92,3,5
+2023-10-23 00:00:00,Eletrônicos,Tablet,Norte,AC,Online,835.95,4,1
+2023-01-01 00:00:00,Alimentos,Café,Norte,AC,Online,1035.84,9,5
+2023-06-03 00:00:00,Eletrônicos,Tablet,Sudeste,SP,Loja Física,4600.08,2,2
+2023-12-13 00:00:00,Eletrônicos,Tablet,Centro-Oeste,MS,Aplicativo,712.88,8,1
+2023-06-29 00:00:00,Beleza,Shampoo,Norte,AC,Aplicativo,1395.16,2,5
+2023-02-18 00:00:00,Eletrônicos,Fones de ouvido,Norte,AM,Telefone,2078.97,8,1
+2023-11-23 00:00:00,Eletrônicos,Smart TV,Centro-Oeste,MT,Telefone,4491.29,1,5
+2023-10-13 00:00:00,Alimentos,Feijão,Norte,RO,Aplicativo,2642.96,6,4
+2023-04-23 00:00:00,Roupas,Vestido,Sudeste,SP,Telefone,4310.31,7,3
+2023-10-15 00:00:00,Roupas,Calça,Centro-Oeste,GO,Loja Física,2049.58,7,4
+2023-10-15 00:00:00,Roupas,Jaqueta,Norte,AM,Aplicativo,1276.9,7,3
+2023-09-12 00:00:00,Beleza,Shampoo,Sul,RS,Aplicativo,3267.2,8,2
+2023-10-18 00:00:00,Alimentos,Açúcar,Sudeste,SP,Loja Física,1032.87,7,2
+2023-01-07 00:00:00,Roupas,Camiseta,Sul,RS,Telefone,915.36,4,5
+2023-07-07 00:00:00,Roupas,Calça,Norte,AC,Telefone,1685.97,2,3
+2023-04-29 00:00:00,Casa,Cama,Sul,PR,Loja Física,3871.43,9,2
+2023-02-22 00:00:00,Casa,Cadeira,Sudeste,RJ,Loja Física,3901.0,1,2
+2023-06-07 00:00:00,Alimentos,Arroz,Nordeste,CE,Online,1350.7,8,2
+2023-08-25 00:00:00,Eletrônicos,Smartphone,Centro-Oeste,GO,Telefone,670.06,2,5
+2023-03-16 00:00:00,Roupas,Jaqueta,Nordeste,MA,Online,1377.54,1,5
+2023-06-02 00:00:00,Roupas,Sapato,Sul,SC,Loja Física,693.06,9,3
+2023-06-17 00:00:00,Roupas,Sapato,Sul,PR,Online,885.1,1,2
+2023-07-09 00:00:00,Roupas,Calça,Sudeste,RJ,Aplicativo,930.01,5,4
+2023-10-09 00:00:00,Beleza,Hidratante,Centro-Oeste,MS,Aplicativo,1784.81,1,3
+2023-10-22 00:00:00,Alimentos,Feijão,Sul,PR,Loja Física,165.6,4,3
+2023-08-15 00:00:00,Casa,Cadeira,Norte,RO,Online,781.81,9,2
+2023-03-14 00:00:00,Eletrônicos,Smartphone,Norte,AM,Online,3445.13,9,3
+2023-05-11 00:00:00,Roupas,Jaqueta,Sudeste,ES,Aplicativo,1368.0,2,4
+2023-10-02 00:00:00,Beleza,Perfume,Centro-Oeste,MT,Online,692.72,9,1
+2023-10-30 00:00:00,Casa,Cadeira,Sul,PR,Aplicativo,3623.28,6,1
+2023-03-30 00:00:00,Casa,Cadeira,Nordeste,BA,Online,3352.89,7,1
+2023-10-09 00:00:00,Beleza,Condicionador,Sul,RS,Online,971.07,8,2
+2023-11-11 00:00:00,Beleza,Condicionador,Sudeste,MG,Aplicativo,1602.31,7,1
+2023-01-14 00:00:00,Alimentos,Açúcar,Sudeste,SP,Loja Física,4426.14,8,2
+2023-07-02 00:00:00,Casa,Sofá,Sudeste,SP,Loja Física,1600.57,2,1
+2023-01-16 00:00:00,Beleza,Condicionador,Sudeste,RJ,Loja Física,131.76,2,3
+2023-09-04 00:00:00,Beleza,Hidratante,Nordeste,CE,Aplicativo,4989.69,4,5
+2023-11-14 00:00:00,Beleza,Perfume,Norte,RR,Aplicativo,1997.45,9,4
+2023-03-06 00:00:00,Eletrônicos,Tablet,Sul,SC,Telefone,1443.32,4,2
+2023-10-20 00:00:00,Eletrônicos,Smartphone,Sul,SC,Aplicativo,2144.59,1,1
+2023-12-10 00:00:00,Casa,Cama,Centro-Oeste,GO,Online,3933.86,6,3
+2023-03-03 00:00:00,Beleza,Condicionador,Norte,RR,Telefone,1166.04,4,5
+2023-03-04 00:00:00,Beleza,Sabonete,Sul,SC,Loja Física,244.26,9,2
+2023-08-29 00:00:00,Roupas,Vestido,Sul,PR,Loja Física,4845.82,1,1
+2023-04-09 00:00:00,Casa,Mesa,Norte,AC,Aplicativo,1987.25,2,2
+2023-03-03 00:00:00,Eletrônicos,Tablet,Centro-Oeste,GO,Online,1126.85,9,1
+2023-03-09 00:00:00,Beleza,Condicionador,Centro-Oeste,DF,Telefone,1335.34,9,3
+2023-08-14 00:00:00,Casa,Mesa,Norte,AM,Online,3678.71,2,4
+2023-02-07 00:00:00,Alimentos,Café,Nordeste,PE,Loja Física,4810.99,5,5
+2023-03-22 00:00:00,Roupas,Jaqueta,Sul,RS,Loja Física,2860.88,8,2
+2023-02-09 00:00:00,Alimentos,Café,Sul,PR,Loja Física,2611.09,8,4
+2023-12-19 00:00:00,Alimentos,Óleo,Norte,AC,Aplicativo,1201.06,5,2
+2023-12-22 00:00:00,Alimentos,Açúcar,Sul,RS,Online,4360.5,3,2
+2023-06-09 00:00:00,Alimentos,Café,Nordeste,MA,Loja Física,4162.35,7,2
+2023-08-12 00:00:00,Beleza,Sabonete,Norte,AM,Online,588.06,2,4
+2023-12-10 00:00:00,Beleza,Sabonete,Centro-Oeste,GO,Aplicativo,2710.92,2,4
+2023-03-01 00:00:00,Beleza,Hidratante,Sudeste,ES,Telefone,3856.56,4,3
+2023-07-11 00:00:00,Eletrônicos,Fones de ouvido,Norte,PA,Loja Física,1735.96,8,3
+2023-07-29 00:00:00,Roupas,Jaqueta,Sudeste,ES,Aplicativo,659.13,7,5
+2023-02-02 00:00:00,Alimentos,Óleo,Nordeste,PE,Loja Física,1375.4,4,1
+2023-04-09 00:00:00,Beleza,Shampoo,Sul,PR,Aplicativo,1111.64,2,4
+2023-01-22 00:00:00,Alimentos,Óleo,Centro-Oeste,DF,Loja Física,763.78,5,5
+2023-03-25 00:00:00,Alimentos,Arroz,Sul,RS,Aplicativo,2052.58,6,2
+2023-06-12 00:00:00,Eletrônicos,Smartphone,Sudeste,RJ,Aplicativo,2362.95,8,4
+2023-05-25 00:00:00,Beleza,Hidratante,Centro-Oeste,GO,Loja Física,3807.51,3,5
+2023-06-30 00:00:00,Casa,Mesa,Centro-Oeste,MS,Loja Física,2315.87,7,1
+2023-08-24 00:00:00,Casa,Cama,Norte,AM,Telefone,330.4,6,5
+2023-04-27 00:00:00,Roupas,Vestido,Sul,PR,Telefone,2328.35,2,3
+2023-10-28 00:00:00,Eletrônicos,Smartphone,Sudeste,RJ,Online,207.7,6,3
+2023-03-29 00:00:00,Eletrônicos,Smartphone,Sudeste,SP,Loja Física,721.05,6,4
+2023-05-28 00:00:00,Eletrônicos,Laptop,Nordeste,MA,Online,2593.38,1,1
+2023-03-18 00:00:00,Casa,Mesa,Nordeste,PE,Loja Física,3469.04,2,2
+2023-11-01 00:00:00,Alimentos,Café,Centro-Oeste,MT,Loja Física,2977.94,9,1
+2023-07-23 00:00:00,Roupas,Sapato,Sudeste,RJ,Aplicativo,4075.98,7,3
+2023-03-25 00:00:00,Casa,Mesa,Nordeste,CE,Aplicativo,2636.75,2,4
+2023-03-28 00:00:00,Casa,Armário,Norte,AC,Aplicativo,1103.88,7,4
+2023-06-22 00:00:00,Beleza,Hidratante,Centro-Oeste,MS,Loja Física,114.1,3,5
+2023-12-18 00:00:00,Eletrônicos,Tablet,Centro-Oeste,MS,Loja Física,2022.27,6,1
+2023-11-28 00:00:00,Eletrônicos,Smart TV,Nordeste,PB,Telefone,2133.21,4,4
+2023-12-30 00:00:00,Casa,Cama,Nordeste,BA,Aplicativo,2897.59,4,2
+2023-04-27 00:00:00,Roupas,Sapato,Nordeste,PE,Telefone,2114.39,3,3
+2023-07-05 00:00:00,Beleza,Perfume,Centro-Oeste,DF,Loja Física,3161.49,1,3
+2023-10-09 00:00:00,Casa,Mesa,Sudeste,RJ,Loja Física,2567.95,5,5
+2023-02-10 00:00:00,Casa,Armário,Norte,RR,Loja Física,485.35,1,3
+2023-12-11 00:00:00,Eletrônicos,Fones de ouvido,Nordeste,CE,Online,55.06,1,4
+2023-06-13 00:00:00,Beleza,Sabonete,Nordeste,CE,Loja Física,857.09,9,1
+2023-05-13 00:00:00,Casa,Cadeira,Sudeste,SP,Online,843.54,4,4
+2023-05-01 00:00:00,Alimentos,Café,Sul,PR,Online,4222.41,8,4
+2023-07-26 00:00:00,Casa,Cadeira,Sul,SC,Loja Física,294.86,5,4
+2023-10-09 00:00:00,Beleza,Shampoo,Centro-Oeste,GO,Online,4670.04,5,1
+2023-06-28 00:00:00,Casa,Mesa,Sudeste,SP,Loja Física,4825.94,2,1
+2023-11-02 00:00:00,Beleza,Shampoo,Centro-Oeste,GO,Aplicativo,3337.65,4,5
+2023-11-04 00:00:00,Roupas,Calça,Sudeste,MG,Telefone,4849.86,1,5
+2023-12-18 00:00:00,Beleza,Condicionador,Norte,PA,Aplicativo,3419.41,2,2
+2023-05-25 00:00:00,Roupas,Camiseta,Sudeste,MG,Telefone,3979.6,4,1
+2023-01-01 00:00:00,Alimentos,Café,Sul,PR,Loja Física,1749.38,2,2
+2023-07-11 00:00:00,Eletrônicos,Smartphone,Norte,AM,Telefone,3764.61,5,5
+2023-06-08 00:00:00,Eletrônicos,Tablet,Sudeste,RJ,Online,3828.3,4,3
+2023-03-23 00:00:00,Beleza,Shampoo,Centro-Oeste,DF,Aplicativo,1884.6,6,1
+2023-08-01 00:00:00,Eletrônicos,Fones de ouvido,Nordeste,PB,Aplicativo,1948.9,9,1
+2023-11-01 00:00:00,Eletrônicos,Tablet,Sudeste,RJ,Loja Física,2939.44,8,2
+2023-09-22 00:00:00,Alimentos,Café,Nordeste,PE,Loja Física,4572.04,9,4
+2023-05-13 00:00:00,Roupas,Jaqueta,Sudeste,ES,Aplicativo,1977.88,7,2
+2023-12-30 00:00:00,Alimentos,Óleo,Sul,PR,Aplicativo,2160.0,5,4
+2023-10-08 00:00:00,Casa,Cadeira,Centro-Oeste,MT,Telefone,4672.84,6,3
+2023-10-17 00:00:00,Beleza,Perfume,Sul,SC,Aplicativo,4648.73,3,2
+2023-06-07 00:00:00,Roupas,Calça,Norte,AC,Telefone,4117.64,7,4
+2023-03-15 00:00:00,Beleza,Shampoo,Nordeste,PB,Loja Física,4589.58,4,4
+2023-09-20 00:00:00,Eletrônicos,Fones de ouvido,Sul,SC,Aplicativo,4757.5,7,5
+2023-08-02 00:00:00,Casa,Sofá,Nordeste,BA,Aplicativo,3058.8,9,5
+2023-06-19 00:00:00,Eletrônicos,Laptop,Centro-Oeste,DF,Telefone,1381.28,3,4
+2023-03-01 00:00:00,Roupas,Camiseta,Nordeste,CE,Telefone,757.02,7,2
+2023-03-10 00:00:00,Eletrônicos,Tablet,Sudeste,RJ,Online,1091.53,1,5
+2023-05-23 00:00:00,Alimentos,Açúcar,Centro-Oeste,GO,Online,1960.62,9,1
+2023-09-15 00:00:00,Alimentos,Café,Nordeste,CE,Loja Física,2146.72,7,1
+2023-08-29 00:00:00,Alimentos,Açúcar,Centro-Oeste,MS,Loja Física,1692.76,7,5
+2023-02-05 00:00:00,Beleza,Shampoo,Sudeste,MG,Online,1623.62,6,1
+2023-07-15 00:00:00,Beleza,Shampoo,Sudeste,RJ,Telefone,4003.78,5,2
+2023-03-08 00:00:00,Casa,Armário,Nordeste,CE,Loja Física,3350.74,7,4
+2023-09-15 00:00:00,Eletrônicos,Tablet,Nordeste,MA,Telefone,2906.57,4,5
+2023-11-29 00:00:00,Beleza,Shampoo,Nordeste,BA,Aplicativo,3783.26,1,4
+2023-05-16 00:00:00,Casa,Cadeira,Sul,RS,Telefone,4871.08,6,5
+2023-12-26 00:00:00,Casa,Sofá,Norte,AC,Telefone,3121.69,2,1
+2023-09-29 00:00:00,Casa,Cama,Nordeste,PB,Loja Física,597.07,7,2
+2023-08-25 00:00:00,Roupas,Camiseta,Sul,SC,Aplicativo,1202.89,1,3
+2023-11-19 00:00:00,Casa,Mesa,Sudeste,RJ,Aplicativo,817.2,6,3
+2023-05-23 00:00:00,Casa,Armário,Sudeste,RJ,Telefone,4653.67,6,2
+2023-10-18 00:00:00,Roupas,Vestido,Sudeste,RJ,Online,1619.41,3,2
+2023-12-13 00:00:00,Roupas,Vestido,Nordeste,MA,Loja Física,3208.45,9,2
+2023-10-08 00:00:00,Beleza,Shampoo,Sudeste,MG,Loja Física,704.6,6,5
+2023-01-25 00:00:00,Beleza,Hidratante,Nordeste,PB,Loja Física,2535.48,4,5
+2023-01-12 00:00:00,Casa,Armário,Sudeste,RJ,Online,537.27,6,5
+2023-02-12 00:00:00,Roupas,Sapato,Centro-Oeste,MT,Aplicativo,2826.56,2,2
+2023-12-11 00:00:00,Roupas,Vestido,Nordeste,PB,Aplicativo,3478.23,9,3
+2023-04-09 00:00:00,Beleza,Shampoo,Sudeste,RJ,Loja Física,514.22,1,4
+2023-09-17 00:00:00,Eletrônicos,Smart TV,Sudeste,ES,Online,3123.24,6,2
+2023-03-04 00:00:00,Beleza,Perfume,Sul,RS,Aplicativo,2632.27,6,5
+2023-03-27 00:00:00,Beleza,Condicionador,Centro-Oeste,DF,Loja Física,3953.79,5,2
+2023-11-10 00:00:00,Beleza,Shampoo,Sul,PR,Loja Física,1213.6,5,5
+2023-12-04 00:00:00,Beleza,Hidratante,Sudeste,SP,Aplicativo,1336.6,5,4
+2023-09-13 00:00:00,Beleza,Condicionador,Sudeste,RJ,Telefone,1224.96,2,3
+2023-08-21 00:00:00,Beleza,Perfume,Sul,SC,Loja Física,3927.23,1,1
+2023-07-11 00:00:00,Eletrônicos,Smartphone,Norte,AM,Loja Física,2193.64,1,2
+2023-08-30 00:00:00,Roupas,Sapato,Sul,RS,Aplicativo,3300.18,6,1
+2023-03-20 00:00:00,Eletrônicos,Fones de ouvido,Sul,RS,Online,3689.79,1,5
+2023-01-08 00:00:00,Beleza,Shampoo,Centro-Oeste,DF,Online,4012.63,3,1
+2023-05-13 00:00:00,Casa,Armário,Nordeste,MA,Aplicativo,4854.04,3,3
+2023-01-28 00:00:00,Alimentos,Óleo,Nordeste,PB,Online,3304.91,8,2
+2023-02-07 00:00:00,Casa,Sofá,Norte,AM,Loja Física,3340.08,3,1
+2023-10-19 00:00:00,Casa,Sofá,Norte,AM,Loja Física,2396.49,2,2
+2023-05-29 00:00:00,Casa,Cama,Centro-Oeste,MS,Loja Física,3013.39,5,4
+2023-08-14 00:00:00,Alimentos,Feijão,Norte,PA,Aplicativo,484.11,8,3
+2023-11-30 00:00:00,Casa,Mesa,Norte,PA,Loja Física,1376.22,4,5
+2023-06-21 00:00:00,Alimentos,Arroz,Sul,RS,Loja Física,4081.58,7,1
+2023-09-25 00:00:00,Eletrônicos,Laptop,Sul,PR,Loja Física,2308.09,8,4
+2023-08-12 00:00:00,Alimentos,Óleo,Norte,RR,Online,3642.46,2,5
+2023-08-01 00:00:00,Casa,Cadeira,Nordeste,CE,Aplicativo,4205.11,6,3
+2023-07-08 00:00:00,Eletrônicos,Tablet,Centro-Oeste,MT,Online,477.85,9,5
+2023-04-21 00:00:00,Roupas,Calça,Norte,RR,Online,4408.44,4,3
+2023-08-12 00:00:00,Roupas,Calça,Centro-Oeste,DF,Loja Física,3714.32,7,3
+2023-03-07 00:00:00,Eletrônicos,Smart TV,Norte,RR,Telefone,36.1,6,4
+2023-07-28 00:00:00,Eletrônicos,Laptop,Sul,PR,Telefone,1641.39,3,3
+2023-04-11 00:00:00,Roupas,Sapato,Sul,SC,Telefone,1093.87,5,5
+2023-11-06 00:00:00,Beleza,Condicionador,Sudeste,ES,Online,1944.49,1,4
+2023-08-09 00:00:00,Alimentos,Café,Nordeste,MA,Telefone,273.49,8,2
+2023-06-07 00:00:00,Roupas,Vestido,Sudeste,ES,Aplicativo,2496.3,3,5
+2023-03-17 00:00:00,Roupas,Jaqueta,Sudeste,ES,Aplicativo,2206.59,4,1
+2023-07-02 00:00:00,Eletrônicos,Laptop,Sudeste,SP,Aplicativo,4008.82,9,4
+2023-04-28 00:00:00,Beleza,Shampoo,Norte,RR,Telefone,3930.4,6,4
+2023-03-16 00:00:00,Eletrônicos,Laptop,Sul,PR,Telefone,1817.55,2,3
+2023-04-17 00:00:00,Eletrônicos,Smart TV,Norte,RO,Online,3915.08,3,2
+2023-02-04 00:00:00,Roupas,Vestido,Sul,PR,Telefone,938.65,1,5
+2023-03-15 00:00:00,Beleza,Perfume,Nordeste,MA,Loja Física,3642.42,2,3
+2023-05-09 00:00:00,Eletrônicos,Fones de ouvido,Norte,RR,Telefone,685.42,4,1
+2023-02-05 00:00:00,Beleza,Perfume,Nordeste,MA,Aplicativo,1242.42,8,2
+2023-12-02 00:00:00,Roupas,Camiseta,Sul,SC,Telefone,790.35,4,3
+2023-03-25 00:00:00,Roupas,Calça,Centro-Oeste,DF,Online,2666.78,1,3
+2023-01-07 00:00:00,Roupas,Vestido,Sudeste,ES,Aplicativo,4411.86,5,2
+2023-06-03 00:00:00,Casa,Sofá,Sul,SC,Online,1290.09,3,2
+2023-11-01 00:00:00,Alimentos,Óleo,Norte,AC,Telefone,4837.11,9,1
+2023-06-27 00:00:00,Beleza,Perfume,Nordeste,BA,Aplicativo,3421.93,1,1
+2023-06-01 00:00:00,Beleza,Hidratante,Nordeste,MA,Loja Física,2717.3,7,1
+2023-01-17 00:00:00,Roupas,Calça,Norte,PA,Online,713.39,6,1
+2023-03-07 00:00:00,Roupas,Calça,Centro-Oeste,DF,Aplicativo,2731.71,8,4
+2023-02-28 00:00:00,Roupas,Vestido,Centro-Oeste,MT,Online,1014.81,7,5
+2023-01-20 00:00:00,Roupas,Sapato,Sudeste,RJ,Aplicativo,1032.36,5,4
+2023-04-02 00:00:00,Alimentos,Café,Norte,PA,Telefone,3862.34,2,1
+2023-09-05 00:00:00,Alimentos,Açúcar,Norte,PA,Telefone,3993.74,7,4
+2023-10-06 00:00:00,Eletrônicos,Tablet,Nordeste,CE,Aplicativo,2210.95,8,4
+2023-03-15 00:00:00,Casa,Cama,Norte,RR,Online,3176.57,7,1
+2023-02-16 00:00:00,Roupas,Calça,Sudeste,ES,Loja Física,3968.37,7,3
+2023-12-31 00:00:00,Alimentos,Óleo,Nordeste,CE,Telefone,2540.19,1,5
+2023-06-25 00:00:00,Alimentos,Café,Sudeste,RJ,Loja Física,4839.1,3,1
+2023-01-12 00:00:00,Alimentos,Arroz,Sul,RS,Online,3342.92,2,4
+2023-04-12 00:00:00,Roupas,Vestido,Centro-Oeste,DF,Online,474.22,4,1
+2023-06-03 00:00:00,Beleza,Sabonete,Sul,PR,Online,4097.13,2,3
+2023-03-01 00:00:00,Casa,Sofá,Centro-Oeste,GO,Aplicativo,3261.82,9,5
+2023-08-04 00:00:00,Roupas,Vestido,Sudeste,ES,Loja Física,877.07,5,4
+2023-09-05 00:00:00,Roupas,Camiseta,Sul,RS,Telefone,4527.75,3,2
+2023-11-10 00:00:00,Alimentos,Arroz,Norte,AC,Telefone,2361.72,3,1
+2023-07-31 00:00:00,Beleza,Condicionador,Nordeste,CE,Telefone,29.05,7,1
+2023-05-28 00:00:00,Casa,Sofá,Centro-Oeste,MS,Loja Física,2568.15,6,5
+2023-08-15 00:00:00,Eletrônicos,Smart TV,Sul,SC,Telefone,4692.14,1,1
+2023-12-21 00:00:00,Casa,Armário,Nordeste,CE,Online,4372.39,7,3
+2023-04-01 00:00:00,Roupas,Sapato,Sul,SC,Aplicativo,2069.68,4,1
+2023-10-08 00:00:00,Roupas,Camiseta,Centro-Oeste,GO,Aplicativo,4131.93,3,1
+2023-10-11 00:00:00,Casa,Armário,Norte,RO,Telefone,4148.68,3,4
+2023-04-30 00:00:00,Beleza,Hidratante,Sudeste,ES,Online,1217.05,1,4
+2023-03-30 00:00:00,Alimentos,Café,Centro-Oeste,DF,Aplicativo,3653.93,9,4
+2023-03-09 00:00:00,Casa,Mesa,Norte,AC,Loja Física,1708.63,8,5
+2023-03-03 00:00:00,Eletrônicos,Fones de ouvido,Centro-Oeste,MT,Telefone,3947.91,5,5
+2023-11-21 00:00:00,Casa,Armário,Centro-Oeste,MS,Online,3690.45,9,5
+2023-11-20 00:00:00,Alimentos,Arroz,Nordeste,BA,Telefone,2592.06,8,4
+2023-03-17 00:00:00,Eletrônicos,Tablet,Nordeste,MA,Online,861.2,5,3
+2023-02-07 00:00:00,Casa,Sofá,Sul,RS,Telefone,3385.37,4,4
+2023-03-08 00:00:00,Casa,Mesa,Nordeste,CE,Aplicativo,4919.36,8,1
+2023-07-29 00:00:00,Eletrônicos,Smart TV,Sudeste,RJ,Loja Física,4537.83,3,4
+2023-12-28 00:00:00,Eletrônicos,Smartphone,Sul,PR,Online,3116.37,3,5
+2023-12-06 00:00:00,Eletrônicos,Smart TV,Sul,SC,Online,48.24,8,3
+2023-12-19 00:00:00,Roupas,Jaqueta,Sul,PR,Telefone,2568.21,6,1
+2023-09-22 00:00:00,Beleza,Shampoo,Norte,AM,Telefone,2662.68,7,1
+2023-02-08 00:00:00,Beleza,Sabonete,Centro-Oeste,MT,Online,4647.84,1,4
+2023-01-19 00:00:00,Casa,Armário,Sul,PR,Telefone,3376.29,1,5
+2023-03-31 00:00:00,Casa,Mesa,Sul,PR,Aplicativo,20.5,7,1
+2023-06-24 00:00:00,Casa,Mesa,Nordeste,PE,Telefone,1925.36,4,2
+2023-05-27 00:00:00,Casa,Cama,Norte,AM,Telefone,410.1,9,2
+2023-10-12 00:00:00,Eletrônicos,Laptop,Nordeste,CE,Aplicativo,2997.48,2,3
+2023-04-28 00:00:00,Eletrônicos,Smartphone,Sudeste,MG,Telefone,3193.01,5,2
+2023-04-03 00:00:00,Alimentos,Feijão,Norte,AM,Loja Física,2667.14,1,5
+2023-12-23 00:00:00,Beleza,Shampoo,Norte,AM,Loja Física,4229.57,6,3
+2023-05-26 00:00:00,Casa,Cadeira,Sul,RS,Online,1538.5,2,3
+2023-07-14 00:00:00,Casa,Cama,Norte,RO,Telefone,71.43,9,4
+2023-06-16 00:00:00,Roupas,Sapato,Sul,RS,Telefone,233.44,1,1
+2023-02-16 00:00:00,Casa,Cadeira,Sul,SC,Telefone,1900.76,3,3
+2023-05-06 00:00:00,Alimentos,Arroz,Norte,AC,Telefone,1829.32,4,4
+2023-11-17 00:00:00,Casa,Sofá,Sul,SC,Online,1150.15,8,3
+2023-03-08 00:00:00,Alimentos,Café,Sudeste,RJ,Aplicativo,1052.23,3,2
+2023-09-19 00:00:00,Alimentos,Café,Sul,SC,Loja Física,4501.42,5,2
+2023-05-04 00:00:00,Beleza,Sabonete,Sudeste,RJ,Telefone,2731.45,4,1
+2023-04-19 00:00:00,Casa,Armário,Sul,PR,Online,2665.97,6,5
+2023-12-09 00:00:00,Alimentos,Óleo,Nordeste,PE,Telefone,3547.98,1,5
+2023-01-21 00:00:00,Casa,Cadeira,Sudeste,MG,Online,2906.53,8,5
+2023-04-21 00:00:00,Roupas,Vestido,Sudeste,MG,Online,4969.3,2,1
+2023-06-01 00:00:00,Roupas,Vestido,Sul,RS,Online,748.44,5,1
+2023-04-11 00:00:00,Casa,Cadeira,Centro-Oeste,DF,Loja Física,3613.49,6,5
+2023-09-03 00:00:00,Alimentos,Açúcar,Sul,PR,Telefone,1386.08,6,1
+2023-05-27 00:00:00,Roupas,Sapato,Sudeste,ES,Telefone,2464.74,7,2
+2023-08-16 00:00:00,Alimentos,Arroz,Centro-Oeste,MT,Telefone,2466.7,2,1
+2023-06-28 00:00:00,Beleza,Sabonete,Nordeste,MA,Aplicativo,3014.56,4,5
+2023-06-12 00:00:00,Eletrônicos,Fones de ouvido,Sul,PR,Online,4236.37,8,3
+2023-03-04 00:00:00,Alimentos,Óleo,Sul,PR,Aplicativo,3136.7,7,2
+2023-01-22 00:00:00,Beleza,Sabonete,Centro-Oeste,GO,Loja Física,680.83,5,4
+2023-07-13 00:00:00,Eletrônicos,Tablet,Norte,RO,Aplicativo,1011.25,1,3
+2023-03-06 00:00:00,Casa,Sofá,Sul,PR,Aplicativo,722.82,8,5
+2023-07-07 00:00:00,Eletrônicos,Smartphone,Sudeste,MG,Loja Física,530.98,7,1
+2023-10-17 00:00:00,Casa,Cadeira,Centro-Oeste,MS,Aplicativo,3164.13,2,5
+2023-03-02 00:00:00,Alimentos,Óleo,Nordeste,BA,Aplicativo,4211.95,6,4
+2023-11-18 00:00:00,Roupas,Calça,Sul,RS,Aplicativo,1169.6,7,3
+2023-08-03 00:00:00,Alimentos,Café,Sul,RS,Online,2749.41,5,5
+2023-01-21 00:00:00,Alimentos,Café,Centro-Oeste,DF,Online,623.37,1,2
+2023-01-10 00:00:00,Casa,Cama,Sudeste,ES,Loja Física,1217.24,4,5
+2023-12-01 00:00:00,Casa,Armário,Centro-Oeste,MT,Telefone,1364.33,7,2
+2023-12-04 00:00:00,Roupas,Vestido,Norte,RR,Online,1594.76,1,2
+2023-12-15 00:00:00,Roupas,Calça,Norte,PA,Telefone,29.06,5,4
+2023-11-16 00:00:00,Beleza,Perfume,Centro-Oeste,DF,Online,658.35,9,3
+2023-06-11 00:00:00,Casa,Cama,Sudeste,RJ,Aplicativo,4715.49,3,1
+2023-07-17 00:00:00,Casa,Cadeira,Sul,PR,Loja Física,221.04,1,4
+2023-08-05 00:00:00,Roupas,Jaqueta,Sul,RS,Online,922.21,8,4
+2023-01-11 00:00:00,Eletrônicos,Fones de ouvido,Norte,AM,Online,2382.28,3,4
+2023-10-20 00:00:00,Roupas,Camiseta,Sul,SC,Telefone,1931.75,9,3
+2023-10-30 00:00:00,Roupas,Vestido,Sudeste,SP,Telefone,4296.19,2,5
+2023-04-10 00:00:00,Roupas,Camiseta,Norte,RO,Loja Física,4401.98,1,4
+2023-04-19 00:00:00,Beleza,Hidratante,Nordeste,BA,Telefone,4654.73,4,2
+2023-01-03 00:00:00,Casa,Cama,Sudeste,SP,Telefone,3568.9,6,1
+2023-12-22 00:00:00,Beleza,Perfume,Centro-Oeste,MT,Online,299.88,6,2
+2023-02-22 00:00:00,Casa,Armário,Nordeste,PB,Online,4556.23,2,1
+2023-12-22 00:00:00,Roupas,Vestido,Norte,RO,Aplicativo,1657.91,6,4
+2023-01-24 00:00:00,Beleza,Sabonete,Norte,RR,Loja Física,2599.97,6,1
+2023-12-06 00:00:00,Casa,Sofá,Sudeste,RJ,Telefone,636.5,5,2
+2023-07-06 00:00:00,Eletrônicos,Laptop,Sul,SC,Aplicativo,97.59,5,1
+2023-02-02 00:00:00,Roupas,Sapato,Norte,RR,Telefone,2844.78,5,4
+2023-05-15 00:00:00,Casa,Cadeira,Norte,RO,Telefone,3918.16,9,5
+2023-08-02 00:00:00,Alimentos,Açúcar,Centro-Oeste,DF,Online,4687.52,2,4
+2023-07-24 00:00:00,Casa,Cama,Nordeste,MA,Loja Física,4951.14,7,5
+2023-11-08 00:00:00,Casa,Mesa,Centro-Oeste,MT,Telefone,387.27,9,1
+2023-02-28 00:00:00,Roupas,Sapato,Nordeste,BA,Loja Física,4237.5,3,3
+2023-06-30 00:00:00,Casa,Cama,Centro-Oeste,MT,Online,1732.51,4,4
+2023-02-26 00:00:00,Eletrônicos,Laptop,Nordeste,BA,Loja Física,49.13,4,1
+2023-09-05 00:00:00,Eletrônicos,Laptop,Centro-Oeste,GO,Aplicativo,1777.8,5,5
+2023-10-21 00:00:00,Roupas,Calça,Sul,RS,Loja Física,2808.76,6,5
+2023-01-08 00:00:00,Casa,Armário,Centro-Oeste,MS,Online,693.63,2,3
+2023-12-17 00:00:00,Casa,Cama,Norte,RR,Aplicativo,2496.2,8,3
+2023-03-31 00:00:00,Eletrônicos,Fones de ouvido,Centro-Oeste,DF,Online,4597.74,7,2
+2023-06-03 00:00:00,Casa,Cama,Centro-Oeste,DF,Aplicativo,1781.65,1,3
+2023-10-26 00:00:00,Beleza,Condicionador,Nordeste,PB,Loja Física,2389.73,4,1
+2023-02-08 00:00:00,Eletrônicos,Tablet,Sudeste,ES,Loja Física,3860.42,6,4
+2023-05-17 00:00:00,Beleza,Condicionador,Sudeste,SP,Telefone,4631.71,5,2
+2023-09-09 00:00:00,Roupas,Vestido,Sul,RS,Online,2019.79,4,1
+2023-09-05 00:00:00,Alimentos,Feijão,Centro-Oeste,DF,Telefone,2568.47,7,1
+2023-11-19 00:00:00,Casa,Cama,Sul,SC,Aplicativo,297.94,7,3
+2023-12-12 00:00:00,Eletrônicos,Laptop,Sul,PR,Telefone,2873.47,2,4
+2023-04-24 00:00:00,Eletrônicos,Laptop,Nordeste,PB,Telefone,518.0,9,1
+2023-07-12 00:00:00,Eletrônicos,Laptop,Sul,PR,Online,2162.59,8,3
+2023-05-29 00:00:00,Alimentos,Açúcar,Nordeste,CE,Aplicativo,727.63,7,2
+2023-02-09 00:00:00,Beleza,Hidratante,Sudeste,MG,Loja Física,4445.55,2,4
+2023-04-19 00:00:00,Beleza,Shampoo,Centro-Oeste,MS,Aplicativo,173.72,9,3
+2023-11-20 00:00:00,Roupas,Vestido,Sul,PR,Aplicativo,484.31,8,5
+2023-06-13 00:00:00,Roupas,Jaqueta,Nordeste,MA,Aplicativo,2583.14,1,5
+2023-09-05 00:00:00,Casa,Armário,Sul,RS,Loja Física,2738.04,9,1
+2023-09-06 00:00:00,Casa,Armário,Norte,PA,Telefone,1138.37,6,5
+2023-11-13 00:00:00,Casa,Cadeira,Centro-Oeste,GO,Aplicativo,963.68,6,3
+2023-08-27 00:00:00,Eletrônicos,Smart TV,Sul,RS,Loja Física,1521.63,5,1
+2023-04-22 00:00:00,Alimentos,Óleo,Norte,RO,Aplicativo,4035.4,7,5
+2023-11-06 00:00:00,Beleza,Shampoo,Centro-Oeste,MT,Aplicativo,3771.61,2,1
+2023-05-19 00:00:00,Roupas,Camiseta,Norte,RR,Telefone,1489.83,9,3
+2023-12-23 00:00:00,Eletrônicos,Smartphone,Norte,RO,Telefone,4862.38,8,2
+2023-04-14 00:00:00,Alimentos,Arroz,Nordeste,PB,Loja Física,1729.57,2,3
+2023-06-18 00:00:00,Beleza,Shampoo,Sul,SC,Loja Física,3329.08,5,3
+2023-12-03 00:00:00,Eletrônicos,Fones de ouvido,Sul,RS,Telefone,2486.33,3,2
+2023-09-28 00:00:00,Casa,Cama,Nordeste,BA,Aplicativo,3913.03,3,2
+2023-10-16 00:00:00,Roupas,Jaqueta,Sudeste,ES,Aplicativo,2510.43,6,1
+2023-06-17 00:00:00,Alimentos,Café,Norte,AC,Aplicativo,2416.5,8,5
+2023-08-28 00:00:00,Alimentos,Óleo,Sudeste,ES,Aplicativo,4397.91,9,4
+2023-04-05 00:00:00,Casa,Cama,Nordeste,CE,Online,3985.44,7,3
+2023-04-24 00:00:00,Alimentos,Óleo,Nordeste,MA,Telefone,822.45,1,1
+2023-01-12 00:00:00,Beleza,Sabonete,Sul,RS,Telefone,3110.25,1,5
+2023-02-26 00:00:00,Casa,Armário,Centro-Oeste,DF,Loja Física,428.76,9,3
+2023-08-02 00:00:00,Beleza,Sabonete,Nordeste,MA,Online,3212.25,6,3
+2023-05-08 00:00:00,Beleza,Perfume,Sul,SC,Aplicativo,2165.77,9,2
+2023-03-03 00:00:00,Beleza,Condicionador,Norte,PA,Loja Física,2743.45,9,5
+2023-03-23 00:00:00,Roupas,Sapato,Norte,AM,Aplicativo,2603.32,7,3
+2023-09-23 00:00:00,Roupas,Camiseta,Centro-Oeste,MS,Loja Física,1444.43,6,2
+2023-10-22 00:00:00,Alimentos,Café,Sudeste,MG,Online,469.41,3,4
+2023-11-18 00:00:00,Beleza,Condicionador,Centro-Oeste,GO,Aplicativo,2822.66,9,1
+2023-12-18 00:00:00,Eletrônicos,Tablet,Sudeste,MG,Telefone,20.07,4,1
+2023-03-24 00:00:00,Roupas,Camiseta,Nordeste,PB,Aplicativo,1073.29,3,5
+2023-09-05 00:00:00,Casa,Mesa,Norte,AC,Telefone,3141.16,4,1
+2023-05-17 00:00:00,Casa,Cadeira,Norte,PA,Telefone,3631.37,6,1
+2023-11-26 00:00:00,Roupas,Vestido,Nordeste,CE,Telefone,3744.44,9,4
+2023-09-28 00:00:00,Casa,Armário,Centro-Oeste,DF,Aplicativo,55.18,8,4
+2023-09-30 00:00:00,Alimentos,Arroz,Norte,PA,Loja Física,3573.12,8,1
+2023-09-02 00:00:00,Casa,Sofá,Norte,AC,Aplicativo,1245.32,8,3
+2023-03-02 00:00:00,Roupas,Vestido,Nordeste,BA,Aplicativo,2978.07,7,2
+2023-12-04 00:00:00,Alimentos,Açúcar,Centro-Oeste,MT,Online,3935.98,3,2
+2023-12-24 00:00:00,Eletrônicos,Tablet,Centro-Oeste,GO,Loja Física,2143.2,6,3
+2023-12-11 00:00:00,Eletrônicos,Fones de ouvido,Sudeste,SP,Loja Física,4300.52,2,3
+2023-12-07 00:00:00,Roupas,Jaqueta,Nordeste,CE,Aplicativo,3530.25,8,4
+2023-04-24 00:00:00,Casa,Cadeira,Sul,RS,Telefone,2102.75,6,3
+2023-07-05 00:00:00,Eletrônicos,Smart TV,Sudeste,RJ,Telefone,2044.09,6,4
+2023-07-26 00:00:00,Eletrônicos,Tablet,Nordeste,BA,Online,4620.89,5,5
+2023-05-13 00:00:00,Eletrônicos,Laptop,Sudeste,SP,Loja Física,4409.64,4,3
+2023-10-18 00:00:00,Casa,Armário,Norte,RR,Telefone,1257.29,8,2
+2023-01-23 00:00:00,Eletrônicos,Smart TV,Sul,RS,Loja Física,4144.49,9,5
+2023-11-07 00:00:00,Beleza,Perfume,Nordeste,BA,Loja Física,1364.78,1,1
+2023-08-01 00:00:00,Beleza,Shampoo,Centro-Oeste,DF,Aplicativo,1750.96,9,5
+2023-03-28 00:00:00,Eletrônicos,Fones de ouvido,Centro-Oeste,GO,Online,76.12,9,5
+2023-08-27 00:00:00,Beleza,Hidratante,Sudeste,MG,Telefone,596.58,1,5
+2023-05-14 00:00:00,Casa,Mesa,Norte,AM,Loja Física,837.08,3,2
+2023-05-18 00:00:00,Casa,Cadeira,Sudeste,RJ,Online,1067.35,7,3
+2023-04-28 00:00:00,Casa,Cadeira,Sul,PR,Aplicativo,3771.79,1,3
+2023-07-14 00:00:00,Roupas,Calça,Norte,AC,Loja Física,1644.49,6,1
+2023-04-03 00:00:00,Beleza,Shampoo,Sul,PR,Online,2201.09,8,2
+2023-01-17 00:00:00,Beleza,Hidratante,Nordeste,BA,Aplicativo,1029.54,1,5
+2023-07-12 00:00:00,Eletrônicos,Smartphone,Centro-Oeste,DF,Aplicativo,2376.53,5,3
+2023-10-09 00:00:00,Casa,Sofá,Sudeste,SP,Telefone,3765.67,9,1
+2023-12-30 00:00:00,Alimentos,Arroz,Sul,RS,Aplicativo,4276.32,3,3
+2023-06-30 00:00:00,Eletrônicos,Laptop,Centro-Oeste,MS,Telefone,1047.7,8,4
+2023-08-27 00:00:00,Eletrônicos,Fones de ouvido,Sudeste,ES,Online,4908.72,2,2
+2023-11-29 00:00:00,Beleza,Perfume,Sul,RS,Loja Física,1612.6,3,3
+2023-07-01 00:00:00,Alimentos,Açúcar,Centro-Oeste,MS,Telefone,236.14,2,1
+2023-12-14 00:00:00,Casa,Mesa,Sul,RS,Telefone,341.65,8,1
+2023-09-07 00:00:00,Roupas,Jaqueta,Sul,SC,Aplicativo,3390.59,4,1
+2023-12-21 00:00:00,Beleza,Sabonete,Sudeste,SP,Aplicativo,857.71,9,4
+2023-08-03 00:00:00,Alimentos,Café,Nordeste,MA,Loja Física,2898.25,6,2
+2023-11-28 00:00:00,Roupas,Jaqueta,Sul,RS,Loja Física,1937.2,8,3
+2023-11-09 00:00:00,Beleza,Sabonete,Nordeste,MA,Loja Física,2540.23,1,2
+2023-01-02 00:00:00,Roupas,Sapato,Centro-Oeste,GO,Aplicativo,3300.96,1,1
+2023-08-27 00:00:00,Alimentos,Óleo,Sul,PR,Loja Física,1354.86,5,2
+2023-04-20 00:00:00,Beleza,Sabonete,Sudeste,MG,Loja Física,325.07,5,4
+2023-10-06 00:00:00,Casa,Mesa,Sul,PR,Telefone,1093.98,5,5
+2023-04-06 00:00:00,Alimentos,Café,Sudeste,ES,Loja Física,3337.57,6,1
+2023-02-25 00:00:00,Alimentos,Café,Sul,SC,Loja Física,4225.91,1,5
+2023-09-13 00:00:00,Alimentos,Açúcar,Sudeste,MG,Online,3743.44,3,5
+2023-12-13 00:00:00,Alimentos,Café,Sul,PR,Aplicativo,121.91,5,3
+2023-10-31 00:00:00,Beleza,Sabonete,Nordeste,BA,Telefone,1551.69,7,3
+2023-12-21 00:00:00,Alimentos,Café,Sul,PR,Loja Física,1959.06,4,5
+2023-01-29 00:00:00,Alimentos,Óleo,Nordeste,PE,Online,1952.26,4,3
+2023-12-09 00:00:00,Alimentos,Feijão,Sudeste,SP,Aplicativo,1066.06,3,5
+2023-09-25 00:00:00,Roupas,Sapato,Norte,PA,Telefone,4700.26,2,3
+2023-02-24 00:00:00,Roupas,Vestido,Sul,PR,Aplicativo,3457.51,9,1
+2023-07-01 00:00:00,Roupas,Vestido,Norte,RR,Online,904.99,6,2
+2023-07-28 00:00:00,Beleza,Condicionador,Sudeste,RJ,Telefone,134.58,8,4
+2023-08-10 00:00:00,Alimentos,Açúcar,Nordeste,PB,Online,2926.65,1,2
+2023-10-19 00:00:00,Roupas,Vestido,Sudeste,ES,Aplicativo,269.43,8,5
+2023-10-23 00:00:00,Roupas,Camiseta,Sudeste,ES,Aplicativo,4415.74,7,5
+2023-08-27 00:00:00,Alimentos,Café,Norte,RO,Aplicativo,159.83,1,1
+2023-09-21 00:00:00,Beleza,Perfume,Sudeste,MG,Online,4876.96,1,1
+2023-03-05 00:00:00,Roupas,Jaqueta,Centro-Oeste,GO,Aplicativo,3949.15,7,4
+2023-02-27 00:00:00,Roupas,Vestido,Sudeste,RJ,Loja Física,4712.49,4,5
+2023-03-25 00:00:00,Alimentos,Café,Norte,RR,Telefone,786.3,8,5
+2023-12-16 00:00:00,Casa,Mesa,Sudeste,SP,Telefone,3373.23,4,5
+2023-10-09 00:00:00,Casa,Mesa,Nordeste,CE,Telefone,3089.92,5,2
+2023-05-08 00:00:00,Alimentos,Açúcar,Sudeste,RJ,Aplicativo,420.54,7,2
+2023-11-09 00:00:00,Roupas,Jaqueta,Nordeste,BA,Loja Física,3627.78,2,3
+2023-04-16 00:00:00,Beleza,Shampoo,Norte,RR,Loja Física,983.88,2,5
+2023-07-27 00:00:00,Eletrônicos,Fones de ouvido,Sudeste,RJ,Aplicativo,3293.83,9,3
+2023-02-17 00:00:00,Roupas,Sapato,Centro-Oeste,DF,Telefone,638.75,1,1
+2023-08-17 00:00:00,Alimentos,Café,Norte,RR,Loja Física,4349.33,6,4
+2023-02-08 00:00:00,Eletrônicos,Smart TV,Centro-Oeste,GO,Aplicativo,2858.68,5,3
+2023-05-11 00:00:00,Beleza,Condicionador,Sul,SC,Telefone,2798.24,9,3
+2023-09-13 00:00:00,Alimentos,Açúcar,Norte,RO,Aplicativo,2870.38,5,4
+2023-12-11 00:00:00,Eletrônicos,Smart TV,Nordeste,MA,Aplicativo,2948.78,4,5
+2023-02-14 00:00:00,Roupas,Calça,Norte,RR,Telefone,3753.83,6,4
+2023-09-30 00:00:00,Roupas,Calça,Centro-Oeste,DF,Aplicativo,1464.39,8,3
+2023-04-21 00:00:00,Alimentos,Café,Sul,PR,Telefone,3805.27,7,2
+2023-09-03 00:00:00,Roupas,Camiseta,Sul,SC,Online,3543.53,2,5
+2023-06-20 00:00:00,Beleza,Hidratante,Norte,RO,Telefone,3353.46,4,2
+2023-12-30 00:00:00,Beleza,Perfume,Norte,AM,Telefone,4642.63,1,4
+2023-08-15 00:00:00,Alimentos,Feijão,Norte,RR,Online,3869.17,9,1
+2023-03-13 00:00:00,Alimentos,Açúcar,Norte,RO,Telefone,1007.21,3,3
+2023-04-13 00:00:00,Alimentos,Arroz,Norte,PA,Online,4283.9,8,2
+2023-04-12 00:00:00,Beleza,Hidratante,Centro-Oeste,GO,Telefone,3878.47,3,3
+2023-05-19 00:00:00,Eletrônicos,Smart TV,Centro-Oeste,GO,Aplicativo,217.08,7,4
+2023-09-30 00:00:00,Alimentos,Açúcar,Nordeste,PB,Aplicativo,2536.59,6,2
+2023-06-26 00:00:00,Alimentos,Açúcar,Nordeste,PB,Telefone,3393.79,1,1
+2023-08-16 00:00:00,Casa,Cadeira,Nordeste,MA,Aplicativo,719.85,8,3
+2023-10-11 00:00:00,Eletrônicos,Laptop,Nordeste,BA,Aplicativo,4924.38,8,2
+2023-05-17 00:00:00,Casa,Armário,Norte,PA,Aplicativo,1240.83,6,2
+2023-03-14 00:00:00,Roupas,Sapato,Nordeste,CE,Aplicativo,1478.39,3,2
+2023-10-10 00:00:00,Eletrônicos,Tablet,Sudeste,SP,Online,1254.8,2,2
+2023-12-06 00:00:00,Casa,Cama,Norte,AM,Loja Física,931.32,5,1
+2023-12-06 00:00:00,Eletrônicos,Fones de ouvido,Sul,SC,Online,2661.96,6,5
+2023-05-23 00:00:00,Roupas,Calça,Sudeste,MG,Loja Física,3164.87,8,1
+2023-03-11 00:00:00,Eletrônicos,Tablet,Sudeste,MG,Aplicativo,3296.72,2,5
+2023-08-15 00:00:00,Alimentos,Feijão,Nordeste,BA,Telefone,63.95,7,3
+2023-03-02 00:00:00,Beleza,Condicionador,Sul,PR,Aplicativo,1814.09,6,5
+2023-07-16 00:00:00,Eletrônicos,Tablet,Nordeste,BA,Telefone,171.89,7,2
+2023-07-24 00:00:00,Alimentos,Café,Sul,SC,Telefone,4918.0,9,2
+2023-07-03 00:00:00,Roupas,Sapato,Norte,RR,Online,2295.07,8,5
+2023-04-21 00:00:00,Eletrônicos,Smartphone,Norte,PA,Loja Física,4489.74,1,3
+2023-07-27 00:00:00,Eletrônicos,Smartphone,Nordeste,PB,Online,4174.61,6,3
+2023-01-14 00:00:00,Beleza,Hidratante,Centro-Oeste,DF,Online,1386.03,8,3
+2023-03-01 00:00:00,Beleza,Condicionador,Norte,AM,Loja Física,172.97,5,2
+2023-01-20 00:00:00,Alimentos,Feijão,Nordeste,MA,Online,4641.23,7,4
+2023-01-19 00:00:00,Alimentos,Açúcar,Centro-Oeste,DF,Aplicativo,1779.78,4,3
+2023-05-02 00:00:00,Casa,Armário,Sul,PR,Aplicativo,1284.13,1,3
+2023-10-15 00:00:00,Casa,Armário,Nordeste,PB,Telefone,1092.61,4,3
+2023-07-27 00:00:00,Casa,Cama,Sul,SC,Telefone,2596.2,2,3
+2023-09-03 00:00:00,Alimentos,Arroz,Sul,SC,Telefone,260.57,3,2
+2023-05-05 00:00:00,Eletrônicos,Tablet,Nordeste,PE,Loja Física,3390.42,7,4
+2023-04-08 00:00:00,Alimentos,Café,Sul,SC,Loja Física,4716.44,4,5
+2023-01-06 00:00:00,Roupas,Calça,Nordeste,BA,Online,4508.9,6,3
+2023-11-19 00:00:00,Roupas,Vestido,Centro-Oeste,DF,Telefone,4829.08,4,1
+2023-10-24 00:00:00,Alimentos,Café,Centro-Oeste,GO,Online,2007.06,7,3
+2023-09-08 00:00:00,Roupas,Vestido,Norte,RR,Telefone,3300.93,1,2
+2023-04-23 00:00:00,Alimentos,Arroz,Norte,PA,Aplicativo,4436.73,5,4
+2023-09-13 00:00:00,Eletrônicos,Fones de ouvido,Nordeste,PB,Telefone,2096.54,9,2
+2023-07-25 00:00:00,Roupas,Camiseta,Nordeste,BA,Online,3311.98,4,2
+2023-09-23 00:00:00,Alimentos,Óleo,Centro-Oeste,DF,Online,4741.78,7,1
+2023-03-05 00:00:00,Roupas,Sapato,Norte,PA,Loja Física,262.61,1,3
+2023-01-18 00:00:00,Alimentos,Café,Centro-Oeste,GO,Telefone,66.4,4,2
+2023-11-11 00:00:00,Alimentos,Óleo,Sudeste,ES,Online,4163.49,1,5
+2023-10-19 00:00:00,Beleza,Hidratante,Nordeste,MA,Telefone,262.29,5,2
+2023-03-12 00:00:00,Beleza,Perfume,Sudeste,SP,Online,3640.37,4,4
+2023-10-02 00:00:00,Beleza,Condicionador,Sul,PR,Aplicativo,4554.91,4,1
+2023-11-22 00:00:00,Casa,Mesa,Nordeste,PB,Loja Física,183.02,3,2
+2023-05-21 00:00:00,Alimentos,Café,Sudeste,RJ,Telefone,4479.49,4,1
+2023-08-19 00:00:00,Alimentos,Óleo,Sudeste,MG,Aplicativo,4132.06,9,4
+2023-02-19 00:00:00,Roupas,Jaqueta,Sudeste,MG,Loja Física,2680.41,6,2
+2023-11-20 00:00:00,Beleza,Perfume,Nordeste,PB,Loja Física,2228.2,7,4
+2023-05-27 00:00:00,Roupas,Vestido,Norte,AC,Online,3193.13,5,2
+2023-07-06 00:00:00,Casa,Mesa,Nordeste,PE,Telefone,3330.17,7,5
+2023-04-17 00:00:00,Eletrônicos,Tablet,Sul,RS,Loja Física,2622.77,1,1
+2023-12-14 00:00:00,Eletrônicos,Fones de ouvido,Sul,SC,Aplicativo,1272.6,8,4
+2023-04-18 00:00:00,Alimentos,Feijão,Centro-Oeste,MS,Loja Física,3372.46,3,4
+2023-07-14 00:00:00,Roupas,Vestido,Norte,PA,Online,3415.84,6,4
+2023-06-15 00:00:00,Casa,Sofá,Sul,SC,Telefone,4715.88,1,5
+2023-12-27 00:00:00,Roupas,Jaqueta,Sul,SC,Online,4248.74,9,2
+2023-06-09 00:00:00,Roupas,Camiseta,Nordeste,MA,Telefone,640.67,9,2
+2023-12-18 00:00:00,Eletrônicos,Laptop,Sudeste,MG,Telefone,3889.5,3,4
+2023-06-13 00:00:00,Alimentos,Feijão,Norte,PA,Online,4031.83,5,4
+2023-12-06 00:00:00,Beleza,Hidratante,Nordeste,PB,Loja Física,646.15,2,2
+2023-11-28 00:00:00,Casa,Armário,Sudeste,RJ,Loja Física,3926.0,4,1
+2023-04-06 00:00:00,Eletrônicos,Smart TV,Sudeste,ES,Loja Física,2910.17,7,5
+2023-05-03 00:00:00,Alimentos,Café,Sudeste,SP,Telefone,647.6,7,4
+2023-12-03 00:00:00,Beleza,Hidratante,Sudeste,SP,Online,2308.74,2,5
+2023-04-19 00:00:00,Alimentos,Açúcar,Centro-Oeste,GO,Aplicativo,4457.09,5,3
+2023-09-30 00:00:00,Casa,Cadeira,Sul,RS,Telefone,2833.07,9,5
+2023-11-22 00:00:00,Eletrônicos,Laptop,Sul,PR,Telefone,1136.38,8,1
+2023-07-31 00:00:00,Casa,Cadeira,Centro-Oeste,DF,Loja Física,4369.36,3,4
+2023-02-15 00:00:00,Alimentos,Arroz,Nordeste,PB,Aplicativo,1598.34,2,5
+2023-12-06 00:00:00,Beleza,Sabonete,Norte,RO,Telefone,650.35,4,5
+2023-10-03 00:00:00,Eletrônicos,Fones de ouvido,Centro-Oeste,GO,Aplicativo,3653.94,9,4
+2023-02-21 00:00:00,Beleza,Hidratante,Centro-Oeste,MT,Telefone,636.49,3,2
+2023-10-26 00:00:00,Beleza,Perfume,Norte,RR,Telefone,294.56,7,3
+2023-09-25 00:00:00,Alimentos,Feijão,Nordeste,CE,Aplicativo,217.48,3,4
+2023-08-18 00:00:00,Eletrônicos,Laptop,Sudeste,SP,Aplicativo,4051.52,4,3
+2023-12-25 00:00:00,Beleza,Perfume,Norte,RR,Loja Física,3854.53,3,5
+2023-02-15 00:00:00,Beleza,Shampoo,Sul,PR,Online,3513.52,9,4
+2023-04-28 00:00:00,Casa,Cadeira,Norte,PA,Aplicativo,1856.42,9,5
+2023-10-06 00:00:00,Roupas,Sapato,Centro-Oeste,MT,Online,1895.42,6,5
+2023-12-19 00:00:00,Casa,Cadeira,Sudeste,SP,Aplicativo,2264.18,4,5
+2023-06-22 00:00:00,Eletrônicos,Tablet,Nordeste,CE,Aplicativo,3085.98,6,4
+2023-11-16 00:00:00,Eletrônicos,Laptop,Norte,PA,Online,765.65,9,5
+2023-11-02 00:00:00,Alimentos,Açúcar,Norte,AM,Telefone,1964.79,2,4
+2023-05-12 00:00:00,Alimentos,Feijão,Sudeste,SP,Aplicativo,2980.2,9,5
+2023-10-18 00:00:00,Beleza,Sabonete,Sudeste,RJ,Telefone,405.61,9,2
+2023-06-05 00:00:00,Casa,Armário,Centro-Oeste,MT,Aplicativo,2169.53,4,5
+2023-01-17 00:00:00,Roupas,Camiseta,Sudeste,RJ,Loja Física,1581.9,2,4
+2023-09-25 00:00:00,Casa,Mesa,Nordeste,PB,Aplicativo,4704.99,1,2
+2023-12-12 00:00:00,Roupas,Jaqueta,Sudeste,ES,Telefone,2033.06,5,2
+2023-04-05 00:00:00,Beleza,Shampoo,Nordeste,BA,Loja Física,4050.28,6,3
+2023-09-03 00:00:00,Beleza,Perfume,Sul,PR,Aplicativo,669.58,2,4
+2023-06-21 00:00:00,Roupas,Vestido,Centro-Oeste,GO,Telefone,3763.12,1,4
+2023-04-05 00:00:00,Roupas,Vestido,Sudeste,MG,Loja Física,1329.71,2,5
+2023-01-22 00:00:00,Roupas,Sapato,Nordeste,BA,Aplicativo,2996.83,7,3
+2023-05-24 00:00:00,Casa,Cama,Centro-Oeste,MT,Online,2862.32,6,5
+2023-08-03 00:00:00,Beleza,Condicionador,Sul,RS,Loja Física,2719.56,7,5
+2023-05-03 00:00:00,Alimentos,Óleo,Nordeste,MA,Online,1939.67,6,4
+2023-04-21 00:00:00,Beleza,Hidratante,Centro-Oeste,MT,Telefone,1360.39,4,4
+2023-06-28 00:00:00,Beleza,Sabonete,Sul,RS,Telefone,2834.43,9,4
+2023-11-30 00:00:00,Beleza,Hidratante,Norte,PA,Online,4514.79,1,5
+2023-01-01 00:00:00,Roupas,Vestido,Norte,AM,Loja Física,857.74,1,4
+2023-06-03 00:00:00,Eletrônicos,Fones de ouvido,Norte,RO,Loja Física,3424.73,9,2
+2023-07-09 00:00:00,Beleza,Sabonete,Sudeste,RJ,Aplicativo,30.9,9,4
+2023-06-28 00:00:00,Alimentos,Arroz,Sudeste,ES,Online,120.87,9,2
+2023-11-19 00:00:00,Roupas,Jaqueta,Sul,PR,Online,264.36,2,2
+2023-03-07 00:00:00,Roupas,Jaqueta,Nordeste,MA,Aplicativo,2190.89,9,3
+2023-05-27 00:00:00,Alimentos,Café,Nordeste,PB,Telefone,2454.45,1,3
+2023-08-02 00:00:00,Alimentos,Feijão,Sudeste,MG,Telefone,2105.85,1,3
+2023-01-28 00:00:00,Alimentos,Açúcar,Sul,SC,Online,4786.41,3,2
+2023-05-07 00:00:00,Alimentos,Café,Sudeste,RJ,Loja Física,684.73,3,4
+2023-06-22 00:00:00,Casa,Armário,Nordeste,PB,Online,2051.33,6,3
+2023-03-05 00:00:00,Alimentos,Óleo,Sul,RS,Loja Física,2882.21,1,5
+2023-11-09 00:00:00,Alimentos,Café,Sudeste,RJ,Telefone,3713.93,8,3
+2023-06-19 00:00:00,Roupas,Sapato,Centro-Oeste,GO,Aplicativo,3477.82,9,5
+2023-03-31 00:00:00,Beleza,Hidratante,Norte,RR,Online,4560.68,1,4
+2023-01-25 00:00:00,Roupas,Calça,Norte,RO,Online,1220.47,6,5
+2023-03-16 00:00:00,Roupas,Vestido,Sul,RS,Online,466.2,2,1
+2023-12-10 00:00:00,Beleza,Sabonete,Norte,RR,Online,122.6,2,1
+2023-08-14 00:00:00,Beleza,Sabonete,Centro-Oeste,DF,Telefone,1485.78,9,1
+2023-02-11 00:00:00,Alimentos,Arroz,Nordeste,MA,Telefone,1241.82,2,1
+2023-02-14 00:00:00,Beleza,Condicionador,Norte,RO,Aplicativo,3618.13,9,4
+2023-10-01 00:00:00,Casa,Cama,Sul,PR,Aplicativo,79.17,8,1
+2023-04-19 00:00:00,Eletrônicos,Laptop,Sudeste,SP,Telefone,1670.58,9,4
+2023-03-10 00:00:00,Beleza,Perfume,Nordeste,PE,Online,4659.38,9,3
+2023-07-10 00:00:00,Eletrônicos,Smart TV,Centro-Oeste,MT,Online,699.25,4,5
+2023-09-25 00:00:00,Beleza,Condicionador,Sudeste,ES,Online,3802.43,2,4
+2023-10-06 00:00:00,Beleza,Hidratante,Nordeste,CE,Online,3831.63,9,2
+2023-10-03 00:00:00,Casa,Sofá,Sul,SC,Online,3649.26,7,4
+2023-04-16 00:00:00,Alimentos,Feijão,Centro-Oeste,GO,Aplicativo,3229.64,5,3
+2023-08-02 00:00:00,Alimentos,Açúcar,Centro-Oeste,GO,Aplicativo,4608.35,8,1
+2023-11-20 00:00:00,Eletrônicos,Fones de ouvido,Centro-Oeste,MT,Loja Física,922.24,6,4
+2023-01-07 00:00:00,Alimentos,Arroz,Norte,RO,Telefone,421.21,4,3
+2023-02-11 00:00:00,Eletrônicos,Smart TV,Sul,RS,Aplicativo,3927.57,4,1
+2023-01-06 00:00:00,Roupas,Jaqueta,Norte,AM,Loja Física,3232.17,3,2
+2023-10-11 00:00:00,Alimentos,Óleo,Sul,SC,Aplicativo,4762.41,5,3
+2023-11-24 00:00:00,Alimentos,Açúcar,Centro-Oeste,MT,Online,4932.95,8,4
+2023-02-04 00:00:00,Alimentos,Óleo,Sul,RS,Aplicativo,4797.77,6,4
+2023-03-28 00:00:00,Eletrônicos,Tablet,Centro-Oeste,GO,Online,3183.88,4,5
+2023-07-06 00:00:00,Eletrônicos,Tablet,Sul,RS,Telefone,4669.99,3,4
+2023-09-27 00:00:00,Beleza,Hidratante,Norte,RR,Telefone,704.84,2,2
+2023-07-25 00:00:00,Roupas,Vestido,Nordeste,MA,Aplicativo,1360.09,3,5
+2023-12-27 00:00:00,Roupas,Jaqueta,Sudeste,SP,Online,4879.14,9,5
+2023-04-08 00:00:00,Roupas,Jaqueta,Sul,PR,Loja Física,325.02,6,2
+2023-07-28 00:00:00,Beleza,Shampoo,Sul,PR,Online,3927.47,3,5
+2023-09-29 00:00:00,Roupas,Calça,Norte,RO,Online,1391.58,7,2
+2023-05-12 00:00:00,Beleza,Condicionador,Norte,AM,Online,1305.42,3,1
+2023-06-14 00:00:00,Eletrônicos,Smart TV,Nordeste,BA,Loja Física,11.13,4,2
+2023-06-06 00:00:00,Alimentos,Arroz,Nordeste,BA,Aplicativo,2158.37,8,4
+2023-09-17 00:00:00,Beleza,Condicionador,Centro-Oeste,MT,Aplicativo,3110.44,9,4
+2023-07-07 00:00:00,Roupas,Calça,Nordeste,BA,Online,415.01,6,5
+2023-04-23 00:00:00,Beleza,Sabonete,Sul,SC,Online,4308.61,7,3
+2023-10-13 00:00:00,Roupas,Calça,Nordeste,MA,Aplicativo,4042.26,2,2
+2023-09-20 00:00:00,Roupas,Camiseta,Sudeste,RJ,Online,4289.08,5,2
+2023-11-30 00:00:00,Eletrônicos,Tablet,Sudeste,RJ,Aplicativo,618.18,6,4
+2023-11-24 00:00:00,Eletrônicos,Smartphone,Norte,RO,Loja Física,2782.19,7,4
+2023-04-09 00:00:00,Beleza,Sabonete,Sudeste,RJ,Online,3689.68,2,1
+2023-01-31 00:00:00,Roupas,Calça,Norte,AM,Aplicativo,3917.98,6,3
+2023-02-25 00:00:00,Alimentos,Arroz,Sudeste,RJ,Aplicativo,3806.82,1,4
+2023-12-07 00:00:00,Beleza,Hidratante,Norte,RO,Online,1242.34,5,4
+2023-03-02 00:00:00,Roupas,Sapato,Norte,RR,Loja Física,2517.3,1,1
+2023-07-06 00:00:00,Casa,Armário,Sudeste,MG,Loja Física,1891.5,4,3
+2023-01-02 00:00:00,Roupas,Calça,Sul,PR,Online,4150.81,6,1
+2023-12-06 00:00:00,Eletrônicos,Smart TV,Nordeste,CE,Loja Física,1110.34,1,2
+2023-12-01 00:00:00,Casa,Cadeira,Nordeste,BA,Aplicativo,3500.99,7,3
+2023-07-04 00:00:00,Beleza,Hidratante,Nordeste,PE,Online,2545.63,6,5
+2023-06-03 00:00:00,Alimentos,Óleo,Sul,SC,Online,4690.94,7,3
+2023-11-10 00:00:00,Roupas,Vestido,Norte,AM,Online,1575.38,6,2
+2023-03-12 00:00:00,Roupas,Calça,Sudeste,SP,Loja Física,1216.77,1,2
+2023-04-25 00:00:00,Roupas,Vestido,Sudeste,ES,Telefone,3483.44,1,3
+2023-05-10 00:00:00,Casa,Mesa,Sul,RS,Online,3422.51,6,2
+2023-07-22 00:00:00,Roupas,Camiseta,Sul,RS,Online,1940.17,8,1
+2023-05-25 00:00:00,Beleza,Shampoo,Nordeste,BA,Telefone,625.0,9,4
+2023-12-03 00:00:00,Eletrônicos,Smart TV,Nordeste,PE,Aplicativo,1208.69,2,5
+2023-06-01 00:00:00,Roupas,Jaqueta,Norte,PA,Loja Física,839.48,5,5
+2023-03-23 00:00:00,Eletrônicos,Smartphone,Norte,AC,Aplicativo,29.15,4,3
+2023-04-18 00:00:00,Eletrônicos,Smart TV,Centro-Oeste,MT,Telefone,1142.62,3,2
+2023-01-26 00:00:00,Eletrônicos,Laptop,Nordeste,MA,Online,2229.81,5,3
+2023-10-25 00:00:00,Alimentos,Arroz,Sudeste,SP,Telefone,4060.92,3,3
+2023-02-18 00:00:00,Roupas,Vestido,Sudeste,ES,Online,3010.91,4,5
+2023-11-06 00:00:00,Eletrônicos,Smartphone,Norte,PA,Loja Física,3372.04,8,5
+2023-12-14 00:00:00,Casa,Sofá,Centro-Oeste,GO,Loja Física,2986.21,1,2
+2023-05-01 00:00:00,Beleza,Perfume,Centro-Oeste,MS,Telefone,3578.47,2,4
+2023-10-13 00:00:00,Eletrônicos,Fones de ouvido,Nordeste,MA,Online,3539.32,8,2
+2023-08-24 00:00:00,Roupas,Jaqueta,Sudeste,ES,Telefone,278.37,9,5
+2023-10-06 00:00:00,Eletrônicos,Fones de ouvido,Nordeste,MA,Telefone,3643.3,3,4
+2023-10-23 00:00:00,Roupas,Sapato,Centro-Oeste,GO,Telefone,3245.84,6,5
+2023-07-11 00:00:00,Casa,Mesa,Sudeste,ES,Aplicativo,3074.52,5,3
+2023-03-12 00:00:00,Alimentos,Açúcar,Centro-Oeste,DF,Aplicativo,430.48,7,3
+2023-03-10 00:00:00,Alimentos,Óleo,Nordeste,PB,Aplicativo,3947.22,9,3
+2023-04-03 00:00:00,Eletrônicos,Laptop,Sul,PR,Online,2803.13,8,2
+2023-02-04 00:00:00,Roupas,Sapato,Sudeste,MG,Loja Física,2665.79,1,1
+2023-08-11 00:00:00,Alimentos,Arroz,Sudeste,MG,Telefone,881.2,2,2
+2023-03-26 00:00:00,Eletrônicos,Fones de ouvido,Nordeste,PB,Aplicativo,4613.79,1,2
+2023-12-20 00:00:00,Beleza,Sabonete,Centro-Oeste,MT,Online,3016.32,9,2
+2023-01-08 00:00:00,Roupas,Vestido,Sudeste,SP,Telefone,995.8,4,4
+2023-12-28 00:00:00,Casa,Armário,Nordeste,PB,Loja Física,2795.27,2,4
+2023-08-04 00:00:00,Eletrônicos,Smartphone,Nordeste,PB,Telefone,1586.83,7,2
+2023-05-25 00:00:00,Alimentos,Feijão,Centro-Oeste,GO,Telefone,4862.58,8,5
+2023-02-26 00:00:00,Eletrônicos,Tablet,Nordeste,MA,Online,2289.52,9,4
+2023-02-01 00:00:00,Roupas,Calça,Norte,RO,Aplicativo,191.94,4,5
+2023-10-14 00:00:00,Eletrônicos,Smart TV,Nordeste,PE,Aplicativo,2114.35,2,4
+2023-10-18 00:00:00,Alimentos,Feijão,Sul,SC,Loja Física,1668.81,8,5
+2023-01-30 00:00:00,Casa,Armário,Nordeste,MA,Online,4831.71,4,1
+2023-01-13 00:00:00,Eletrônicos,Fones de ouvido,Nordeste,CE,Loja Física,2283.69,3,2
+2023-10-06 00:00:00,Alimentos,Arroz,Sudeste,ES,Loja Física,290.56,8,2
+2023-02-26 00:00:00,Beleza,Condicionador,Sul,RS,Online,1109.39,8,3
+2023-07-05 00:00:00,Roupas,Sapato,Nordeste,CE,Telefone,4818.79,5,4
+2023-09-15 00:00:00,Beleza,Condicionador,Nordeste,MA,Telefone,185.72,9,5
+2023-01-05 00:00:00,Alimentos,Feijão,Sudeste,SP,Online,665.13,2,2
+2023-09-05 00:00:00,Casa,Cadeira,Sudeste,SP,Loja Física,2376.05,5,5
+2023-12-07 00:00:00,Beleza,Hidratante,Norte,RO,Aplicativo,1053.4,7,3
+2023-05-24 00:00:00,Beleza,Perfume,Sul,SC,Online,53.8,5,1
+2023-08-08 00:00:00,Eletrônicos,Fones de ouvido,Sul,SC,Telefone,1945.98,8,3
+2023-07-16 00:00:00,Roupas,Calça,Sul,RS,Loja Física,2445.71,6,4
+2023-06-30 00:00:00,Eletrônicos,Smartphone,Sul,RS,Loja Física,171.93,6,5
+2023-08-09 00:00:00,Alimentos,Óleo,Nordeste,MA,Loja Física,4914.9,2,4
+2023-10-08 00:00:00,Casa,Mesa,Sudeste,SP,Aplicativo,3205.5,5,2
+2023-03-04 00:00:00,Eletrônicos,Laptop,Norte,RR,Online,3044.97,2,4
+2023-06-19 00:00:00,Casa,Cama,Sul,SC,Loja Física,1853.08,1,3
+2023-12-13 00:00:00,Alimentos,Feijão,Nordeste,BA,Loja Física,3327.05,6,4
+2023-02-28 00:00:00,Eletrônicos,Fones de ouvido,Nordeste,BA,Telefone,663.98,8,3
+2023-10-26 00:00:00,Roupas,Camiseta,Sudeste,RJ,Telefone,2685.42,4,4
+2023-07-14 00:00:00,Eletrônicos,Laptop,Norte,PA,Aplicativo,2140.02,7,5
+2023-11-08 00:00:00,Casa,Cama,Nordeste,PB,Telefone,282.51,5,5
+2023-05-25 00:00:00,Roupas,Jaqueta,Sul,RS,Loja Física,3079.17,4,4
+2023-11-04 00:00:00,Alimentos,Café,Sudeste,MG,Online,839.26,4,3
+2023-02-03 00:00:00,Roupas,Jaqueta,Nordeste,PE,Online,904.03,5,2
+2023-01-10 00:00:00,Alimentos,Açúcar,Centro-Oeste,DF,Telefone,631.99,1,5
+2023-01-30 00:00:00,Beleza,Shampoo,Norte,AM,Online,107.05,4,5
+2023-10-23 00:00:00,Alimentos,Óleo,Sudeste,RJ,Online,568.55,8,1
+2023-08-09 00:00:00,Alimentos,Arroz,Sudeste,RJ,Telefone,1952.15,6,1
+2023-03-12 00:00:00,Roupas,Vestido,Sul,RS,Telefone,4810.67,7,4
+2023-07-01 00:00:00,Eletrônicos,Fones de ouvido,Sul,PR,Loja Física,1628.4,9,5
+2023-01-19 00:00:00,Eletrônicos,Smartphone,Sul,RS,Loja Física,2896.92,9,3
+2023-06-02 00:00:00,Beleza,Hidratante,Sudeste,ES,Telefone,443.97,5,3
+2023-03-28 00:00:00,Eletrônicos,Smartphone,Sul,SC,Aplicativo,4742.36,7,2
+2023-02-11 00:00:00,Alimentos,Açúcar,Norte,AM,Aplicativo,1295.58,4,3
+2023-01-17 00:00:00,Beleza,Condicionador,Sul,SC,Aplicativo,1191.21,7,4
+2023-07-16 00:00:00,Casa,Cama,Sul,PR,Telefone,2723.5,5,2
+2023-02-26 00:00:00,Alimentos,Açúcar,Nordeste,BA,Loja Física,3863.04,3,1
+2023-05-09 00:00:00,Casa,Sofá,Sudeste,ES,Telefone,3972.13,6,3
+2023-07-30 00:00:00,Beleza,Perfume,Sudeste,SP,Online,1129.67,1,2
+2023-02-16 00:00:00,Alimentos,Óleo,Sudeste,RJ,Loja Física,4225.54,2,3
+2023-06-16 00:00:00,Eletrônicos,Smart TV,Nordeste,MA,Telefone,2919.7,2,4
+2023-02-07 00:00:00,Alimentos,Arroz,Centro-Oeste,DF,Loja Física,630.87,3,3
+2023-03-23 00:00:00,Beleza,Perfume,Sudeste,MG,Telefone,1621.72,2,3
+2023-07-25 00:00:00,Casa,Armário,Sudeste,MG,Telefone,703.46,7,1
+2023-12-17 00:00:00,Casa,Mesa,Sul,SC,Loja Física,1554.25,7,2
+2023-03-15 00:00:00,Casa,Mesa,Norte,RR,Aplicativo,3409.6,3,4
+2023-04-29 00:00:00,Roupas,Calça,Sul,SC,Aplicativo,1062.74,6,2
+2023-12-23 00:00:00,Roupas,Vestido,Centro-Oeste,GO,Loja Física,4767.0,3,5
+2023-11-28 00:00:00,Beleza,Shampoo,Sul,SC,Telefone,456.93,8,1
+2023-02-21 00:00:00,Alimentos,Café,Nordeste,BA,Aplicativo,2550.59,5,4
+2023-06-01 00:00:00,Alimentos,Óleo,Centro-Oeste,MS,Online,1523.38,6,3
+2023-02-25 00:00:00,Casa,Sofá,Sul,SC,Loja Física,72.86,6,1
+2023-08-20 00:00:00,Eletrônicos,Tablet,Norte,AM,Loja Física,59.04,4,2
+2023-11-04 00:00:00,Casa,Cadeira,Centro-Oeste,GO,Loja Física,1527.43,7,3
+2023-08-15 00:00:00,Casa,Mesa,Sudeste,ES,Online,3467.67,7,5
+2023-10-24 00:00:00,Eletrônicos,Smart TV,Sul,PR,Telefone,2295.24,9,5
+2023-02-04 00:00:00,Alimentos,Café,Nordeste,CE,Loja Física,4446.11,8,2
+2023-12-28 00:00:00,Casa,Mesa,Centro-Oeste,MS,Aplicativo,1171.96,7,5
+2023-03-07 00:00:00,Eletrônicos,Fones de ouvido,Norte,PA,Loja Física,2236.39,7,1
+2023-02-14 00:00:00,Alimentos,Café,Centro-Oeste,GO,Loja Física,1515.98,6,4
+2023-03-30 00:00:00,Casa,Sofá,Sul,PR,Online,3235.57,6,2
+2023-08-27 00:00:00,Beleza,Condicionador,Sul,PR,Loja Física,2500.94,2,1
+2023-01-16 00:00:00,Alimentos,Feijão,Sudeste,RJ,Loja Física,3338.01,5,4
+2023-06-30 00:00:00,Beleza,Perfume,Sul,RS,Loja Física,570.86,7,2
+2023-02-16 00:00:00,Beleza,Sabonete,Sul,RS,Telefone,3055.78,3,1
+2023-03-05 00:00:00,Beleza,Hidratante,Nordeste,CE,Aplicativo,4988.38,3,5
+2023-01-11 00:00:00,Eletrônicos,Laptop,Centro-Oeste,MT,Online,4183.53,6,2
+2023-04-01 00:00:00,Casa,Cadeira,Nordeste,CE,Online,2575.99,3,4
+2023-04-13 00:00:00,Eletrônicos,Smartphone,Centro-Oeste,GO,Telefone,209.34,3,2
+2023-07-29 00:00:00,Casa,Armário,Nordeste,PB,Online,2140.2,6,5
+2023-01-10 00:00:00,Roupas,Sapato,Sudeste,RJ,Online,339.62,6,1
+2023-08-06 00:00:00,Beleza,Hidratante,Sul,SC,Loja Física,1541.59,8,5
+2023-09-11 00:00:00,Alimentos,Arroz,Sul,RS,Telefone,3581.52,8,3
+2023-05-29 00:00:00,Roupas,Vestido,Nordeste,PE,Loja Física,2112.29,9,3
+2023-09-21 00:00:00,Eletrônicos,Smart TV,Sul,RS,Loja Física,4104.33,8,4
+2023-09-21 00:00:00,Roupas,Calça,Norte,AC,Telefone,2916.84,6,4
+2023-03-25 00:00:00,Beleza,Hidratante,Norte,AC,Telefone,2631.97,6,5
+2023-08-13 00:00:00,Eletrônicos,Smartphone,Norte,RO,Telefone,4833.13,3,1
+2023-08-08 00:00:00,Beleza,Hidratante,Nordeste,PE,Telefone,1426.15,2,1
+2023-03-14 00:00:00,Beleza,Sabonete,Norte,PA,Loja Física,928.67,6,5
+2023-03-08 00:00:00,Beleza,Condicionador,Sul,SC,Loja Física,3519.35,7,2
+2023-07-23 00:00:00,Beleza,Perfume,Sudeste,SP,Online,1577.67,1,5
+2023-04-26 00:00:00,Beleza,Shampoo,Centro-Oeste,GO,Aplicativo,887.69,6,4
+2023-10-28 00:00:00,Roupas,Jaqueta,Norte,PA,Aplicativo,4880.67,4,3
+2023-08-31 00:00:00,Eletrônicos,Laptop,Centro-Oeste,DF,Aplicativo,2472.1,4,3
+2023-11-21 00:00:00,Alimentos,Café,Nordeste,CE,Loja Física,4919.82,9,2
+2023-06-27 00:00:00,Alimentos,Óleo,Sudeste,MG,Online,4480.12,5,2
+2023-05-12 00:00:00,Casa,Mesa,Sul,PR,Online,2350.61,3,4
+2023-08-05 00:00:00,Roupas,Vestido,Norte,AC,Telefone,2123.18,8,3
+2023-04-19 00:00:00,Casa,Armário,Sul,PR,Loja Física,1776.78,9,2
+2023-01-22 00:00:00,Roupas,Jaqueta,Sudeste,ES,Telefone,3147.38,7,5
+2023-11-06 00:00:00,Roupas,Jaqueta,Norte,RR,Aplicativo,711.55,1,5
+2023-01-02 00:00:00,Casa,Cadeira,Norte,RO,Loja Física,3436.53,3,4
+2023-01-02 00:00:00,Alimentos,Arroz,Centro-Oeste,MT,Online,4087.36,4,4
+2023-01-29 00:00:00,Casa,Cadeira,Sul,PR,Loja Física,4681.52,1,5
+2023-10-28 00:00:00,Roupas,Camiseta,Norte,AM,Telefone,345.75,9,1
+2023-01-29 00:00:00,Beleza,Condicionador,Norte,PA,Online,3406.0,4,2
+2023-08-30 00:00:00,Eletrônicos,Smartphone,Sudeste,MG,Telefone,4677.77,3,3
+2023-04-24 00:00:00,Roupas,Jaqueta,Nordeste,PE,Loja Física,1355.45,9,1
+2023-07-15 00:00:00,Eletrônicos,Fones de ouvido,Sudeste,SP,Telefone,2519.35,5,5
+2023-02-14 00:00:00,Eletrônicos,Laptop,Norte,RO,Loja Física,1073.89,3,2
+2023-07-04 00:00:00,Beleza,Shampoo,Nordeste,PE,Loja Física,2100.46,4,1
+2023-06-28 00:00:00,Beleza,Perfume,Centro-Oeste,MT,Aplicativo,1414.57,6,1
+2023-06-21 00:00:00,Casa,Mesa,Nordeste,PB,Loja Física,2420.84,8,3
+2023-06-11 00:00:00,Beleza,Sabonete,Sul,RS,Loja Física,3178.3,8,5
+2023-07-17 00:00:00,Alimentos,Açúcar,Nordeste,BA,Loja Física,4069.91,4,2
+2023-01-11 00:00:00,Roupas,Calça,Nordeste,PB,Telefone,476.86,6,5
+2023-07-06 00:00:00,Roupas,Vestido,Sul,SC,Telefone,4411.06,9,3
+2023-10-03 00:00:00,Eletrônicos,Tablet,Sul,RS,Aplicativo,105.31,3,3
+2023-02-09 00:00:00,Roupas,Vestido,Centro-Oeste,MS,Loja Física,47.24,7,4
+2023-06-18 00:00:00,Eletrônicos,Tablet,Sul,RS,Online,1172.76,7,2
+2023-12-18 00:00:00,Casa,Armário,Nordeste,MA,Online,4151.4,5,5
+2023-06-10 00:00:00,Alimentos,Arroz,Centro-Oeste,GO,Loja Física,288.08,7,1
+2023-06-03 00:00:00,Eletrônicos,Smartphone,Nordeste,BA,Loja Física,4006.08,6,2
+2023-08-04 00:00:00,Roupas,Vestido,Norte,RR,Loja Física,417.58,6,2
+2023-05-20 00:00:00,Alimentos,Óleo,Nordeste,BA,Online,2298.94,5,3
+2023-01-09 00:00:00,Casa,Mesa,Norte,AC,Loja Física,3555.0,2,3
+2023-08-18 00:00:00,Alimentos,Feijão,Centro-Oeste,GO,Aplicativo,1434.17,1,3
+2023-11-19 00:00:00,Roupas,Camiseta,Sudeste,ES,Online,4822.8,9,4
+2023-05-09 00:00:00,Alimentos,Açúcar,Sul,SC,Telefone,402.35,2,5
+2023-06-22 00:00:00,Alimentos,Açúcar,Centro-Oeste,MT,Loja Física,1068.29,3,4
+2023-12-17 00:00:00,Roupas,Camiseta,Centro-Oeste,MS,Loja Física,527.15,3,2
+2023-06-01 00:00:00,Roupas,Vestido,Nordeste,PB,Aplicativo,3254.06,9,1
+2023-11-19 00:00:00,Roupas,Calça,Norte,AC,Online,587.64,6,4
+2023-12-22 00:00:00,Casa,Armário,Norte,RO,Telefone,1713.93,3,4
+2023-08-19 00:00:00,Casa,Mesa,Sul,PR,Online,4761.78,3,3
+2023-08-04 00:00:00,Eletrônicos,Smart TV,Centro-Oeste,MS,Telefone,232.49,7,1
+2023-05-10 00:00:00,Eletrônicos,Tablet,Centro-Oeste,GO,Aplicativo,3000.8,5,4
+2023-12-07 00:00:00,Beleza,Perfume,Sul,SC,Telefone,3425.33,2,1
+2023-01-26 00:00:00,Eletrônicos,Smartphone,Centro-Oeste,DF,Online,870.21,3,4
+2023-02-17 00:00:00,Eletrônicos,Smartphone,Centro-Oeste,MT,Telefone,3815.04,2,5
+2023-07-04 00:00:00,Alimentos,Açúcar,Sul,RS,Online,2280.23,6,1
+2023-07-19 00:00:00,Roupas,Sapato,Sudeste,ES,Loja Física,1310.77,7,1
+2023-09-13 00:00:00,Casa,Sofá,Nordeste,PE,Online,4804.54,2,4
+2023-11-15 00:00:00,Beleza,Shampoo,Nordeste,PE,Online,1931.68,4,2
+2023-03-01 00:00:00,Alimentos,Feijão,Nordeste,PB,Aplicativo,4267.35,1,1
+2023-06-02 00:00:00,Beleza,Shampoo,Norte,RO,Online,1800.05,4,3
+2023-06-30 00:00:00,Beleza,Condicionador,Norte,PA,Online,1673.17,6,1
+2023-01-19 00:00:00,Alimentos,Óleo,Sul,SC,Telefone,2791.63,8,5
+2023-01-11 00:00:00,Alimentos,Feijão,Sul,PR,Loja Física,1542.37,7,3
+2023-01-16 00:00:00,Casa,Cadeira,Norte,AC,Loja Física,1650.51,1,1
+2023-05-14 00:00:00,Alimentos,Açúcar,Norte,PA,Online,3549.39,6,3
+2023-04-13 00:00:00,Eletrônicos,Smartphone,Sul,SC,Online,3712.56,9,2
+2023-07-01 00:00:00,Roupas,Vestido,Sul,SC,Telefone,900.81,8,4
+2023-09-13 00:00:00,Roupas,Jaqueta,Centro-Oeste,DF,Aplicativo,4617.2,2,2
+2023-02-06 00:00:00,Roupas,Camiseta,Sudeste,MG,Telefone,199.87,6,2
+2023-03-27 00:00:00,Alimentos,Café,Sudeste,MG,Aplicativo,4997.31,1,4
+2023-03-28 00:00:00,Alimentos,Açúcar,Centro-Oeste,DF,Online,3783.99,2,3
+2023-12-30 00:00:00,Roupas,Sapato,Sudeste,ES,Loja Física,4666.63,7,3
+2023-03-31 00:00:00,Alimentos,Óleo,Sudeste,ES,Loja Física,550.92,5,2
+2023-02-19 00:00:00,Roupas,Vestido,Norte,RO,Aplicativo,2903.06,3,5
+2023-03-19 00:00:00,Casa,Cadeira,Norte,AC,Loja Física,3619.42,3,5
+2023-07-07 00:00:00,Casa,Cama,Nordeste,PB,Online,1280.77,8,1
+2023-05-01 00:00:00,Alimentos,Óleo,Sul,PR,Loja Física,1520.09,8,3
+2023-08-29 00:00:00,Eletrônicos,Tablet,Nordeste,CE,Telefone,862.36,2,2
+2023-12-03 00:00:00,Casa,Cama,Norte,RO,Telefone,686.78,2,5
+2023-10-07 00:00:00,Roupas,Vestido,Norte,PA,Telefone,477.23,8,4
+2023-07-18 00:00:00,Beleza,Condicionador,Centro-Oeste,GO,Loja Física,461.19,2,2
+2023-08-08 00:00:00,Roupas,Jaqueta,Sul,RS,Telefone,3866.47,1,2
+2023-10-13 00:00:00,Roupas,Camiseta,Sul,SC,Aplicativo,3539.07,7,4
+2023-02-22 00:00:00,Roupas,Sapato,Nordeste,PE,Telefone,1957.29,7,4
+2023-07-16 00:00:00,Alimentos,Açúcar,Nordeste,PE,Telefone,804.2,8,3
+2023-09-20 00:00:00,Beleza,Condicionador,Nordeste,CE,Loja Física,2506.45,3,2
+2023-02-10 00:00:00,Beleza,Condicionador,Norte,RR,Loja Física,439.82,3,3
+2023-04-14 00:00:00,Roupas,Sapato,Centro-Oeste,MT,Aplicativo,4588.83,1,2
+2023-12-05 00:00:00,Alimentos,Café,Norte,PA,Aplicativo,4516.11,6,3
+2023-09-08 00:00:00,Casa,Armário,Centro-Oeste,GO,Loja Física,4642.58,2,5
+2023-08-13 00:00:00,Roupas,Calça,Sudeste,MG,Telefone,1285.77,1,4
+2023-05-07 00:00:00,Beleza,Sabonete,Centro-Oeste,DF,Aplicativo,1925.9,8,5
+2023-09-30 00:00:00,Eletrônicos,Laptop,Nordeste,BA,Telefone,3725.54,2,5
+2023-11-06 00:00:00,Casa,Mesa,Norte,RO,Telefone,3363.54,8,2
+2023-10-29 00:00:00,Alimentos,Óleo,Centro-Oeste,DF,Loja Física,1917.99,6,5
+2023-08-07 00:00:00,Casa,Mesa,Sudeste,MG,Online,4444.32,4,5
+2023-01-09 00:00:00,Eletrônicos,Fones de ouvido,Norte,AC,Online,2890.16,5,5
+2023-09-23 00:00:00,Alimentos,Arroz,Sul,PR,Telefone,1803.52,8,2
+2023-08-21 00:00:00,Alimentos,Óleo,Sudeste,RJ,Online,1195.06,9,3
+2023-04-28 00:00:00,Casa,Armário,Nordeste,BA,Telefone,3814.6,8,3
+2023-11-29 00:00:00,Casa,Cadeira,Sudeste,ES,Telefone,4342.33,8,1
+2023-02-27 00:00:00,Beleza,Sabonete,Sudeste,MG,Telefone,752.56,7,2
+2023-03-03 00:00:00,Roupas,Camiseta,Norte,PA,Online,1562.86,7,4
+2023-12-11 00:00:00,Casa,Sofá,Nordeste,PB,Aplicativo,2282.77,8,1
+2023-10-03 00:00:00,Roupas,Sapato,Sul,PR,Aplicativo,4678.26,9,5
+2023-03-26 00:00:00,Beleza,Hidratante,Nordeste,CE,Loja Física,3006.67,9,3
+2023-04-09 00:00:00,Alimentos,Café,Sul,RS,Loja Física,2139.68,8,1
+2023-02-21 00:00:00,Alimentos,Arroz,Norte,PA,Telefone,1396.68,8,4
+2023-12-28 00:00:00,Beleza,Shampoo,Centro-Oeste,GO,Online,2919.51,1,3
+2023-06-15 00:00:00,Beleza,Hidratante,Norte,RR,Loja Física,1049.31,7,1
+2023-03-20 00:00:00,Eletrônicos,Laptop,Sudeste,ES,Online,3678.9,6,2
+2023-08-24 00:00:00,Alimentos,Açúcar,Centro-Oeste,GO,Loja Física,2937.87,9,5
+2023-07-29 00:00:00,Eletrônicos,Laptop,Sudeste,RJ,Aplicativo,4706.98,8,1
+2023-11-28 00:00:00,Beleza,Perfume,Centro-Oeste,MS,Online,1899.58,6,3
+2023-10-03 00:00:00,Alimentos,Café,Nordeste,PE,Aplicativo,3115.66,1,3
+2023-02-23 00:00:00,Casa,Mesa,Nordeste,PE,Online,173.95,7,1
+2023-07-08 00:00:00,Alimentos,Óleo,Sudeste,RJ,Online,1333.49,1,3
+2023-12-21 00:00:00,Casa,Mesa,Sul,RS,Aplicativo,1314.37,1,4
+2023-07-10 00:00:00,Roupas,Vestido,Centro-Oeste,DF,Loja Física,3253.26,4,5
+2023-05-25 00:00:00,Casa,Armário,Centro-Oeste,MT,Loja Física,1805.35,3,2
+2023-06-29 00:00:00,Alimentos,Arroz,Norte,RR,Online,1501.64,7,1
+2023-02-18 00:00:00,Casa,Armário,Sul,RS,Online,734.67,1,5
+2023-04-04 00:00:00,Eletrônicos,Laptop,Centro-Oeste,DF,Telefone,3295.41,4,4
+2023-08-08 00:00:00,Eletrônicos,Smart TV,Centro-Oeste,GO,Online,271.14,1,4
+2023-10-17 00:00:00,Alimentos,Café,Sul,RS,Loja Física,1054.99,9,3
+2023-02-03 00:00:00,Casa,Cadeira,Sul,SC,Online,942.67,5,1
+2023-05-04 00:00:00,Alimentos,Café,Sul,SC,Online,4509.14,8,5
+2023-01-26 00:00:00,Eletrônicos,Tablet,Centro-Oeste,DF,Aplicativo,2305.11,3,4
+2023-07-05 00:00:00,Eletrônicos,Smartphone,Sul,PR,Telefone,2599.92,9,1
+2023-08-13 00:00:00,Eletrônicos,Tablet,Nordeste,PE,Telefone,3753.86,1,5
+2023-12-23 00:00:00,Casa,Sofá,Sudeste,MG,Loja Física,139.22,1,5
+2023-11-05 00:00:00,Eletrônicos,Smart TV,Norte,PA,Aplicativo,3385.6,4,4
+2023-01-06 00:00:00,Casa,Armário,Sul,SC,Online,1712.34,7,4
+2023-06-10 00:00:00,Casa,Sofá,Sul,SC,Telefone,4129.76,8,4
+2023-08-08 00:00:00,Alimentos,Arroz,Centro-Oeste,DF,Loja Física,3700.42,2,1
+2023-04-01 00:00:00,Beleza,Shampoo,Sul,SC,Online,3954.66,8,3
+2023-08-27 00:00:00,Alimentos,Arroz,Centro-Oeste,MS,Aplicativo,596.33,1,1
+2023-12-07 00:00:00,Eletrônicos,Fones de ouvido,Centro-Oeste,DF,Online,2378.86,6,4
+2023-08-04 00:00:00,Casa,Cadeira,Centro-Oeste,GO,Online,1246.58,6,1
+2023-01-22 00:00:00,Eletrônicos,Smartphone,Sul,RS,Loja Física,1012.38,8,5
+2023-09-03 00:00:00,Alimentos,Feijão,Norte,RR,Loja Física,866.67,6,3
+2023-09-25 00:00:00,Roupas,Calça,Centro-Oeste,MS,Telefone,2751.14,2,1
+2023-11-10 00:00:00,Eletrônicos,Smart TV,Norte,PA,Telefone,3391.63,3,3
+2023-07-17 00:00:00,Alimentos,Óleo,Sul,SC,Loja Física,3431.71,2,2
+2023-03-12 00:00:00,Roupas,Calça,Sudeste,SP,Telefone,2150.31,4,2
+2023-02-12 00:00:00,Roupas,Calça,Sul,RS,Online,2865.7,1,3
+2023-08-01 00:00:00,Casa,Armário,Sul,RS,Telefone,3724.77,2,1
+2023-10-13 00:00:00,Eletrônicos,Fones de ouvido,Sul,RS,Telefone,4154.87,7,5
+2023-07-27 00:00:00,Beleza,Condicionador,Nordeste,BA,Online,3764.21,3,3
+2023-01-29 00:00:00,Beleza,Shampoo,Nordeste,PE,Telefone,3411.81,3,4
+2023-05-18 00:00:00,Alimentos,Feijão,Sudeste,MG,Loja Física,4018.03,3,1
+2023-02-25 00:00:00,Beleza,Condicionador,Nordeste,PE,Online,2860.35,7,4
+2023-04-01 00:00:00,Eletrônicos,Laptop,Norte,AM,Online,1343.15,3,4
+2023-06-17 00:00:00,Beleza,Perfume,Norte,AM,Telefone,3547.41,7,1
+2023-05-14 00:00:00,Alimentos,Café,Norte,RO,Online,4445.39,6,5
+2023-05-05 00:00:00,Eletrônicos,Laptop,Sul,PR,Online,4290.24,4,4
+2023-03-23 00:00:00,Alimentos,Arroz,Nordeste,MA,Online,2820.19,9,5
+2023-09-10 00:00:00,Alimentos,Feijão,Norte,PA,Aplicativo,3951.97,3,1
+2023-05-05 00:00:00,Roupas,Camiseta,Nordeste,PB,Online,379.63,3,1
+2023-11-21 00:00:00,Eletrônicos,Laptop,Norte,RR,Online,886.14,6,2
+2023-07-10 00:00:00,Eletrônicos,Fones de ouvido,Sul,PR,Online,807.15,6,5
+2023-10-14 00:00:00,Roupas,Camiseta,Sul,SC,Loja Física,2605.38,5,2
+2023-02-05 00:00:00,Beleza,Perfume,Sudeste,RJ,Telefone,832.01,3,2
+2023-04-11 00:00:00,Beleza,Condicionador,Nordeste,PE,Aplicativo,1781.53,7,5
+2023-03-06 00:00:00,Casa,Cama,Sul,SC,Aplicativo,4694.21,1,2
+2023-08-19 00:00:00,Beleza,Condicionador,Sudeste,SP,Online,1591.4,1,4
+2023-08-11 00:00:00,Beleza,Sabonete,Norte,AM,Loja Física,294.92,3,5
+2023-05-03 00:00:00,Eletrônicos,Smartphone,Nordeste,PB,Online,1589.18,5,1
+2023-01-20 00:00:00,Eletrônicos,Laptop,Sul,PR,Telefone,2682.0,9,3
+2023-09-22 00:00:00,Casa,Mesa,Nordeste,CE,Loja Física,4829.19,6,2
+2023-05-10 00:00:00,Roupas,Calça,Sudeste,SP,Online,1456.72,2,5
+2023-01-15 00:00:00,Beleza,Perfume,Nordeste,PB,Loja Física,1957.54,6,3
+2023-05-19 00:00:00,Beleza,Sabonete,Sudeste,ES,Online,2960.85,2,2
+2023-12-20 00:00:00,Roupas,Camiseta,Centro-Oeste,MT,Loja Física,1556.23,6,4
+2023-03-31 00:00:00,Eletrônicos,Tablet,Sul,RS,Online,545.16,9,3
+2023-05-08 00:00:00,Roupas,Camiseta,Centro-Oeste,MT,Loja Física,1177.27,4,5
+2023-08-05 00:00:00,Roupas,Calça,Norte,RR,Online,2520.33,5,2
+2023-11-11 00:00:00,Eletrônicos,Laptop,Nordeste,MA,Online,3838.49,9,2
+2023-05-12 00:00:00,Alimentos,Feijão,Centro-Oeste,GO,Loja Física,540.33,1,3
+2023-11-27 00:00:00,Beleza,Shampoo,Centro-Oeste,DF,Loja Física,4176.15,2,1
+2023-11-06 00:00:00,Roupas,Calça,Nordeste,PE,Loja Física,2413.13,3,4
+2023-05-16 00:00:00,Alimentos,Óleo,Sudeste,MG,Loja Física,1162.59,1,3
