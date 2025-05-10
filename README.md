@@ -1,5 +1,5 @@
 # Introdução à Análise de Dados com Pandas
-## Processo Seletivo - Etapa 2
+## Processo Seletivo LADS - Etapa 2
 
 ### Instruções:
 - Este notebook é um guia introdutório à análise de dados com Pandas
