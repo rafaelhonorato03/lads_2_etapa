@@ -1,1001 +1,1001 @@
 data,time,jogador,posicao,gols,assistencias,minutos_jogados,nota
-2025-01-24,São Paulo,Luana Moreira,Lateral,3,0,20,5.8
-2025-01-18,Atlético-MG,Isabel Almeida,Lateral,3,0,23,8.3
-2024-08-08,Palmeiras,Luan Barbosa,Volante,1,1,1,5.9
-2025-02-12,Flamengo,Thomas Macedo,Zagueiro,1,0,88,6.5
-2025-02-19,Corinthians,Alexandre Farias,Volante,3,0,2,9.3
-2025-02-11,Grêmio,Kaique Nunes,Zagueiro,3,0,59,7.8
-2024-07-03,Grêmio,Srta. Mariane Novaes,Volante,3,2,59,5.6
-2024-12-25,Cruzeiro,Srta. Rebeca Caldeira,Lateral,1,0,35,5.9
-2024-12-01,Palmeiras,Srta. Zoe Lopes,Atacante,1,1,62,9.2
-2025-02-03,Palmeiras,Maria Isis Gonçalves,Atacante,3,1,47,6.6
-2024-11-20,Atlético-MG,João Guilherme Vieira,Meia,3,0,81,7.7
-2024-06-11,Santos,Sra. Camila Silveira,Volante,0,0,28,9.0
-2024-06-29,Santos,Asafe Barros,Goleiro,3,0,7,5.0
-2024-07-05,Corinthians,Antonella Novaes,Lateral,2,0,4,9.6
-2025-03-26,Atlético-MG,Kaique Nunes,Volante,1,0,47,6.9
-2024-07-07,Cruzeiro,Dr. Benicio Pereira,Lateral,3,1,90,7.8
-2024-12-22,Grêmio,Srta. Rebeca Caldeira,Atacante,2,0,4,7.8
-2024-12-26,Atlético-MG,Emanuel Peixoto,Goleiro,2,2,89,5.1
-2024-10-07,Corinthians,Bernardo das Neves,Goleiro,3,0,3,9.5
-2025-05-11,Atlético-MG,Luna Marques,Lateral,0,0,31,8.0
-2024-07-01,Internacional,Ana Luiza Mendes,Zagueiro,1,0,61,8.2
-2024-05-19,São Paulo,Srta. Sabrina Brito,Atacante,2,1,88,6.6
-2024-08-07,Flamengo,Emanuel Peixoto,Atacante,0,0,2,5.0
-2024-09-15,Santos,João Guilherme Vieira,Meia,0,2,43,6.2
-2025-05-04,Internacional,Olívia Macedo,Goleiro,3,0,61,9.9
-2025-02-12,Atlético-MG,Srta. Mariane Novaes,Lateral,0,0,55,5.2
-2024-10-07,Palmeiras,Srta. Mariane Novaes,Volante,1,2,0,6.2
-2025-04-07,Grêmio,Ana Laura da Cunha,Zagueiro,3,1,31,8.0
-2024-05-23,Cruzeiro,Alana Jesus,Atacante,3,0,69,7.0
-2024-09-29,Flamengo,Kaique Nunes,Volante,2,1,79,5.2
-2024-10-03,São Paulo,Eloah Machado,Zagueiro,2,2,18,6.7
-2024-11-25,São Paulo,Melissa Nascimento,Zagueiro,3,0,10,6.7
-2024-09-26,Palmeiras,Sra. Olívia Macedo,Atacante,1,2,6,8.3
-2024-06-17,Santos,Sra. Camila Silveira,Goleiro,1,0,47,9.8
-2025-01-14,Grêmio,Olívia Macedo,Lateral,2,0,18,8.6
-2024-06-23,São Paulo,Dra. Antonella Cirino,Atacante,3,0,23,9.3
-2024-07-04,Cruzeiro,Henry Siqueira,Atacante,3,1,88,8.3
-2024-12-26,Palmeiras,Heloisa Aragão,Zagueiro,1,2,79,10.0
-2025-01-27,Flamengo,Helena da Conceição,Goleiro,1,0,47,8.7
-2025-03-26,Cruzeiro,Sophia Pastor,Lateral,0,0,47,5.5
-2024-07-13,Internacional,Davi Miguel Sampaio,Atacante,1,1,50,9.5
-2025-02-26,Palmeiras,Enrico da Mota,Atacante,0,2,63,9.3
-2024-05-13,Corinthians,Maria Clara Machado,Lateral,3,0,16,10.0
-2025-04-04,Grêmio,Srta. Zoe Lopes,Lateral,3,0,36,9.6
-2025-05-06,Grêmio,Ana Laura Borges,Lateral,3,0,62,6.5
-2024-08-25,Atlético-MG,Melissa Nascimento,Lateral,3,1,24,7.0
-2024-12-29,Corinthians,Evelyn Câmara,Zagueiro,3,2,85,6.8
-2025-05-11,Palmeiras,Heitor da Luz,Goleiro,3,0,8,8.5
-2024-08-29,Atlético-MG,Luana Moreira,Zagueiro,2,1,49,9.3
-2025-03-03,Atlético-MG,Nicolas Almeida,Volante,0,0,7,8.5
-2024-09-12,Corinthians,Ana Júlia Caldeira,Volante,1,1,31,7.9
-2025-01-09,Corinthians,Daniel Macedo,Zagueiro,2,1,21,8.0
-2025-04-30,Flamengo,Arthur da Mata,Zagueiro,1,2,53,7.7
-2024-09-30,Flamengo,Dr. Gustavo Henrique Pastor,Meia,3,0,67,9.2
-2024-11-04,São Paulo,Aylla Mendonça,Lateral,2,0,29,5.2
-2024-05-21,Corinthians,Pietro da Rocha,Zagueiro,2,1,89,9.8
-2024-12-10,Santos,Arthur Gabriel Machado,Meia,0,1,0,7.2
-2024-12-21,Internacional,Gustavo Vasconcelos,Goleiro,3,0,0,9.8
-2024-06-18,Grêmio,Davi Miguel Sampaio,Meia,2,2,75,7.8
-2025-03-22,Grêmio,Lucca Cirino,Goleiro,0,1,68,5.5
-2024-11-28,São Paulo,Vinícius Farias,Volante,3,1,89,7.5
-2024-08-22,São Paulo,Melissa Nascimento,Atacante,1,0,22,5.2
-2025-03-27,Grêmio,Matheus da Cunha,Zagueiro,3,2,9,8.1
-2024-10-27,Flamengo,Vinícius Farias,Meia,3,2,1,5.1
-2025-03-26,São Paulo,Dra. Antonella Cirino,Volante,1,2,32,7.3
-2025-04-15,Grêmio,Arthur Gabriel Machado,Lateral,0,0,39,9.5
-2025-02-03,Palmeiras,Sophie Viana,Goleiro,1,0,25,8.4
-2025-02-05,Corinthians,Sophia Pastor,Volante,1,0,74,9.4
-2024-08-01,Santos,Enrico da Mota,Meia,0,1,72,7.8
-2024-12-22,Flamengo,Antony Azevedo,Volante,1,0,23,9.3
-2024-12-26,Grêmio,Arthur Gabriel Machado,Goleiro,2,0,22,8.8
-2024-07-04,Flamengo,João Guilherme Vieira,Volante,3,0,85,6.5
-2024-07-19,Flamengo,Matheus da Cunha,Volante,0,0,18,5.5
-2025-03-16,São Paulo,Hadassa Sousa,Zagueiro,2,0,68,6.5
-2025-01-30,São Paulo,Diogo Moraes,Volante,0,2,15,8.9
-2024-05-14,Grêmio,Laura Fonseca,Zagueiro,2,1,4,8.7
-2025-01-10,Palmeiras,Thomas Macedo,Goleiro,1,1,16,5.5
-2024-12-27,Cruzeiro,Laura Fonseca,Goleiro,1,2,65,5.4
-2024-08-07,Internacional,Hadassa Sousa,Meia,0,1,16,9.7
-2024-11-07,São Paulo,Henry Siqueira,Atacante,3,2,18,8.9
-2025-03-02,Atlético-MG,Camila da Costa,Zagueiro,1,2,38,7.2
-2024-07-26,Palmeiras,Pietro da Rocha,Atacante,1,0,38,8.7
-2025-02-27,Santos,Bernardo das Neves,Volante,0,0,55,7.6
-2024-05-17,Internacional,Sr. Ryan Porto,Volante,0,0,60,6.6
-2024-08-28,Internacional,Diogo Moraes,Lateral,3,0,35,7.8
-2024-09-17,Santos,Sra. Stephany Melo,Goleiro,0,1,14,7.3
-2025-04-25,Internacional,Gustavo Henrique Moreira,Goleiro,2,1,15,9.5
-2025-05-07,Cruzeiro,Ana Luiza Mendes,Meia,3,1,35,7.3
-2024-11-17,Palmeiras,Ana Luiza Mendes,Volante,0,0,63,7.3
-2025-02-11,Flamengo,Kaique Nunes,Goleiro,0,0,28,5.7
-2025-01-12,Internacional,Heloisa Aragão,Lateral,3,0,46,9.6
-2024-05-13,Cruzeiro,Srta. Sabrina Brito,Zagueiro,2,0,4,5.1
-2025-02-28,Internacional,Thiago Almeida,Zagueiro,3,2,48,6.9
-2025-01-26,Santos,Lucca Cirino,Lateral,2,0,76,5.3
-2025-04-26,Corinthians,Luigi Moraes,Meia,3,2,5,8.5
-2024-12-10,Grêmio,Gustavo Henrique Moreira,Meia,2,0,52,9.7
-2024-06-29,Corinthians,Alana Jesus,Meia,1,0,0,9.8
-2025-04-01,São Paulo,João Guilherme Vieira,Goleiro,0,1,71,5.1
-2024-07-03,Palmeiras,Rebeca da Mata,Atacante,2,2,49,9.3
-2024-12-15,Grêmio,Aylla Mendonça,Atacante,2,0,16,5.7
-2024-08-31,Atlético-MG,Sra. Gabriela Monteiro,Meia,0,1,65,9.0
-2025-01-24,Internacional,João Vitor da Luz,Volante,1,1,49,7.9
-2024-10-31,Corinthians,Bernardo das Neves,Zagueiro,3,0,37,7.3
-2024-07-10,Atlético-MG,Ian Pacheco,Goleiro,0,0,3,7.3
-2024-09-01,Flamengo,Valentim Mendes,Meia,1,1,52,6.7
-2024-09-22,Corinthians,Sra. Olívia Macedo,Lateral,1,0,66,9.4
-2024-09-12,Palmeiras,Valentina Camargo,Zagueiro,2,2,20,5.8
-2024-06-19,Internacional,Enrico da Mota,Atacante,0,0,11,6.0
-2024-11-25,Flamengo,Diego Freitas,Zagueiro,0,2,72,5.5
-2024-12-12,Santos,Lucca Cirino,Atacante,2,2,47,5.3
-2025-05-13,São Paulo,Luigi Moraes,Goleiro,2,0,51,6.0
-2025-05-11,Cruzeiro,Lucca Cirino,Atacante,1,2,77,7.3
-2025-03-25,Cruzeiro,Sophia Pastor,Lateral,2,2,17,7.2
-2024-12-22,Corinthians,Luna Marques,Goleiro,2,0,27,5.1
-2024-12-22,Flamengo,Lucca Cirino,Zagueiro,1,0,16,6.7
-2025-01-30,São Paulo,Lucas Silva,Lateral,0,0,17,5.4
-2024-09-08,Internacional,Ana Vitória Sá,Goleiro,3,2,41,6.4
-2024-08-20,São Paulo,André Oliveira,Zagueiro,2,2,69,8.0
-2025-05-13,Grêmio,Davi Miguel Sampaio,Meia,1,1,3,9.3
-2024-11-18,Cruzeiro,Alexandre Farias,Goleiro,2,2,30,7.1
-2024-05-27,Cruzeiro,Ana Laura Borges,Atacante,1,2,3,5.0
-2024-08-21,Flamengo,Aylla Mendonça,Atacante,2,1,56,8.6
-2024-11-15,Cruzeiro,André Oliveira,Lateral,0,0,69,9.8
-2025-02-22,Corinthians,Valentim Mendes,Goleiro,3,0,11,5.6
-2024-10-27,Internacional,Dr. Benicio Pereira,Atacante,2,2,76,7.7
-2024-06-20,Internacional,Marina Câmara,Zagueiro,0,2,9,9.9
-2024-06-21,Cruzeiro,Srta. Mariane Novaes,Volante,0,2,72,8.8
-2024-10-18,Cruzeiro,Sr. Leandro Guerra,Lateral,1,2,48,9.3
-2024-07-09,Palmeiras,Diego Freitas,Meia,3,2,8,6.0
-2025-02-17,Corinthians,Luigi Moraes,Atacante,3,0,71,9.1
-2025-05-11,Corinthians,Diogo Moraes,Meia,0,2,77,7.6
-2024-09-29,Santos,Laura Fonseca,Goleiro,1,2,13,9.5
-2025-03-15,Internacional,Ayla Mendes,Goleiro,0,0,65,7.7
-2024-07-09,Cruzeiro,Ian Pacheco,Lateral,1,1,66,8.1
-2024-08-11,São Paulo,Luna Marques,Meia,0,1,26,8.9
-2025-04-03,Santos,Ayla Mendes,Meia,0,2,54,5.7
-2024-09-17,Internacional,Alícia Barbosa,Zagueiro,0,2,73,6.7
-2024-12-09,São Paulo,Luan Barbosa,Volante,3,2,28,7.7
-2024-08-23,São Paulo,Thomas Macedo,Meia,1,2,35,7.7
-2024-06-26,Grêmio,Ana Carolina Ramos,Lateral,1,1,37,6.1
-2024-12-04,Cruzeiro,João Guilherme Vieira,Zagueiro,0,0,59,8.0
-2024-12-29,São Paulo,Anthony Gabriel Costela,Meia,3,2,30,8.0
-2024-07-01,Cruzeiro,Mathias Sá,Atacante,2,2,0,5.6
-2024-05-21,São Paulo,Rebeca da Mata,Goleiro,0,2,53,7.6
-2024-07-31,Grêmio,Srta. Rebeca Caldeira,Goleiro,0,0,73,9.0
-2024-05-17,Santos,Sophie Viana,Volante,0,1,74,9.6
-2024-09-03,Palmeiras,Camila da Costa,Zagueiro,2,0,42,5.2
-2024-08-12,Corinthians,Rebeca da Mata,Goleiro,2,1,87,6.6
-2024-07-21,Internacional,André Oliveira,Volante,1,0,48,5.9
-2025-04-10,Santos,Isabelly Costa,Volante,1,1,62,10.0
-2024-11-29,Atlético-MG,Luigi Moraes,Meia,1,2,50,6.0
-2025-04-17,Flamengo,Bella Freitas,Meia,1,2,17,6.5
-2024-07-25,Palmeiras,Alícia Barbosa,Atacante,3,0,37,8.8
-2025-05-01,Flamengo,Dr. Gustavo Henrique Pastor,Meia,2,2,2,6.9
-2024-06-29,Corinthians,Ana Vitória Sá,Volante,0,2,54,5.8
-2024-07-04,Atlético-MG,Luana Moreira,Goleiro,0,2,66,6.2
-2024-09-20,Cruzeiro,Rebeca da Mata,Goleiro,2,0,66,9.4
-2024-06-19,Cruzeiro,Ana Vitória Sá,Lateral,3,1,31,9.3
-2024-10-14,São Paulo,Dr. Benicio Pereira,Atacante,0,1,54,9.5
-2025-01-09,Atlético-MG,Melissa Nascimento,Meia,2,0,18,7.9
-2025-01-14,Palmeiras,Srta. Mariane Novaes,Goleiro,2,0,19,6.7
-2024-12-31,Corinthians,Ana Júlia Caldeira,Volante,3,0,36,7.0
-2024-12-07,Santos,Dr. Lucas Gabriel Moura,Meia,3,2,85,8.9
-2025-04-04,Cruzeiro,Isabela Santos,Atacante,2,0,80,6.3
-2024-12-17,Palmeiras,Daniel Macedo,Goleiro,1,1,3,5.7
-2024-10-09,Palmeiras,Ana Júlia Caldeira,Meia,2,1,17,7.6
-2025-01-24,São Paulo,Mathias Sá,Atacante,1,0,36,8.3
-2025-01-11,Atlético-MG,Lucca Cirino,Meia,2,0,30,9.4
-2025-03-20,Palmeiras,Arthur Gabriel Machado,Meia,0,0,70,7.9
-2024-09-01,Grêmio,Pietro da Rocha,Atacante,1,1,63,6.8
-2024-08-04,Flamengo,Ian Pacheco,Meia,3,2,25,5.3
-2024-06-20,Cruzeiro,Esther Marques,Volante,0,2,38,8.1
-2024-06-04,Palmeiras,Alexandre Farias,Atacante,1,0,55,6.1
-2024-05-27,São Paulo,Hadassa Sousa,Lateral,3,2,80,7.5
-2025-03-25,Palmeiras,Kaique Nunes,Zagueiro,1,0,72,5.4
-2025-03-16,Flamengo,Sr. Diego Dias,Meia,2,1,24,6.2
-2024-06-23,Palmeiras,Ana Laura da Cunha,Lateral,1,1,11,6.8
-2024-11-27,Flamengo,Valentina Camargo,Goleiro,1,0,54,7.6
-2025-04-09,Cruzeiro,Hadassa Sousa,Meia,0,2,79,9.2
-2024-09-04,Palmeiras,Sr. Diego Dias,Volante,2,2,25,5.3
-2025-03-20,Atlético-MG,Alana Jesus,Zagueiro,0,1,6,5.2
-2025-01-05,Atlético-MG,Zoe Novaes,Lateral,3,1,58,9.7
-2024-11-06,São Paulo,Fernando Costela,Lateral,1,2,16,8.3
-2024-06-08,Corinthians,Sra. Camila Silveira,Meia,1,2,36,7.7
-2024-09-16,Atlético-MG,Ana Júlia Caldeira,Volante,2,2,3,9.0
-2025-04-23,Palmeiras,Melissa Nascimento,Meia,1,1,65,5.1
-2025-03-28,Palmeiras,Srta. Sabrina Brito,Lateral,2,0,12,6.9
-2024-10-19,Corinthians,Fernando Costela,Atacante,3,0,61,5.4
-2024-05-16,Grêmio,Nicolas Almeida,Volante,2,0,9,5.5
-2024-12-01,São Paulo,Anthony Gabriel Costela,Goleiro,1,0,2,7.3
-2025-02-08,Palmeiras,Helena da Conceição,Zagueiro,1,0,24,6.4
-2025-02-18,Santos,Luna Marques,Goleiro,0,2,36,8.9
-2024-10-23,Internacional,Fernando Costela,Atacante,3,2,61,8.1
-2025-01-29,Atlético-MG,Arthur da Mata,Volante,2,0,62,6.2
-2024-07-01,Palmeiras,Nicolas Almeida,Zagueiro,0,0,2,9.1
-2024-06-22,Grêmio,Rebeca da Mata,Goleiro,0,2,19,10.0
-2024-11-07,Corinthians,Marina Câmara,Zagueiro,1,0,87,9.5
-2024-12-22,Internacional,Ana Beatriz das Neves,Meia,2,0,72,9.5
-2024-06-26,Palmeiras,Esther Marques,Goleiro,3,2,28,9.4
-2025-04-23,Palmeiras,Thomas Macedo,Zagueiro,0,2,39,9.7
-2025-03-30,Palmeiras,Luan Barbosa,Volante,2,1,71,8.5
-2024-08-29,Palmeiras,Rodrigo Costela,Meia,3,0,27,5.4
-2025-04-04,Palmeiras,Ágatha Câmara,Meia,3,1,57,7.9
-2025-01-02,Palmeiras,Ágatha Câmara,Lateral,0,0,32,9.4
-2025-04-13,Cruzeiro,Pietro da Rocha,Goleiro,2,2,47,8.5
-2025-04-08,Santos,Maria Vitória Pereira,Zagueiro,3,2,26,8.8
-2025-01-09,Grêmio,Bella Freitas,Zagueiro,0,2,30,9.1
-2025-01-26,Grêmio,Srta. Sabrina Brito,Zagueiro,3,1,77,8.8
-2025-02-25,Atlético-MG,Alícia Barbosa,Meia,1,2,16,5.6
-2024-09-19,Cruzeiro,Sophie Viana,Atacante,2,1,70,7.7
-2025-01-29,Palmeiras,Bernardo das Neves,Volante,3,2,36,5.5
-2024-09-17,São Paulo,Maria Júlia Rodrigues,Volante,1,2,63,8.5
-2024-10-31,Flamengo,Lucas Silva,Atacante,0,1,89,5.4
-2024-05-20,Palmeiras,Laís Leão,Meia,3,2,51,8.8
-2025-01-09,Flamengo,Srta. Zoe Lopes,Lateral,2,1,86,7.2
-2024-09-03,Palmeiras,Elisa Costa,Volante,0,2,12,9.3
-2025-05-04,Atlético-MG,Elisa Costa,Meia,2,1,46,8.4
-2025-01-14,Corinthians,Antonella Novaes,Atacante,3,0,20,9.5
-2025-04-07,São Paulo,Srta. Zoe Lopes,Lateral,0,0,2,6.6
-2025-02-27,Internacional,Luna Marques,Zagueiro,0,2,63,9.3
-2024-06-11,Palmeiras,Luna Marques,Volante,3,2,71,5.8
-2024-06-02,Flamengo,Luana Moreira,Meia,3,2,26,9.2
-2025-05-13,Corinthians,Luana Moreira,Volante,0,1,2,5.9
-2024-10-09,Santos,Aylla Mendonça,Atacante,2,0,83,7.2
-2025-03-25,Santos,Sra. Camila Silveira,Atacante,1,0,1,9.0
-2025-03-30,Flamengo,Lucas Gabriel Albuquerque,Meia,1,1,63,7.0
-2025-03-31,Internacional,Olívia Macedo,Lateral,0,0,32,9.8
-2024-10-10,Cruzeiro,Esther Marques,Atacante,2,0,16,5.5
-2025-04-18,Internacional,Lucca Cirino,Volante,3,0,73,8.9
-2024-12-20,Flamengo,Srta. Mariane Novaes,Goleiro,0,0,76,5.4
-2025-02-04,São Paulo,André Oliveira,Atacante,2,1,37,7.8
-2025-04-15,Palmeiras,Luna Marques,Zagueiro,1,2,43,5.5
-2024-10-18,Corinthians,Srta. Zoe Lopes,Goleiro,1,0,31,6.5
-2024-07-25,Cruzeiro,Lucas Gabriel Albuquerque,Zagueiro,3,1,83,6.7
-2024-08-17,Atlético-MG,Isabel Almeida,Volante,3,1,57,8.9
-2024-07-10,Corinthians,Mathias Sá,Volante,1,1,74,8.6
-2025-04-09,Atlético-MG,Arthur Gabriel Machado,Meia,0,0,18,9.9
-2024-12-29,Cruzeiro,Luana Moreira,Meia,2,2,43,7.8
-2025-04-19,Corinthians,Davi Miguel Sampaio,Meia,3,0,58,8.3
-2024-10-07,Corinthians,Sophie Viana,Meia,0,1,62,6.0
-2024-09-03,Flamengo,Aylla Mendonça,Meia,2,1,60,9.2
-2024-08-31,São Paulo,Pietro da Rocha,Volante,1,1,48,7.6
-2025-03-14,São Paulo,Dr. Lucas Gabriel Moura,Volante,1,2,33,9.0
-2025-02-09,Corinthians,Sr. Ryan Porto,Atacante,0,2,17,8.2
-2024-09-28,Flamengo,Antony Azevedo,Zagueiro,3,1,86,8.2
-2025-03-12,Palmeiras,Dr. Benicio Pereira,Meia,1,0,40,6.2
-2024-08-27,Cruzeiro,Sr. Diego Dias,Volante,1,2,69,8.3
-2024-11-16,Santos,Ana Luiza Mendes,Zagueiro,2,0,4,6.6
-2024-07-08,Cruzeiro,Henry Siqueira,Meia,2,2,30,6.2
-2024-07-06,Internacional,Laís Leão,Zagueiro,0,1,75,9.1
-2025-02-06,Grêmio,Ana Carolina Ramos,Lateral,3,0,56,5.8
-2025-01-08,Santos,Dr. Benicio Pereira,Meia,3,0,48,9.2
-2025-02-03,Cruzeiro,Ana Luiza Mendes,Atacante,3,2,60,5.2
-2025-05-06,Palmeiras,Kaique Nunes,Meia,3,1,28,8.2
-2024-12-31,Internacional,Isabela Santos,Meia,0,0,50,5.2
-2025-04-08,São Paulo,Maria Vitória Pereira,Zagueiro,3,2,42,5.1
-2024-11-07,Palmeiras,Elisa Costa,Goleiro,2,2,55,7.6
-2024-07-04,Atlético-MG,Ana Laura da Cunha,Atacante,3,2,44,5.7
-2024-10-21,Atlético-MG,Dr. Gustavo Henrique Pastor,Zagueiro,0,0,7,5.8
-2024-11-14,Grêmio,Lucca Cirino,Zagueiro,0,2,89,6.9
-2024-10-27,Palmeiras,Heloisa Aragão,Goleiro,1,2,75,5.6
-2024-11-16,São Paulo,Melissa Nascimento,Goleiro,2,2,79,9.1
-2024-06-21,Grêmio,Heitor da Luz,Atacante,3,1,63,5.2
-2024-12-19,Flamengo,Mathias Sá,Goleiro,3,0,72,5.5
-2025-05-06,Santos,Isabel Almeida,Volante,1,0,3,8.3
-2024-10-30,Palmeiras,Heloisa Aragão,Meia,0,2,82,9.3
-2025-03-06,Cruzeiro,Rebeca da Mata,Goleiro,0,2,64,6.8
-2024-11-25,Grêmio,Eloah Machado,Volante,0,0,32,6.2
-2025-05-06,Corinthians,Ana Laura da Cunha,Atacante,1,2,71,8.3
-2025-01-21,Palmeiras,Evelyn Câmara,Goleiro,2,0,25,9.8
-2025-01-01,Internacional,Ana Luiza Mendes,Meia,0,1,24,6.9
-2025-03-07,Grêmio,Sra. Gabriela Monteiro,Volante,3,2,42,8.8
-2025-03-29,Palmeiras,Ágatha Silveira,Meia,0,2,79,8.2
-2025-03-09,Santos,Henry Siqueira,Lateral,2,2,67,9.7
-2024-08-18,Corinthians,Ana Vitória Sá,Atacante,0,0,51,8.4
-2025-01-05,Corinthians,Dr. Gustavo Henrique Pastor,Zagueiro,3,1,17,7.0
-2025-02-04,São Paulo,Heitor da Luz,Goleiro,1,2,6,8.4
-2024-08-05,Atlético-MG,Ana Beatriz das Neves,Goleiro,1,0,41,9.6
-2025-04-10,São Paulo,Sophia Pastor,Atacante,0,0,46,9.8
-2024-06-24,Internacional,Enrico da Mota,Atacante,3,0,25,6.1
-2024-05-13,Cruzeiro,Laura Fonseca,Goleiro,1,2,36,6.5
-2024-10-07,Corinthians,Matheus da Cunha,Volante,2,1,88,5.5
-2025-03-10,Flamengo,Alexandre Farias,Zagueiro,0,2,48,8.7
-2024-08-05,Flamengo,Enrico da Mota,Goleiro,1,0,14,6.2
-2025-03-16,Santos,Diego Freitas,Meia,0,0,24,9.9
-2025-03-05,Atlético-MG,Diogo Moraes,Zagueiro,2,1,38,8.6
-2025-02-21,Atlético-MG,Dra. Antonella Cirino,Volante,1,2,67,8.6
-2024-10-17,Atlético-MG,Henry Siqueira,Meia,0,2,72,6.6
-2025-04-01,Internacional,Mathias Sá,Volante,0,0,59,5.3
-2024-06-22,Grêmio,Dr. Gustavo Henrique Pastor,Atacante,3,1,66,7.7
-2025-03-12,Corinthians,Lucca Cirino,Atacante,1,2,43,8.3
-2025-04-28,Corinthians,Dr. Lucas Gabriel Moura,Atacante,3,1,43,5.4
-2025-01-14,Santos,Alexandre Farias,Zagueiro,1,1,54,8.8
-2024-06-22,Cruzeiro,Valentim Mendes,Lateral,3,1,22,7.0
-2024-05-21,Internacional,Anthony Gabriel Costela,Volante,3,0,29,7.6
-2024-08-30,Internacional,Heloisa Aragão,Goleiro,0,1,13,5.6
-2024-07-01,Palmeiras,Alícia Barbosa,Goleiro,0,1,90,6.2
-2025-04-01,Corinthians,Arthur da Mata,Atacante,2,1,67,9.4
-2024-09-10,Corinthians,Davi Miguel Sampaio,Lateral,2,1,59,9.3
-2025-04-08,Flamengo,Laura Fonseca,Atacante,1,0,34,8.4
-2025-04-09,Internacional,João Pedro Vieira,Volante,1,0,14,7.0
-2025-01-30,Palmeiras,Sophie Viana,Zagueiro,1,1,9,9.1
-2024-12-25,Internacional,Melissa Nascimento,Volante,2,1,64,8.0
-2024-08-04,São Paulo,Gustavo Henrique Moreira,Lateral,0,1,24,8.3
-2025-03-02,Cruzeiro,Enrico da Mota,Zagueiro,3,0,78,9.8
-2024-07-09,São Paulo,Sra. Stephany Melo,Meia,3,2,5,5.0
-2024-10-24,Palmeiras,Sra. Camila Silveira,Lateral,2,2,4,8.9
-2024-10-05,Santos,Srta. Mariane Novaes,Atacante,2,1,30,8.5
-2024-11-18,Atlético-MG,Hadassa Sousa,Goleiro,2,0,72,8.9
-2024-06-08,Corinthians,Sophia Pastor,Volante,0,2,39,9.1
-2024-12-01,São Paulo,Luana Moreira,Volante,3,1,49,5.7
-2024-06-02,Corinthians,Sophia Pastor,Lateral,3,1,13,5.9
-2025-05-04,Grêmio,Alexandre Farias,Zagueiro,1,2,20,5.1
-2024-12-31,Grêmio,Lucas Silva,Zagueiro,3,2,4,6.1
-2024-09-16,Palmeiras,Diogo Moraes,Meia,1,0,44,5.2
-2025-03-28,Corinthians,Sra. Camila Silveira,Lateral,2,0,51,6.3
-2025-01-05,São Paulo,Ana Vitória Sá,Volante,3,1,51,9.3
-2024-10-17,Grêmio,Laura Fonseca,Meia,0,0,63,8.9
-2024-05-20,Santos,Luigi Moraes,Zagueiro,3,0,9,9.7
-2024-07-09,Cruzeiro,Enrico da Mota,Volante,2,2,33,6.9
-2024-11-30,Cruzeiro,Isabelly Costa,Goleiro,3,2,87,9.4
-2025-01-11,Flamengo,Ana Júlia Caldeira,Meia,3,0,71,5.4
-2024-10-24,Flamengo,Ian Pacheco,Lateral,3,0,4,7.5
-2024-10-31,São Paulo,Esther Marques,Volante,2,2,6,8.9
-2024-10-10,Grêmio,Anthony Gabriel Costela,Atacante,1,1,37,5.4
-2024-07-21,Flamengo,Ana Laura Borges,Goleiro,0,1,78,6.0
-2024-11-29,São Paulo,Helena da Conceição,Atacante,0,0,88,7.7
-2024-12-30,Palmeiras,Lucas Silva,Meia,3,2,1,8.0
-2024-08-29,Palmeiras,Esther Marques,Zagueiro,2,0,39,8.0
-2024-06-09,Santos,Isabela Santos,Atacante,3,1,88,5.8
-2024-10-27,São Paulo,Diogo Moraes,Volante,3,2,45,5.1
-2024-08-01,Corinthians,Olívia Macedo,Atacante,2,2,11,9.6
-2024-07-03,Grêmio,Ana Beatriz das Neves,Atacante,0,1,7,8.7
-2024-11-04,Atlético-MG,Sra. Olívia Macedo,Volante,3,2,85,8.8
-2024-11-16,Internacional,Pietro da Rocha,Meia,0,1,1,5.7
-2024-09-03,São Paulo,Emanuel Peixoto,Zagueiro,2,2,22,9.2
-2024-10-07,Internacional,Ágatha Silveira,Meia,0,0,55,8.1
-2025-04-09,Corinthians,Sra. Olívia Macedo,Meia,1,2,24,8.8
-2024-09-08,Cruzeiro,Sr. Ryan Porto,Goleiro,3,0,2,10.0
-2024-05-21,Corinthians,Maria Júlia Rodrigues,Zagueiro,1,2,88,7.8
-2025-03-26,Atlético-MG,Camila da Costa,Lateral,1,0,12,7.7
-2024-09-16,Internacional,Heitor da Luz,Zagueiro,1,0,77,6.0
-2025-02-05,Grêmio,Ana Carolina Ramos,Lateral,3,2,69,9.4
-2024-11-06,São Paulo,Maria Clara Machado,Volante,1,1,25,7.0
-2025-05-05,Internacional,Enrico da Mota,Zagueiro,1,1,3,5.9
-2024-10-20,São Paulo,Alana Jesus,Volante,0,1,2,5.3
-2025-01-03,Atlético-MG,Maria Clara Machado,Atacante,3,1,29,9.0
-2025-05-06,Corinthians,Isabelly Costa,Atacante,2,1,23,6.7
-2024-05-29,Internacional,Pedro Henrique Melo,Volante,3,2,47,6.9
-2024-11-22,Atlético-MG,Alexandre Farias,Goleiro,1,2,46,10.0
-2024-08-21,Flamengo,Alana Jesus,Atacante,3,2,90,8.4
-2024-12-07,Atlético-MG,Zoe Novaes,Zagueiro,3,0,60,9.9
-2024-10-20,Flamengo,Aylla Mendonça,Atacante,1,0,69,7.6
-2024-10-17,Corinthians,Eloah Machado,Zagueiro,2,1,25,9.4
-2024-10-07,Grêmio,Valentim Mendes,Goleiro,0,1,63,7.4
-2024-11-16,São Paulo,Fernando Costela,Zagueiro,2,0,23,8.6
-2025-03-08,Santos,Rebeca da Mata,Atacante,3,0,30,9.6
-2024-06-02,São Paulo,Diogo Moraes,Atacante,3,1,29,5.2
-2024-09-03,Corinthians,Alexandre Farias,Volante,1,1,79,6.9
-2025-03-01,Santos,Maria Fernanda da Cunha,Atacante,3,0,44,9.3
-2024-07-19,São Paulo,Heloisa Aragão,Zagueiro,2,0,20,7.7
-2025-02-13,Atlético-MG,Rodrigo Costela,Zagueiro,3,2,19,5.6
-2025-02-16,Atlético-MG,Enrico da Mota,Zagueiro,1,1,56,7.5
-2024-07-19,Palmeiras,Vinícius Farias,Lateral,2,1,36,7.8
-2025-01-15,Corinthians,Sr. Diego Dias,Meia,3,0,60,5.6
-2024-07-04,Grêmio,Helena da Conceição,Zagueiro,0,2,85,7.8
-2025-04-04,Cruzeiro,Valentina Camargo,Meia,1,1,42,5.3
-2025-05-04,Flamengo,Alana Jesus,Zagueiro,1,1,69,9.2
-2025-01-21,Grêmio,Anthony Gabriel Costela,Zagueiro,1,0,65,5.5
-2024-09-21,Corinthians,Fernando Costela,Atacante,3,2,39,5.6
-2025-04-22,Corinthians,João Vitor da Luz,Lateral,2,0,63,6.7
-2025-02-12,São Paulo,André Oliveira,Volante,1,1,14,6.0
-2024-09-16,Internacional,Pietro da Rocha,Atacante,2,0,39,9.9
-2025-05-13,Flamengo,Bernardo das Neves,Zagueiro,0,1,2,9.5
-2024-09-08,São Paulo,Antony Azevedo,Atacante,2,2,88,7.0
-2024-07-25,Corinthians,Vinícius Farias,Lateral,2,1,7,6.4
-2025-03-05,Santos,Henry Siqueira,Meia,0,2,8,7.0
-2025-02-16,Cruzeiro,Heloisa Aragão,Zagueiro,3,1,11,5.8
-2024-06-20,Corinthians,Gustavo Henrique Moreira,Lateral,1,2,39,7.5
-2024-11-24,Flamengo,Dr. Gustavo Henrique Pastor,Meia,3,2,3,9.0
-2024-12-14,Internacional,Eloah Machado,Goleiro,3,2,45,6.6
-2024-08-18,Atlético-MG,Enrico da Mota,Atacante,0,1,3,10.0
-2025-03-31,Atlético-MG,Emanuel Peixoto,Meia,0,2,67,8.6
-2025-04-03,Grêmio,Antony Azevedo,Meia,3,0,8,9.1
-2024-12-06,Internacional,Hadassa Sousa,Volante,3,0,10,9.5
-2025-03-12,Santos,Diogo Moraes,Zagueiro,1,2,75,6.7
-2024-09-16,Grêmio,Ana Luiza Mendes,Zagueiro,1,0,84,7.1
-2024-11-25,Santos,Ian Pacheco,Zagueiro,1,2,56,7.2
-2025-03-26,Internacional,Alana Jesus,Meia,3,2,14,6.3
-2025-05-13,São Paulo,Kaique Cavalcante,Zagueiro,1,2,39,5.0
-2024-12-12,Atlético-MG,Rodrigo Costela,Goleiro,3,0,71,5.4
-2024-12-27,Corinthians,Maria Clara Machado,Zagueiro,0,2,37,6.8
-2024-07-19,Corinthians,Nicolas Almeida,Meia,0,1,13,9.5
-2024-09-01,Atlético-MG,Zoe Novaes,Lateral,3,0,78,6.3
-2024-05-27,Internacional,Camila da Costa,Lateral,2,1,45,7.3
-2024-10-07,Grêmio,Lucas Gabriel Albuquerque,Atacante,2,2,29,9.0
-2024-07-11,São Paulo,Daniel Macedo,Atacante,1,1,86,5.6
-2025-02-16,Corinthians,Gustavo Henrique Moreira,Zagueiro,2,0,27,5.1
-2024-08-03,Santos,Eloah Machado,Volante,1,1,52,7.7
-2024-07-31,Flamengo,Srta. Sabrina Brito,Goleiro,3,0,51,6.5
-2024-09-18,Grêmio,Antony Azevedo,Goleiro,2,1,40,5.2
-2025-04-23,Cruzeiro,Srta. Mariane Novaes,Goleiro,0,1,85,9.5
-2025-02-16,Atlético-MG,Kaique Cavalcante,Meia,1,0,47,5.2
-2024-12-31,Palmeiras,Diogo Moraes,Meia,0,0,66,7.4
-2024-10-20,Santos,Helena da Conceição,Lateral,0,1,87,9.8
-2024-07-17,Atlético-MG,Srta. Rebeca Caldeira,Volante,1,1,46,5.7
-2025-02-08,São Paulo,Luana Moreira,Atacante,3,0,50,7.2
-2024-06-13,Corinthians,Maria Clara Machado,Volante,3,1,75,7.4
-2025-01-09,Palmeiras,Luan Barbosa,Zagueiro,2,2,0,6.3
-2024-08-17,Internacional,Lucca Cirino,Goleiro,1,0,60,7.4
-2024-08-23,Cruzeiro,Hadassa Sousa,Volante,1,0,56,6.7
-2025-02-19,Corinthians,Ágatha Câmara,Atacante,2,0,83,6.0
-2024-12-19,Internacional,Isabelly Costa,Atacante,0,1,7,5.2
-2024-10-03,Flamengo,Heitor da Luz,Meia,0,0,63,7.6
-2025-04-08,Internacional,Zoe Novaes,Meia,0,0,16,5.6
-2024-07-24,Atlético-MG,Alexandre Farias,Goleiro,2,0,63,8.5
-2025-02-08,Flamengo,Ágatha Câmara,Volante,2,0,11,8.4
-2025-02-13,Atlético-MG,Pietro da Rocha,Zagueiro,0,0,90,5.0
-2025-04-09,Atlético-MG,Isabelly Costa,Volante,1,1,65,8.3
-2024-06-20,São Paulo,Heloisa Aragão,Meia,2,2,27,7.7
-2024-10-07,Flamengo,Thomas Macedo,Zagueiro,2,2,40,9.7
-2025-02-11,Santos,Maria Isis Gonçalves,Zagueiro,2,2,76,5.1
-2024-05-20,Corinthians,Kaique Nunes,Goleiro,2,2,83,8.2
-2025-01-05,Palmeiras,Luana Moreira,Atacante,2,1,39,9.1
-2024-09-03,Corinthians,Thiago Almeida,Meia,2,1,84,9.0
-2025-02-16,Santos,Sra. Olívia Macedo,Goleiro,1,0,53,9.3
-2024-08-01,Corinthians,Bella Freitas,Goleiro,0,1,29,7.2
-2024-09-19,Corinthians,João Pedro Vieira,Volante,3,2,40,7.2
-2025-02-27,Santos,Matheus da Cunha,Volante,0,2,33,5.8
-2024-05-16,Atlético-MG,Helena da Conceição,Meia,3,0,64,9.7
-2024-11-16,Palmeiras,Pietro da Rocha,Lateral,2,2,90,7.0
-2024-12-07,Flamengo,Sr. Leandro Guerra,Meia,3,1,47,6.1
-2024-10-19,Internacional,Thiago Almeida,Volante,0,0,49,7.4
-2025-02-08,Cruzeiro,Isabela Santos,Lateral,2,0,3,5.5
-2024-09-03,Internacional,João Vitor da Luz,Lateral,1,2,49,6.6
-2024-07-31,Grêmio,Srta. Sabrina Brito,Zagueiro,0,1,36,9.8
-2025-04-07,Corinthians,Ana Júlia Caldeira,Atacante,3,1,72,9.9
-2024-07-17,São Paulo,Alana Jesus,Meia,3,1,67,9.9
-2024-11-02,Flamengo,Ana Beatriz das Neves,Zagueiro,0,1,52,9.2
-2024-06-28,Corinthians,Laura Fonseca,Zagueiro,3,0,50,5.9
-2024-12-09,Grêmio,Ana Laura da Cunha,Lateral,2,2,0,7.9
-2024-09-04,Corinthians,Ana Beatriz das Neves,Zagueiro,2,2,16,8.7
-2025-04-01,Cruzeiro,Lucca Cirino,Goleiro,3,1,18,6.0
-2024-10-14,Cruzeiro,Ana Luiza Mendes,Meia,0,0,35,9.5
-2024-05-29,Grêmio,Dr. Lucas Gabriel Moura,Lateral,1,0,46,9.3
-2024-09-14,Internacional,Esther Marques,Volante,0,0,55,6.4
-2024-12-17,Internacional,Alana Jesus,Lateral,2,1,47,5.5
-2024-06-08,Internacional,Alexandre Farias,Zagueiro,3,1,74,6.0
-2025-04-06,Atlético-MG,Luna Marques,Lateral,2,0,80,9.3
-2025-03-15,Palmeiras,Pietro da Rocha,Lateral,2,2,3,9.0
-2024-07-07,Santos,Lucas Gabriel Albuquerque,Volante,0,0,80,9.2
-2025-05-10,Cruzeiro,Eloah Machado,Atacante,2,2,68,7.6
-2024-06-08,Atlético-MG,Maria Helena Rocha,Zagueiro,3,1,85,8.6
-2024-12-29,Grêmio,Maria Helena Rocha,Volante,1,0,23,8.7
-2024-05-31,Santos,Aylla Mendonça,Lateral,2,1,7,10.0
-2025-05-10,Atlético-MG,Srta. Sabrina Brito,Lateral,0,0,36,8.7
-2024-05-23,Cruzeiro,Dr. Gustavo Henrique Pastor,Meia,3,0,0,9.2
-2024-06-22,Cruzeiro,Sra. Olívia Macedo,Goleiro,1,1,77,7.0
-2024-10-27,Internacional,Isabel Almeida,Lateral,3,2,13,9.0
-2024-10-20,Palmeiras,Bella Freitas,Meia,2,2,15,8.4
-2024-06-22,Atlético-MG,Ana Vitória Sá,Zagueiro,3,1,59,5.7
-2025-02-10,Cruzeiro,Pedro Henrique Melo,Volante,1,2,66,9.0
-2025-03-15,Cruzeiro,Alexandre Farias,Lateral,1,0,52,9.2
-2025-01-06,Santos,Srta. Sabrina Brito,Meia,0,0,18,6.8
-2024-12-12,Santos,Lucca Cirino,Goleiro,2,2,31,7.2
-2024-05-13,São Paulo,Lucas Gabriel Albuquerque,Atacante,3,1,13,7.3
-2024-07-28,São Paulo,Maria Vitória Pereira,Atacante,1,2,3,5.7
-2025-05-01,Cruzeiro,Heloisa Aragão,Volante,2,2,77,9.4
-2024-06-01,Palmeiras,Isabel Almeida,Goleiro,3,0,78,5.5
-2024-12-10,Palmeiras,Maria Júlia Rodrigues,Atacante,1,0,86,7.9
-2024-05-31,Santos,Srta. Zoe Lopes,Meia,3,0,63,6.6
-2024-06-24,Santos,Thiago Almeida,Lateral,2,0,26,9.3
-2024-10-15,São Paulo,Heloisa Aragão,Lateral,0,2,48,6.9
-2025-01-25,Corinthians,Dr. Benicio Pereira,Goleiro,1,2,89,7.8
-2024-08-27,Santos,Alexandre Farias,Zagueiro,2,2,84,8.6
-2024-06-21,Grêmio,Melissa Nascimento,Volante,2,0,67,8.5
-2025-03-11,Santos,Enrico da Mota,Volante,2,2,11,10.0
-2025-01-06,Grêmio,Gustavo Vasconcelos,Volante,3,0,46,5.6
-2025-04-21,Corinthians,Asafe Barros,Goleiro,0,1,12,7.1
-2024-05-29,Santos,Kaique Nunes,Atacante,2,1,55,8.2
-2025-01-05,Atlético-MG,Bella Freitas,Meia,1,0,87,9.7
-2024-11-25,Palmeiras,Gustavo Henrique Moreira,Volante,1,0,27,8.6
-2024-07-31,Flamengo,Matheus da Cunha,Meia,3,2,12,5.3
-2024-08-21,Internacional,Lucas Silva,Meia,3,2,52,8.4
-2025-03-03,Grêmio,Dra. Antonella Cirino,Zagueiro,1,0,13,7.1
-2025-04-23,Corinthians,Alana Jesus,Volante,1,0,42,9.4
-2025-01-11,Internacional,Thiago Almeida,Volante,2,2,80,7.6
-2024-11-17,Internacional,Maria Vitória Pereira,Zagueiro,2,2,33,5.9
-2025-03-19,Grêmio,Daniel Macedo,Goleiro,2,1,6,6.7
-2025-02-27,Grêmio,Matheus da Cunha,Meia,2,2,50,5.1
-2024-08-27,Cruzeiro,Ayla Mendes,Goleiro,3,0,85,5.8
-2024-07-09,Corinthians,Elisa Costa,Goleiro,0,1,27,7.4
-2025-03-09,Atlético-MG,Ana Laura da Cunha,Zagueiro,3,1,8,6.2
-2024-06-04,São Paulo,Marina Câmara,Lateral,2,1,16,6.1
-2025-04-29,Atlético-MG,Nicolas Almeida,Zagueiro,0,1,44,6.4
-2024-10-07,Grêmio,Lucas Gabriel Albuquerque,Volante,2,2,27,8.2
-2025-04-08,Flamengo,Srta. Rebeca Caldeira,Volante,1,1,59,7.7
-2025-05-06,Santos,Evelyn Câmara,Zagueiro,1,0,4,7.5
-2025-05-04,Cruzeiro,Rebeca da Mata,Goleiro,1,1,26,8.8
-2024-12-26,Grêmio,Evelyn Câmara,Meia,1,1,61,9.0
-2024-05-20,Corinthians,Aylla Mendonça,Atacante,0,0,32,5.7
-2024-08-27,Palmeiras,Esther Marques,Volante,3,1,40,6.0
-2024-05-16,Cruzeiro,João Vitor da Luz,Lateral,1,1,75,6.3
-2024-06-14,Palmeiras,Eloah Machado,Atacante,1,1,25,5.1
-2025-02-12,Corinthians,Elisa Costa,Lateral,0,1,16,9.8
-2025-05-02,Palmeiras,Ana Vitória Sá,Meia,1,1,64,7.3
-2025-04-04,São Paulo,Luan Barbosa,Zagueiro,1,0,85,8.0
-2025-01-28,São Paulo,Pietro da Rocha,Volante,1,2,42,5.2
-2025-03-28,Cruzeiro,Alícia Barbosa,Lateral,1,0,26,5.1
-2025-01-26,São Paulo,Zoe Novaes,Atacante,3,2,26,9.8
-2024-08-18,Santos,Luana Moreira,Goleiro,2,0,34,5.3
-2024-12-01,Flamengo,Sra. Stephany Melo,Meia,3,0,83,7.9
-2025-02-17,São Paulo,Thiago Almeida,Zagueiro,0,1,25,9.6
-2024-06-02,Atlético-MG,Lucas Silva,Lateral,2,0,4,5.2
-2024-09-01,Internacional,Dr. Lucas Gabriel Moura,Meia,0,0,67,7.9
-2024-06-24,Cruzeiro,Ian Pacheco,Meia,2,1,18,5.7
-2025-05-13,Atlético-MG,Asafe Barros,Zagueiro,3,0,20,8.8
-2024-12-10,São Paulo,Luna Marques,Zagueiro,3,0,7,5.9
-2025-04-13,Atlético-MG,Evelyn Câmara,Volante,1,0,90,5.3
-2025-05-04,Corinthians,Dr. Benicio Pereira,Goleiro,2,2,23,9.1
-2025-02-11,São Paulo,Dr. Lucas Gabriel Moura,Meia,3,1,3,5.8
-2024-12-22,Flamengo,Ana Júlia Caldeira,Meia,3,2,68,7.0
-2024-09-05,Santos,Nicolas Almeida,Meia,0,1,69,5.3
-2024-09-06,Cruzeiro,Sophia Pastor,Atacante,0,0,83,6.2
-2025-04-15,Internacional,Srta. Rebeca Caldeira,Volante,3,1,35,8.7
-2024-07-23,Atlético-MG,Sr. Ryan Porto,Zagueiro,1,1,24,6.3
-2024-06-28,Santos,Srta. Rebeca Caldeira,Atacante,3,2,15,8.8
-2024-09-16,Internacional,Enrico da Mota,Goleiro,3,2,30,8.8
-2024-10-30,Palmeiras,Zoe Novaes,Goleiro,2,1,85,6.3
-2025-02-22,São Paulo,Daniel Macedo,Lateral,0,0,64,8.5
-2024-10-10,São Paulo,Antonella Novaes,Goleiro,2,1,14,8.6
-2025-04-01,Internacional,Luigi Moraes,Zagueiro,2,0,56,6.4
-2024-08-12,Santos,Luana Moreira,Goleiro,0,1,5,8.3
-2025-05-02,Corinthians,Antonella Novaes,Goleiro,3,2,54,7.7
-2024-11-16,Corinthians,Heitor da Luz,Volante,3,1,82,8.9
-2024-07-21,Cruzeiro,Diego Freitas,Zagueiro,0,1,33,7.2
-2024-12-25,Cruzeiro,Isabela Santos,Meia,2,1,48,7.7
-2024-12-08,Grêmio,Emanuel Peixoto,Atacante,3,0,63,8.6
-2025-02-08,Santos,Ana Carolina Ramos,Volante,3,2,1,9.4
-2024-07-13,Santos,Lucas Gabriel Albuquerque,Atacante,3,2,66,9.3
-2024-12-25,Corinthians,Heloisa Aragão,Volante,3,0,11,6.4
-2024-08-27,Grêmio,Emanuel Peixoto,Volante,0,1,4,8.7
-2025-02-12,Grêmio,Isabela Santos,Goleiro,1,1,18,8.4
-2025-04-01,Palmeiras,Aylla Mendonça,Volante,0,0,83,8.4
-2024-12-31,Atlético-MG,Laís Leão,Lateral,3,1,19,6.4
-2025-03-01,Santos,Nicolas Almeida,Zagueiro,1,0,73,5.9
-2024-08-20,Grêmio,Ana Luiza Mendes,Atacante,0,0,81,8.5
-2024-10-10,Flamengo,Camila da Costa,Goleiro,3,2,2,6.0
-2024-11-16,Corinthians,Maria Helena Rocha,Zagueiro,3,1,37,9.8
-2024-10-23,Atlético-MG,Fernando Costela,Lateral,0,2,19,6.5
-2024-08-22,São Paulo,Eloah Machado,Volante,2,2,65,6.3
-2024-05-19,Internacional,João Pedro Vieira,Atacante,2,2,9,7.3
-2024-06-06,Internacional,Isabela Santos,Volante,2,1,28,5.9
-2024-12-25,Santos,Lucas Silva,Meia,2,2,21,9.7
-2024-08-01,Cruzeiro,Davi Miguel Sampaio,Volante,1,1,24,5.3
-2025-04-01,Flamengo,Bella Freitas,Volante,2,0,8,7.3
-2024-08-27,São Paulo,Kaique Nunes,Meia,1,1,31,8.4
-2024-08-29,Internacional,Alana Jesus,Zagueiro,1,2,53,6.6
-2024-07-25,Grêmio,Daniel Macedo,Volante,2,2,3,7.2
-2024-10-29,Corinthians,Pietro da Rocha,Goleiro,2,0,40,6.2
-2024-11-22,Cruzeiro,Fernando Costela,Goleiro,0,2,51,5.1
-2024-06-05,Flamengo,Vinícius Farias,Lateral,3,1,39,6.8
-2024-10-21,Corinthians,João Guilherme Vieira,Zagueiro,0,2,15,5.4
-2024-06-21,Atlético-MG,Lucas Silva,Zagueiro,1,2,18,7.5
-2025-02-16,Cruzeiro,Evelyn Câmara,Lateral,1,1,64,6.3
-2024-11-18,Cruzeiro,Ian Pacheco,Atacante,1,0,72,6.0
-2024-07-19,Santos,Fernando Costela,Goleiro,3,0,53,9.3
-2025-04-01,Cruzeiro,Isabela Santos,Meia,1,0,57,6.2
-2024-08-27,Internacional,Ágatha Câmara,Volante,1,2,36,8.9
-2024-07-03,Palmeiras,Bernardo das Neves,Atacante,3,2,57,5.1
-2024-05-15,Internacional,Sophia Pastor,Meia,2,1,87,9.6
-2024-07-04,Flamengo,Alexandre Farias,Lateral,1,1,0,9.6
-2024-12-09,Grêmio,Maria Isis Gonçalves,Volante,0,1,70,8.6
-2024-08-31,São Paulo,Hadassa Sousa,Lateral,3,0,0,6.5
-2025-03-13,Cruzeiro,Sra. Olívia Macedo,Goleiro,0,0,62,5.4
-2025-04-15,Santos,Alexandre Farias,Atacante,3,2,4,6.6
-2025-02-28,Atlético-MG,Maria Helena Rocha,Goleiro,0,0,60,7.0
-2024-05-14,Corinthians,Fernando Costela,Atacante,0,1,4,8.4
-2025-03-28,Atlético-MG,Maria Helena Rocha,Lateral,1,0,85,6.5
-2025-03-25,Grêmio,Ana Júlia Caldeira,Meia,3,1,22,7.1
-2024-10-16,Cruzeiro,Diogo Moraes,Zagueiro,0,1,17,6.5
-2025-03-27,Flamengo,Srta. Sabrina Brito,Goleiro,1,2,31,9.5
-2025-03-15,Corinthians,Henry Siqueira,Zagueiro,0,1,27,6.6
-2024-07-09,Atlético-MG,Srta. Rebeca Caldeira,Atacante,2,2,14,8.7
-2024-10-07,Cruzeiro,Zoe Novaes,Goleiro,1,0,18,8.4
-2024-07-31,Flamengo,Elisa Costa,Zagueiro,1,2,12,9.4
-2025-04-03,Flamengo,João Vitor da Luz,Meia,0,2,87,8.5
-2025-01-13,Grêmio,André Oliveira,Goleiro,2,2,57,7.5
-2024-11-17,Flamengo,João Guilherme Vieira,Goleiro,2,0,2,7.8
-2025-01-05,Santos,Rebeca da Mata,Volante,0,0,85,9.2
-2024-07-14,Corinthians,Asafe Barros,Atacante,0,2,18,9.3
-2025-02-03,Corinthians,Esther Marques,Meia,1,1,56,9.0
-2025-03-22,Palmeiras,Maria Júlia Rodrigues,Atacante,1,2,56,8.7
-2024-07-10,São Paulo,Nicolas Almeida,Goleiro,0,1,65,7.6
-2024-07-10,São Paulo,João Vitor da Luz,Meia,2,1,66,6.1
-2024-07-18,Cruzeiro,Isabela Santos,Atacante,3,2,59,8.6
-2024-09-20,Palmeiras,João Guilherme Vieira,Goleiro,0,2,60,5.5
-2025-01-13,Santos,Henry Siqueira,Goleiro,1,1,44,6.8
-2024-08-16,São Paulo,Antonella Novaes,Lateral,0,2,63,8.6
-2025-04-22,Atlético-MG,Pietro da Rocha,Goleiro,2,1,28,5.8
-2024-09-12,Atlético-MG,Ana Laura Borges,Lateral,0,1,35,9.3
-2024-09-03,Internacional,João Guilherme Vieira,Zagueiro,3,1,60,8.6
-2024-12-15,Cruzeiro,Isabela Santos,Goleiro,3,0,58,9.3
-2024-12-07,Flamengo,Heitor da Luz,Zagueiro,1,2,89,7.3
-2024-05-16,Flamengo,João Guilherme Vieira,Atacante,0,2,66,9.7
-2025-01-02,Flamengo,Aylla Mendonça,Meia,3,0,12,8.3
-2024-09-03,Internacional,Maria Isis Gonçalves,Meia,2,2,3,7.3
-2024-06-24,Internacional,Luan Barbosa,Volante,1,0,83,6.8
-2025-04-30,Cruzeiro,Luigi Moraes,Meia,2,1,69,7.1
-2024-10-19,Corinthians,Sra. Gabriela Monteiro,Meia,3,1,49,8.9
-2024-11-07,Cruzeiro,Isabela Santos,Meia,2,0,17,9.2
-2024-08-27,Flamengo,Rebeca da Mata,Meia,3,1,47,9.1
-2024-12-29,Corinthians,Camila da Costa,Lateral,2,2,15,7.1
-2024-06-10,Corinthians,Isabel Almeida,Lateral,0,2,53,7.8
-2024-12-29,Grêmio,Sophie Viana,Atacante,1,2,77,9.6
-2025-05-06,São Paulo,Olívia Macedo,Lateral,1,2,2,8.1
-2024-10-14,Corinthians,Daniel Macedo,Volante,0,0,18,7.2
-2024-10-23,Santos,Ana Carolina Ramos,Lateral,2,2,54,8.1
-2024-09-12,Grêmio,Ian Pacheco,Meia,3,1,3,9.3
-2025-03-28,São Paulo,Sr. Leandro Guerra,Goleiro,1,2,31,7.3
-2025-04-19,Atlético-MG,Rebeca da Mata,Zagueiro,3,2,74,5.8
-2024-12-19,Atlético-MG,Mathias Sá,Lateral,2,0,53,6.4
-2024-11-20,Flamengo,João Vitor da Luz,Volante,0,2,75,5.2
-2024-07-21,Flamengo,Luana Moreira,Atacante,1,1,19,8.4
-2025-02-13,Atlético-MG,Isabela Santos,Lateral,2,1,19,9.8
-2024-07-07,Cruzeiro,Heitor da Luz,Atacante,0,0,65,7.9
-2025-01-21,Palmeiras,Henry Siqueira,Atacante,1,2,71,5.5
-2024-06-26,Internacional,Ana Carolina Ramos,Meia,3,1,29,9.6
-2024-12-19,São Paulo,Alexandre Farias,Atacante,1,2,6,7.5
-2025-01-21,Cruzeiro,Gustavo Vasconcelos,Lateral,0,2,87,9.4
-2024-10-29,Corinthians,Ian Pacheco,Volante,0,1,80,8.1
-2024-09-29,Santos,Dr. Gustavo Henrique Pastor,Meia,1,1,19,6.7
-2024-08-08,Atlético-MG,Arthur Gabriel Machado,Goleiro,0,1,28,5.4
-2024-08-30,Palmeiras,Marina Câmara,Volante,1,1,19,5.3
-2024-06-26,São Paulo,Luna Marques,Meia,3,2,36,8.8
-2024-12-04,Cruzeiro,Ágatha Câmara,Volante,3,2,10,6.6
-2024-10-16,Cruzeiro,Sra. Camila Silveira,Zagueiro,2,0,35,8.4
-2024-11-04,São Paulo,André Oliveira,Atacante,3,2,81,6.7
-2024-08-23,Cruzeiro,Ana Júlia Caldeira,Atacante,1,2,10,7.8
-2024-12-21,Grêmio,João Vitor da Luz,Atacante,1,1,23,8.1
-2024-06-25,Atlético-MG,Alana Jesus,Goleiro,2,2,56,8.6
-2024-09-05,Cruzeiro,Dr. Lucas Gabriel Moura,Goleiro,1,0,88,7.9
-2024-07-25,Cruzeiro,Alana Jesus,Zagueiro,2,2,62,5.6
-2025-03-03,Flamengo,Olívia Macedo,Goleiro,3,1,90,7.6
-2024-09-28,Santos,Bernardo das Neves,Volante,3,1,82,8.3
-2024-07-08,Corinthians,Gustavo Vasconcelos,Zagueiro,3,2,38,7.3
-2024-11-16,Cruzeiro,Ana Beatriz das Neves,Meia,0,0,5,7.8
-2024-08-27,Internacional,Maria Clara Machado,Volante,2,0,76,8.3
-2025-02-10,Internacional,Pietro da Rocha,Meia,1,2,27,7.5
-2025-03-27,Palmeiras,Maria Helena Rocha,Atacante,3,0,37,9.8
-2024-10-02,Santos,Srta. Zoe Lopes,Atacante,3,2,9,6.8
-2024-11-03,Flamengo,Isabela Santos,Meia,2,0,61,9.9
-2025-02-16,Santos,Pedro Henrique Melo,Atacante,0,1,83,6.2
-2024-10-28,São Paulo,Ana Beatriz das Neves,Meia,2,1,48,8.1
-2025-04-01,Flamengo,Rebeca da Mata,Volante,0,0,14,6.0
-2025-01-17,Cruzeiro,Camila da Costa,Meia,2,1,71,6.0
-2025-02-10,Atlético-MG,Ana Luiza Mendes,Goleiro,0,2,1,8.8
-2024-09-29,Flamengo,Srta. Sabrina Brito,Meia,3,1,81,5.9
-2025-01-03,Grêmio,Alexandre Farias,Goleiro,3,2,14,9.6
-2024-10-07,Grêmio,Ana Júlia Caldeira,Volante,1,0,56,7.2
-2024-07-18,Flamengo,Ana Laura da Cunha,Lateral,2,1,79,6.2
-2024-12-19,Flamengo,Diego Freitas,Goleiro,0,2,61,8.5
-2025-03-22,Cruzeiro,Laura Fonseca,Atacante,2,2,42,8.3
-2024-10-06,Grêmio,Diogo Moraes,Atacante,1,1,36,8.7
-2024-07-14,Internacional,Lucas Gabriel Albuquerque,Goleiro,0,2,10,6.5
-2025-02-16,Corinthians,Alícia Barbosa,Lateral,2,2,16,8.3
-2025-01-04,Internacional,Ana Luiza Mendes,Zagueiro,1,2,36,9.4
-2024-10-08,Internacional,Heitor da Luz,Goleiro,2,1,12,5.1
-2024-08-25,Flamengo,Matheus da Cunha,Volante,1,2,57,6.4
-2025-05-08,Cruzeiro,Marcos Vinicius da Cunha,Lateral,3,0,41,6.7
-2024-12-04,Flamengo,Bernardo das Neves,Volante,3,1,3,6.0
-2025-01-30,Santos,Kaique Cavalcante,Volante,2,2,13,7.2
-2024-09-29,Palmeiras,João Pedro Vieira,Zagueiro,3,1,72,8.8
-2024-09-16,Cruzeiro,Lucas Silva,Lateral,2,0,66,8.8
-2024-05-17,Flamengo,Luna Marques,Lateral,3,0,52,6.2
-2024-11-26,Palmeiras,Ana Júlia Caldeira,Zagueiro,3,2,3,6.6
-2025-02-13,Flamengo,Sr. Diego Dias,Zagueiro,1,2,20,7.1
-2025-05-06,São Paulo,Lucca Cirino,Meia,1,0,37,8.4
-2024-07-03,São Paulo,Sra. Gabriela Monteiro,Atacante,0,0,87,5.6
-2025-03-26,Internacional,Srta. Rebeca Caldeira,Volante,2,1,20,9.1
-2024-11-30,Cruzeiro,Sra. Olívia Macedo,Lateral,3,1,9,6.6
-2025-04-04,Atlético-MG,Isabel Almeida,Meia,3,0,52,7.3
-2024-06-13,Internacional,Luana Moreira,Meia,0,2,1,8.7
-2025-01-14,Corinthians,Srta. Sabrina Brito,Lateral,3,2,89,8.9
-2024-08-11,Internacional,Pietro da Rocha,Zagueiro,1,0,57,7.2
-2025-03-31,Palmeiras,Pedro Henrique Melo,Volante,0,0,54,6.1
-2024-09-30,Flamengo,Thiago Almeida,Goleiro,2,1,53,9.5
-2024-07-10,Flamengo,Davi Miguel Sampaio,Atacante,2,0,79,6.8
-2024-11-26,Flamengo,Alana Jesus,Atacante,1,0,16,9.2
-2025-04-19,Internacional,Sophie Viana,Atacante,1,2,71,9.0
-2024-08-04,Flamengo,Pedro Henrique Melo,Meia,3,2,59,5.6
-2025-05-11,Flamengo,Sra. Olívia Macedo,Goleiro,1,1,46,7.4
-2024-09-17,Internacional,Rodrigo Costela,Lateral,3,1,17,6.7
-2024-06-18,Atlético-MG,Ana Laura da Cunha,Lateral,2,2,34,5.4
-2025-01-15,São Paulo,Matheus da Cunha,Lateral,3,1,47,5.2
-2025-01-17,Flamengo,Asafe Barros,Lateral,1,0,31,8.8
-2024-08-30,Grêmio,Sra. Gabriela Monteiro,Atacante,3,2,79,9.1
-2024-12-30,São Paulo,Bella Freitas,Zagueiro,3,0,65,7.8
-2025-03-27,Cruzeiro,Dra. Antonella Cirino,Lateral,2,0,44,9.2
-2024-11-05,Cruzeiro,Nicolas Almeida,Lateral,1,1,17,5.2
-2025-01-28,Atlético-MG,Sra. Camila Silveira,Zagueiro,2,1,44,8.3
-2024-11-22,Internacional,Marcos Vinicius da Cunha,Zagueiro,0,1,3,8.8
-2024-08-23,Palmeiras,Luna Marques,Zagueiro,3,0,73,7.9
-2024-11-04,Cruzeiro,Bernardo das Neves,Lateral,1,2,42,9.9
-2024-12-01,São Paulo,Antonella Novaes,Goleiro,2,0,31,8.4
-2024-10-30,Corinthians,Davi Miguel Sampaio,Goleiro,3,1,10,7.3
-2024-12-28,Santos,Sra. Camila Silveira,Volante,2,1,17,5.6
-2025-02-19,Santos,Sra. Olívia Macedo,Zagueiro,2,0,46,7.1
-2025-01-05,Atlético-MG,Srta. Sabrina Brito,Goleiro,3,1,24,9.0
-2025-04-08,Santos,Sr. Ryan Porto,Atacante,2,2,40,5.3
-2025-01-14,São Paulo,Gustavo Vasconcelos,Zagueiro,1,2,74,5.1
-2024-05-21,Internacional,Bella Freitas,Goleiro,3,1,63,6.4
-2024-12-26,Palmeiras,Rebeca da Mata,Lateral,2,0,17,9.3
-2024-10-05,Internacional,Nicolas Almeida,Volante,2,2,47,8.5
-2025-01-14,São Paulo,Srta. Mariane Novaes,Zagueiro,2,2,26,7.8
-2024-10-02,Atlético-MG,Bernardo das Neves,Atacante,2,0,42,9.0
-2025-01-25,Flamengo,Henry Siqueira,Meia,3,0,89,5.5
-2025-02-10,Internacional,Luana Moreira,Volante,0,1,22,6.1
-2024-11-09,Atlético-MG,Arthur da Mata,Volante,0,0,28,6.7
-2024-07-07,São Paulo,Eloah Machado,Meia,1,0,63,6.5
-2024-10-25,São Paulo,Elisa Costa,Volante,0,1,62,6.8
-2024-10-31,Palmeiras,Vinícius Farias,Atacante,3,1,44,6.7
-2024-11-26,Internacional,Luana Moreira,Volante,1,2,35,5.6
-2025-01-15,Internacional,Rodrigo Costela,Volante,2,2,56,5.7
-2024-08-25,São Paulo,Marina Câmara,Zagueiro,0,2,74,6.8
-2024-12-08,São Paulo,Luana Moreira,Volante,1,0,41,7.2
-2024-12-08,Atlético-MG,Helena da Conceição,Lateral,1,1,30,8.3
-2024-11-19,Grêmio,Valentina Camargo,Lateral,2,0,31,8.1
-2025-01-05,Palmeiras,Alícia Barbosa,Volante,3,0,15,8.2
-2025-03-01,Grêmio,Pedro Henrique Melo,Lateral,3,0,10,7.8
-2025-02-21,Atlético-MG,André Oliveira,Zagueiro,3,2,80,9.4
-2024-07-19,Flamengo,Srta. Rebeca Caldeira,Volante,0,1,70,6.3
-2024-06-11,São Paulo,Eloah Machado,Zagueiro,2,1,42,9.8
-2025-04-14,Corinthians,Emanuel Peixoto,Goleiro,1,1,48,8.4
-2024-09-14,Internacional,Srta. Sabrina Brito,Volante,1,0,9,8.5
-2024-12-04,Flamengo,Maria Fernanda da Cunha,Goleiro,1,1,46,5.3
-2024-06-07,Internacional,Nicolas Almeida,Volante,1,2,26,8.7
-2024-05-21,Santos,Alícia Barbosa,Volante,3,0,75,5.1
-2024-11-11,Santos,Dr. Lucas Gabriel Moura,Volante,2,1,64,8.4
-2025-03-10,Cruzeiro,Emanuel Peixoto,Zagueiro,2,0,77,7.0
-2024-10-09,Grêmio,Ana Luiza Mendes,Volante,0,2,23,6.8
-2025-04-03,Grêmio,Sra. Stephany Melo,Atacante,1,1,75,5.8
-2024-10-30,São Paulo,Bella Freitas,Volante,1,1,79,10.0
-2024-09-13,Santos,Maria Júlia Rodrigues,Goleiro,0,1,37,6.5
-2024-08-16,Grêmio,Helena da Conceição,Meia,3,2,77,7.2
-2025-03-08,Internacional,Arthur Gabriel Machado,Goleiro,0,2,13,5.6
-2024-12-17,Flamengo,Mathias Sá,Atacante,2,1,4,5.5
-2025-03-08,Atlético-MG,Diego Freitas,Lateral,0,0,30,6.6
-2025-03-05,Corinthians,Rebeca da Mata,Atacante,2,0,83,7.8
-2024-10-20,Internacional,Daniel Macedo,Atacante,1,0,68,6.9
-2024-06-14,Cruzeiro,Luigi Moraes,Volante,3,2,74,9.1
-2024-12-29,Cruzeiro,Isabel Almeida,Meia,1,1,15,10.0
-2024-12-17,Corinthians,Thiago Almeida,Zagueiro,0,2,0,7.0
-2024-07-23,São Paulo,Rodrigo Costela,Meia,3,2,32,8.2
-2025-01-26,Grêmio,Camila da Costa,Volante,3,0,19,8.8
-2024-05-15,Corinthians,Eloah Machado,Atacante,2,0,42,5.9
-2024-08-27,Santos,Lucca Cirino,Volante,3,2,52,9.0
-2024-10-24,Corinthians,Lucas Gabriel Albuquerque,Volante,3,1,89,5.5
-2025-05-13,Atlético-MG,Ágatha Silveira,Meia,3,0,19,8.3
-2025-03-14,Atlético-MG,Ian Pacheco,Volante,2,2,54,6.2
-2024-06-04,Internacional,Dr. Lucas Gabriel Moura,Lateral,2,1,45,8.0
-2024-09-22,Flamengo,Antony Azevedo,Lateral,3,1,46,6.8
-2025-01-09,Atlético-MG,Valentina Camargo,Volante,0,1,11,6.8
-2025-01-05,Grêmio,Evelyn Câmara,Meia,3,0,12,8.8
-2024-08-21,Internacional,Nicolas Almeida,Volante,1,2,48,8.4
-2025-02-03,Internacional,Ana Júlia Caldeira,Meia,2,1,27,7.9
-2024-12-12,Santos,Rebeca da Mata,Meia,2,0,35,5.8
-2025-01-12,Flamengo,João Pedro Vieira,Atacante,1,0,44,5.6
-2024-11-07,Corinthians,Srta. Rebeca Caldeira,Meia,3,1,37,7.3
-2024-11-07,Atlético-MG,Davi Miguel Sampaio,Goleiro,1,0,40,5.9
-2024-11-19,Atlético-MG,Marina Câmara,Atacante,2,0,0,5.8
-2024-08-27,Palmeiras,Maria Clara Machado,Goleiro,3,2,89,6.1
-2025-01-13,Palmeiras,Kaique Nunes,Meia,2,0,23,9.0
-2024-10-21,São Paulo,Ágatha Silveira,Lateral,3,1,17,5.9
-2025-01-12,Corinthians,Srta. Rebeca Caldeira,Lateral,2,2,3,8.1
-2024-08-22,Atlético-MG,Maria Clara Machado,Atacante,1,1,74,9.0
-2025-05-08,São Paulo,Sra. Stephany Melo,Zagueiro,0,2,70,8.4
-2024-08-23,Atlético-MG,Heitor da Luz,Meia,1,1,43,5.2
-2025-05-04,Corinthians,Sra. Stephany Melo,Atacante,0,1,41,7.4
-2025-05-11,Internacional,Aylla Mendonça,Lateral,2,0,20,5.1
-2024-09-26,Flamengo,João Guilherme Vieira,Meia,2,1,51,5.1
-2024-11-15,Internacional,Sra. Stephany Melo,Lateral,2,2,81,6.9
-2025-01-28,Flamengo,Isabela Santos,Zagueiro,2,2,81,6.3
-2024-09-07,Cruzeiro,Davi Miguel Sampaio,Zagueiro,3,2,5,7.3
-2024-10-09,Santos,Diogo Moraes,Lateral,3,2,13,5.8
-2025-01-29,Corinthians,Isabelly Costa,Goleiro,1,0,21,5.3
-2024-11-28,Grêmio,Laura Fonseca,Meia,3,2,73,7.7
-2024-06-13,Atlético-MG,Elisa Costa,Lateral,2,2,82,8.7
-2024-10-09,Corinthians,Srta. Zoe Lopes,Volante,2,1,76,9.8
-2024-09-27,Cruzeiro,Dr. Gustavo Henrique Pastor,Zagueiro,3,2,3,5.0
-2025-01-26,Cruzeiro,Ana Júlia Caldeira,Meia,2,0,59,6.3
-2024-08-03,Atlético-MG,Dr. Lucas Gabriel Moura,Goleiro,1,0,43,5.2
-2024-10-14,Cruzeiro,Marcos Vinicius da Cunha,Goleiro,0,1,11,9.9
-2025-01-14,Santos,Henry Siqueira,Goleiro,2,2,5,8.4
-2024-07-25,Santos,Sra. Stephany Melo,Atacante,0,2,77,6.4
-2024-11-21,Santos,Pietro da Rocha,Lateral,3,2,31,7.4
-2024-10-31,São Paulo,Pietro da Rocha,Goleiro,3,1,66,9.8
-2024-08-20,Cruzeiro,Gustavo Vasconcelos,Atacante,0,0,68,5.5
-2024-08-21,Palmeiras,Heloisa Aragão,Zagueiro,1,2,44,7.4
-2025-03-28,Palmeiras,Alexandre Farias,Lateral,2,2,52,8.4
-2025-01-31,Internacional,Bella Freitas,Volante,3,0,64,7.0
-2024-06-24,Internacional,Sra. Olívia Macedo,Atacante,2,1,75,8.7
-2024-06-11,Flamengo,Eloah Machado,Volante,2,0,48,9.8
-2025-01-11,Palmeiras,Antony Azevedo,Atacante,0,1,86,7.8
-2024-11-16,Corinthians,Sra. Camila Silveira,Meia,1,2,85,9.4
-2025-04-06,Grêmio,Daniel Macedo,Goleiro,0,1,22,6.5
-2024-09-07,Atlético-MG,Maria Júlia Rodrigues,Atacante,0,2,17,7.9
-2024-08-07,Grêmio,Nicolas Almeida,Lateral,0,1,87,8.7
-2025-02-21,Corinthians,Laura Fonseca,Zagueiro,3,2,5,6.7
-2025-05-02,Santos,Pedro Henrique Melo,Meia,1,0,76,7.2
-2024-10-03,Grêmio,Pietro da Rocha,Goleiro,3,0,65,6.4
-2024-08-13,Santos,Srta. Zoe Lopes,Lateral,0,0,37,5.5
-2024-07-04,Palmeiras,Ágatha Câmara,Lateral,2,0,23,5.2
-2024-09-16,Flamengo,Luan Barbosa,Meia,2,1,0,6.0
-2025-02-03,Flamengo,Dr. Lucas Gabriel Moura,Goleiro,3,1,18,9.0
-2025-01-30,Internacional,Kaique Nunes,Goleiro,1,2,33,5.9
-2024-08-23,Atlético-MG,Sra. Stephany Melo,Zagueiro,0,0,44,7.9
-2025-02-03,Internacional,Maria Júlia Rodrigues,Goleiro,3,2,38,8.6
-2024-05-13,Santos,Sra. Stephany Melo,Volante,3,0,72,8.0
-2024-12-10,Cruzeiro,Zoe Novaes,Meia,0,1,3,6.3
-2025-02-12,Corinthians,Arthur da Mata,Meia,2,0,19,9.0
-2024-11-25,Palmeiras,Luana Moreira,Meia,3,1,73,6.0
-2025-03-14,Cruzeiro,João Pedro Vieira,Atacante,3,0,10,6.1
-2024-12-25,São Paulo,Ana Beatriz das Neves,Volante,0,1,72,8.8
-2025-04-07,Internacional,Marcos Vinicius da Cunha,Volante,2,2,39,9.0
-2024-10-14,Atlético-MG,Elisa Costa,Atacante,1,2,68,8.8
-2024-05-23,Palmeiras,Ana Carolina Ramos,Volante,2,0,1,9.8
-2025-02-03,Atlético-MG,Pietro da Rocha,Zagueiro,2,1,66,6.6
-2024-11-06,Internacional,Valentim Mendes,Meia,2,1,58,5.0
-2025-02-22,Cruzeiro,Helena da Conceição,Goleiro,3,2,34,9.2
-2025-01-28,Corinthians,Matheus da Cunha,Atacante,2,0,88,9.5
-2024-10-31,Corinthians,Lucas Gabriel Albuquerque,Zagueiro,3,2,41,7.7
-2024-07-26,Atlético-MG,Emanuel Peixoto,Zagueiro,1,0,5,8.5
-2025-01-25,Internacional,Elisa Costa,Atacante,0,2,80,8.3
-2024-08-27,Corinthians,Dr. Lucas Gabriel Moura,Volante,2,2,37,5.0
-2024-06-28,Grêmio,Rebeca da Mata,Atacante,2,2,19,6.4
-2024-11-30,Atlético-MG,Zoe Novaes,Meia,0,0,62,5.4
-2025-04-06,Corinthians,Gustavo Henrique Moreira,Atacante,0,2,26,9.8
-2024-05-17,Internacional,Asafe Barros,Volante,2,0,74,8.4
-2025-02-13,Palmeiras,Bernardo das Neves,Volante,0,0,58,8.0
-2024-12-22,Grêmio,Gustavo Vasconcelos,Lateral,3,2,61,7.0
-2025-04-16,Flamengo,Dra. Antonella Cirino,Volante,2,1,49,6.5
-2024-08-13,Internacional,Emanuel Peixoto,Zagueiro,3,2,7,8.5
-2025-04-27,Santos,Dr. Lucas Gabriel Moura,Meia,3,1,12,9.9
-2024-11-18,Santos,Luana Moreira,Zagueiro,1,1,70,9.4
-2025-04-04,Santos,Sr. Leandro Guerra,Atacante,3,2,53,7.4
-2024-06-26,Santos,Marcos Vinicius da Cunha,Atacante,0,0,60,8.9
-2025-02-20,Grêmio,Kaique Cavalcante,Zagueiro,1,0,42,7.3
-2024-10-27,Atlético-MG,Srta. Mariane Novaes,Volante,0,2,5,6.6
-2024-06-02,Grêmio,Vinícius Farias,Volante,3,2,36,6.0
-2024-12-10,Santos,Alícia Barbosa,Goleiro,2,1,63,6.4
-2024-11-27,Atlético-MG,Elisa Costa,Atacante,2,1,17,8.6
-2024-07-10,Flamengo,Luigi Moraes,Volante,3,0,81,5.4
-2025-02-19,Flamengo,Ana Luiza Mendes,Zagueiro,0,2,59,10.0
-2024-05-17,Palmeiras,Ana Júlia Caldeira,Zagueiro,1,0,12,5.4
-2024-07-18,Flamengo,Ágatha Silveira,Meia,1,0,78,8.9
-2025-03-02,Corinthians,Srta. Sabrina Brito,Zagueiro,1,1,67,9.9
-2024-09-02,Palmeiras,Sophia Pastor,Atacante,1,1,64,9.4
-2024-12-07,São Paulo,Elisa Costa,Meia,1,1,8,5.0
-2025-05-12,Corinthians,Marcos Vinicius da Cunha,Lateral,1,2,37,10.0
-2024-07-18,Flamengo,Dra. Antonella Cirino,Lateral,1,2,56,6.5
-2025-01-11,Internacional,Isabel Almeida,Volante,1,0,40,7.7
-2024-05-24,Palmeiras,Alana Jesus,Atacante,1,2,88,9.2
-2024-09-13,Internacional,João Pedro Vieira,Lateral,0,1,34,8.8
-2024-08-27,São Paulo,Diogo Moraes,Meia,1,0,64,9.8
-2024-06-04,Grêmio,Maria Vitória Pereira,Volante,2,0,53,5.1
-2024-06-20,Flamengo,Matheus da Cunha,Zagueiro,3,2,16,9.1
-2024-07-18,Atlético-MG,Ana Laura da Cunha,Meia,2,2,33,6.9
-2024-10-15,Atlético-MG,Maria Júlia Rodrigues,Lateral,1,1,49,6.6
-2024-12-11,Internacional,Davi Miguel Sampaio,Goleiro,3,0,53,5.6
-2024-10-10,Internacional,Hadassa Sousa,Zagueiro,1,0,22,9.8
-2024-10-07,Atlético-MG,Sra. Gabriela Monteiro,Volante,2,1,78,8.5
-2024-12-11,Santos,Vinícius Farias,Meia,1,2,79,9.9
-2024-09-29,Corinthians,Sra. Gabriela Monteiro,Lateral,2,0,33,7.3
-2025-01-22,Atlético-MG,Asafe Barros,Lateral,1,2,81,9.6
-2025-03-14,Flamengo,Valentina Camargo,Atacante,3,1,9,5.7
-2024-08-05,São Paulo,Enrico da Mota,Atacante,3,0,73,9.8
-2024-09-17,Corinthians,João Vitor da Luz,Volante,3,0,31,6.8
-2024-09-12,Flamengo,João Vitor da Luz,Atacante,2,1,57,5.9
-2024-11-09,Palmeiras,Asafe Barros,Meia,2,0,86,7.1
-2024-12-05,Flamengo,Isabel Almeida,Zagueiro,0,0,47,6.2
-2024-08-27,Santos,Bella Freitas,Atacante,3,0,16,6.2
-2024-10-27,Palmeiras,Maria Júlia Rodrigues,Goleiro,3,1,87,6.5
-2025-04-04,Flamengo,Marina Câmara,Atacante,3,1,74,6.2
-2025-04-19,Atlético-MG,Elisa Costa,Zagueiro,0,0,17,8.6
-2025-03-20,Grêmio,Bella Freitas,Zagueiro,0,0,13,8.8
-2024-06-13,São Paulo,Heloisa Aragão,Lateral,3,2,8,6.6
-2024-06-17,Grêmio,Eloah Machado,Zagueiro,3,1,88,8.5
-2025-04-15,Flamengo,Heloisa Aragão,Meia,2,1,41,7.8
-2025-02-13,Flamengo,Marcos Vinicius da Cunha,Lateral,2,0,54,9.2
-2025-04-04,São Paulo,Matheus da Cunha,Meia,1,2,45,8.7
-2025-03-28,Cruzeiro,Valentina Camargo,Atacante,1,0,48,5.1
-2024-08-21,Cruzeiro,Elisa Costa,Volante,1,2,77,7.7
-2024-10-27,Atlético-MG,Melissa Nascimento,Zagueiro,0,0,83,6.1
-2024-06-25,São Paulo,André Oliveira,Lateral,1,1,29,6.5
-2024-08-23,Flamengo,Ana Beatriz das Neves,Atacante,3,1,25,7.6
-2024-10-13,São Paulo,Ágatha Câmara,Zagueiro,1,0,86,6.2
-2024-12-10,Flamengo,Gustavo Vasconcelos,Volante,1,2,45,8.0
-2025-05-08,Cruzeiro,Alícia Barbosa,Volante,1,2,33,9.7
-2024-11-04,Internacional,Maria Fernanda da Cunha,Volante,1,1,11,9.2
-2025-02-22,Grêmio,Ian Pacheco,Lateral,1,2,52,5.4
-2024-10-13,Atlético-MG,Isabela Santos,Meia,2,2,63,9.1
-2025-01-11,Atlético-MG,Maria Vitória Pereira,Meia,0,2,2,6.0
-2025-01-23,Grêmio,Lucas Gabriel Albuquerque,Meia,0,2,37,9.3
-2024-12-16,Corinthians,Laís Leão,Atacante,1,1,33,5.3
-2025-02-03,Flamengo,Alana Jesus,Lateral,1,2,0,7.8
-2024-12-10,Palmeiras,Diogo Moraes,Atacante,0,1,68,5.6
-2025-04-09,Flamengo,Maria Isis Gonçalves,Zagueiro,1,0,50,7.4
-2024-11-19,Santos,Srta. Mariane Novaes,Zagueiro,2,0,9,9.1
-2024-06-25,Cruzeiro,Henry Siqueira,Meia,1,0,13,9.3
-2024-07-21,Grêmio,Lucca Cirino,Meia,3,1,38,9.5
-2025-04-28,Atlético-MG,Zoe Novaes,Goleiro,1,1,37,5.2
-2025-02-03,Internacional,Ana Laura da Cunha,Zagueiro,2,1,5,7.8
-2024-12-20,Internacional,Dra. Antonella Cirino,Lateral,1,0,69,8.1
-2025-04-18,Atlético-MG,Luan Barbosa,Goleiro,2,1,55,8.8
-2024-07-25,Santos,Arthur da Mata,Zagueiro,3,1,25,7.3
-2024-12-10,Palmeiras,Nicolas Almeida,Volante,3,1,86,5.6
-2024-07-08,Atlético-MG,Melissa Nascimento,Meia,1,1,46,7.1
-2024-08-05,São Paulo,Sophie Viana,Lateral,1,0,17,6.7
-2024-09-25,Cruzeiro,Srta. Sabrina Brito,Volante,0,1,86,8.8
-2024-07-05,Palmeiras,Sr. Ryan Porto,Zagueiro,3,0,46,6.4
-2024-06-14,São Paulo,Laura Fonseca,Lateral,1,0,18,6.0
-2024-08-17,Internacional,Maria Helena Rocha,Goleiro,3,1,52,5.6
-2024-07-03,Santos,Anthony Gabriel Costela,Zagueiro,1,1,12,6.6
-2024-12-12,Cruzeiro,Sr. Ryan Porto,Zagueiro,2,1,74,8.7
-2024-11-06,Grêmio,Lucca Cirino,Volante,1,2,6,9.7
-2024-09-25,Atlético-MG,Ágatha Câmara,Atacante,3,0,31,5.8
-2024-07-26,Grêmio,Isabel Almeida,Zagueiro,3,0,40,5.7
-2024-07-04,Cruzeiro,Sophia Pastor,Volante,3,2,14,5.9
-2024-10-14,Internacional,Thiago Almeida,Volante,2,1,60,5.2
-2024-11-30,Grêmio,Camila da Costa,Meia,2,2,15,6.7
-2024-10-21,São Paulo,Maria Helena Rocha,Meia,1,0,43,7.2
-2024-06-26,Flamengo,Pietro da Rocha,Goleiro,3,0,53,8.2
-2024-12-07,Cruzeiro,Antony Azevedo,Meia,1,1,76,7.2
-2025-03-25,Internacional,Helena da Conceição,Meia,0,2,55,8.1
-2024-11-06,Corinthians,Maria Isis Gonçalves,Lateral,0,2,37,6.6
-2024-11-30,Corinthians,Rebeca da Mata,Lateral,1,1,3,9.6
-2024-06-20,Cruzeiro,Henry Siqueira,Goleiro,2,1,35,8.1
-2024-08-23,Grêmio,Sra. Stephany Melo,Lateral,2,1,62,8.3
-2024-08-05,Santos,Diego Freitas,Volante,0,0,44,6.2
-2025-03-17,São Paulo,Vinícius Farias,Zagueiro,1,0,38,8.3
-2025-02-17,Cruzeiro,Sophie Viana,Atacante,1,1,38,5.1
-2024-11-18,Internacional,Sra. Olívia Macedo,Atacante,3,0,58,7.1
-2025-05-13,Atlético-MG,Srta. Mariane Novaes,Goleiro,3,2,30,8.8
-2025-04-04,Corinthians,Ágatha Silveira,Zagueiro,2,0,89,7.9
-2024-07-14,São Paulo,Maria Helena Rocha,Atacante,3,1,35,8.8
-2024-09-22,Internacional,Isabelly Costa,Volante,2,0,55,8.6
-2024-11-27,Atlético-MG,Maria Vitória Pereira,Volante,2,2,27,6.6
-2024-08-01,Flamengo,Dr. Benicio Pereira,Meia,2,1,44,6.0
-2024-12-22,São Paulo,Matheus da Cunha,Volante,3,2,43,6.1
-2024-07-27,Grêmio,Helena da Conceição,Lateral,1,1,68,5.0
-2024-11-04,Santos,Maria Fernanda da Cunha,Meia,1,1,9,8.5
-2025-03-13,Corinthians,Enrico da Mota,Goleiro,3,0,77,5.9
-2024-07-31,Flamengo,Zoe Novaes,Goleiro,0,1,56,5.9
-2024-06-08,Cruzeiro,Sr. Leandro Guerra,Lateral,2,2,49,5.1
-2025-02-12,Cruzeiro,Ayla Mendes,Atacante,0,2,48,9.9
-2025-02-12,Internacional,Nicolas Almeida,Goleiro,2,1,90,8.1
-2025-02-16,Cruzeiro,Ana Júlia Caldeira,Volante,3,1,53,9.5
-2024-06-22,Cruzeiro,Enrico da Mota,Zagueiro,2,1,56,6.4
-2025-04-29,Flamengo,Thiago Almeida,Meia,2,1,20,7.0
-2024-12-17,Corinthians,Daniel Macedo,Meia,1,0,54,5.4
-2024-09-05,Palmeiras,Diogo Moraes,Atacante,2,0,76,6.7
-2024-10-20,Flamengo,Alícia Barbosa,Lateral,2,2,62,8.1
-2024-11-21,São Paulo,Kaique Nunes,Goleiro,2,2,1,7.2
-2024-10-07,Corinthians,Alana Jesus,Meia,2,1,70,7.7
-2024-05-27,Cruzeiro,Bella Freitas,Volante,1,0,68,5.3
-2024-09-17,Cruzeiro,Elisa Costa,Goleiro,3,2,23,8.5
-2025-01-12,Santos,Hadassa Sousa,Volante,1,0,29,8.9
-2025-01-11,Atlético-MG,Antonella Novaes,Goleiro,2,0,14,5.2
-2025-01-14,Corinthians,Lucca Cirino,Lateral,2,0,75,8.5
-2024-07-31,Flamengo,Luigi Moraes,Zagueiro,2,2,58,5.9
-2025-01-24,Internacional,Sra. Stephany Melo,Atacante,3,2,17,8.3
-2025-01-28,Palmeiras,Ana Laura da Cunha,Atacante,2,1,33,6.9
-2025-02-26,Internacional,Isabela Santos,Goleiro,2,0,71,9.8
-2025-01-12,Palmeiras,Anthony Gabriel Costela,Atacante,3,1,3,9.2
-2024-09-16,Santos,Ana Luiza Mendes,Volante,1,2,77,8.4
-2024-09-25,São Paulo,Sr. Leandro Guerra,Volante,2,0,0,8.7
-2024-08-29,Grêmio,Marina Câmara,Zagueiro,1,2,17,8.9
-2024-09-03,Flamengo,Helena da Conceição,Atacante,0,2,33,5.3
-2025-02-10,Corinthians,Ana Vitória Sá,Volante,2,1,69,9.2
-2024-07-21,Corinthians,Gustavo Henrique Moreira,Atacante,1,1,50,5.4
-2025-01-24,Flamengo,Sophia Pastor,Meia,3,1,3,5.4
-2025-03-05,Flamengo,Arthur da Mata,Atacante,2,0,73,5.0
-2025-04-01,Corinthians,Enrico da Mota,Atacante,3,2,2,7.2
-2025-04-07,Cruzeiro,Gustavo Vasconcelos,Atacante,2,2,55,7.5
-2024-07-11,São Paulo,Evelyn Câmara,Atacante,0,2,5,8.4
-2025-04-06,Flamengo,Antony Azevedo,Goleiro,0,1,76,7.0
-2024-06-08,Internacional,Alexandre Farias,Lateral,2,1,11,8.6
-2025-04-10,Atlético-MG,Fernando Costela,Meia,0,0,52,7.8
-2025-03-03,Cruzeiro,Maria Isis Gonçalves,Goleiro,0,1,79,7.8
-2025-01-12,Corinthians,Anthony Gabriel Costela,Zagueiro,2,1,70,5.9
-2024-12-09,São Paulo,Ana Vitória Sá,Lateral,3,2,74,7.2
-2024-11-20,Internacional,Mathias Sá,Volante,0,1,49,7.2
-2024-12-24,Atlético-MG,Fernando Costela,Goleiro,0,2,69,8.5
-2024-07-13,Internacional,Sr. Leandro Guerra,Zagueiro,3,1,83,5.6
-2024-07-23,Flamengo,Luana Moreira,Meia,0,0,21,9.0
-2024-08-17,Atlético-MG,Sra. Stephany Melo,Atacante,1,0,36,7.2
-2025-03-08,Palmeiras,Ana Júlia Caldeira,Goleiro,3,1,34,7.4
-2024-12-07,Santos,Maria Helena Rocha,Lateral,0,2,52,5.6
-2024-10-03,Cruzeiro,Valentina Camargo,Lateral,1,1,26,6.1
+2024-11-18,São Paulo,Evelyn Costa,Lateral,3,0,20,5.8
+2024-08-08,Atlético-MG,Cauê da Cunha,Lateral,3,0,23,8.3
+2024-08-02,Palmeiras,Valentina da Mota,Volante,1,1,1,5.9
+2025-04-22,Flamengo,Eduarda Fernandes,Zagueiro,1,0,88,6.5
+2025-02-17,Corinthians,Ísis da Rosa,Volante,3,0,2,9.3
+2025-01-19,Grêmio,Agatha Souza,Zagueiro,3,0,59,7.8
+2024-12-03,Grêmio,Alícia das Neves,Volante,3,2,59,5.6
+2024-06-08,Cruzeiro,Sofia Macedo,Lateral,1,0,35,5.9
+2024-08-26,Palmeiras,Guilherme Alves,Atacante,1,1,62,9.2
+2024-06-01,Palmeiras,Marcela Lima,Atacante,3,1,47,6.6
+2024-09-02,Atlético-MG,Anna Liz da Conceição,Meia,3,0,81,7.7
+2025-04-25,Santos,Helena Ramos,Volante,0,0,28,9.0
+2024-11-22,Santos,Ester Casa Grande,Goleiro,3,0,7,5.0
+2024-09-10,Corinthians,Arthur Jesus,Lateral,2,0,4,9.6
+2024-06-29,Atlético-MG,Agatha Souza,Volante,1,0,47,6.9
+2024-06-28,Cruzeiro,Bernardo Garcia,Lateral,3,1,90,7.8
+2024-09-03,Grêmio,Sofia Macedo,Atacante,2,0,4,7.8
+2024-11-08,Atlético-MG,Ágatha Viana,Goleiro,2,2,89,5.1
+2024-06-01,Corinthians,Helena Lopes,Goleiro,3,0,3,9.5
+2024-07-11,Atlético-MG,João Lucas Pereira,Lateral,0,0,31,8.0
+2024-11-26,Internacional,Dr. Valentim Cunha,Zagueiro,1,0,61,8.2
+2024-07-01,São Paulo,Ana Beatriz Souza,Atacante,2,1,88,6.6
+2024-12-10,Flamengo,Ágatha Viana,Atacante,0,0,2,5.0
+2024-05-15,Santos,Anna Liz da Conceição,Meia,0,2,43,6.2
+2024-08-22,Internacional,João Vitor Correia,Goleiro,3,0,61,9.9
+2024-07-06,Atlético-MG,Alícia das Neves,Lateral,0,0,55,5.2
+2024-10-21,Palmeiras,Alícia das Neves,Volante,1,2,0,6.2
+2024-11-24,Grêmio,Luan Costela,Zagueiro,3,1,31,8.0
+2024-05-21,Cruzeiro,Aylla Ramos,Atacante,3,0,69,7.0
+2024-09-01,Flamengo,Agatha Souza,Volante,2,1,79,5.2
+2024-05-20,São Paulo,Thiago Garcia,Zagueiro,2,2,18,6.7
+2025-02-20,São Paulo,Sr. Alexandre Rios,Zagueiro,3,0,10,6.7
+2024-10-14,Palmeiras,Miguel Vargas,Atacante,1,2,6,8.3
+2024-08-03,Santos,Helena Ramos,Goleiro,1,0,47,9.8
+2024-07-12,Grêmio,João Vitor Correia,Lateral,2,0,18,8.6
+2025-01-27,São Paulo,Dra. Heloísa Martins,Atacante,3,0,23,9.3
+2024-11-18,Cruzeiro,Benicio Andrade,Atacante,3,1,88,8.3
+2024-07-27,Palmeiras,Isaque Fogaça,Zagueiro,1,2,79,10.0
+2024-08-09,Flamengo,Vitor Gabriel Teixeira,Goleiro,1,0,47,8.7
+2025-01-15,Cruzeiro,Brayan Sampaio,Lateral,0,0,47,5.5
+2025-04-26,Internacional,Benício Vargas,Atacante,1,1,50,9.5
+2025-01-13,Palmeiras,Marina Teixeira,Atacante,0,2,63,9.3
+2024-08-23,Corinthians,Pedro Fogaça,Lateral,3,0,16,10.0
+2025-02-11,Grêmio,Guilherme Alves,Lateral,3,0,36,9.6
+2024-07-07,Grêmio,Srta. Sofia Gonçalves,Lateral,3,0,62,6.5
+2024-06-12,Atlético-MG,Sr. Alexandre Rios,Lateral,3,1,24,7.0
+2024-12-02,Corinthians,Sr. Ryan Fonseca,Zagueiro,3,2,85,6.8
+2024-05-13,Palmeiras,Dr. Léo Vargas,Goleiro,3,0,8,8.5
+2024-08-08,Atlético-MG,Evelyn Costa,Zagueiro,2,1,49,9.3
+2025-02-04,Atlético-MG,Maria Flor Pastor,Volante,0,0,7,8.5
+2024-08-27,Corinthians,Otávio Andrade,Volante,1,1,31,7.9
+2024-09-02,Corinthians,Clarice Cirino,Zagueiro,2,1,21,8.0
+2024-11-06,Flamengo,Raul Brito,Zagueiro,1,2,53,7.7
+2024-11-21,Flamengo,Bruna Lopes,Meia,3,0,67,9.2
+2024-12-07,São Paulo,Marina Novais,Lateral,2,0,29,5.2
+2025-03-23,Corinthians,Mariane Rocha,Zagueiro,2,1,89,9.8
+2024-11-30,Santos,Mariane Moraes,Meia,0,1,0,7.2
+2024-08-15,Internacional,Thomas da Rocha,Goleiro,3,0,0,9.8
+2025-04-17,Grêmio,Benício Vargas,Meia,2,2,75,7.8
+2025-03-26,Grêmio,Maria Liz Caldeira,Goleiro,0,1,68,5.5
+2024-07-11,São Paulo,Vitor Barbosa,Volante,3,1,89,7.5
+2025-04-11,São Paulo,Sr. Alexandre Rios,Atacante,1,0,22,5.2
+2024-09-13,Grêmio,Zoe Cavalcante,Zagueiro,3,2,9,8.1
+2024-11-20,Flamengo,Vitor Barbosa,Meia,3,2,1,5.1
+2025-01-15,São Paulo,Dra. Heloísa Martins,Volante,1,2,32,7.3
+2025-01-04,Grêmio,Mariane Moraes,Lateral,0,0,39,9.5
+2024-06-01,Palmeiras,Srta. Ester Fernandes,Goleiro,1,0,25,8.4
+2024-06-09,Corinthians,Brayan Sampaio,Volante,1,0,74,9.4
+2024-07-11,Santos,Marina Teixeira,Meia,0,1,72,7.8
+2024-09-03,Flamengo,Luiz Gustavo da Cruz,Volante,1,0,23,9.3
+2025-04-26,Grêmio,Mariane Moraes,Goleiro,2,0,22,8.8
+2025-04-06,Flamengo,Anna Liz da Conceição,Volante,3,0,85,6.5
+2024-11-24,Flamengo,Zoe Cavalcante,Volante,0,0,18,5.5
+2025-01-16,São Paulo,Liz Aragão,Zagueiro,2,0,68,6.5
+2024-05-25,São Paulo,Luiz Fernando Alves,Volante,0,2,15,8.9
+2025-01-13,Grêmio,Davi Lucca da Paz,Zagueiro,2,1,4,8.7
+2024-05-13,Palmeiras,Eduarda Fernandes,Goleiro,1,1,16,5.5
+2025-01-11,Cruzeiro,Davi Lucca da Paz,Goleiro,1,2,65,5.4
+2024-10-04,Internacional,Liz Aragão,Meia,0,1,16,9.7
+2024-11-13,São Paulo,Benicio Andrade,Atacante,3,2,18,8.9
+2024-11-22,Atlético-MG,Maria Júlia Costa,Zagueiro,1,2,38,7.2
+2024-09-24,Palmeiras,Mariane Rocha,Atacante,1,0,38,8.7
+2025-01-04,Santos,Helena Lopes,Volante,0,0,55,7.6
+2024-11-29,Internacional,Ayla Ramos,Volante,0,0,60,6.6
+2024-10-13,Internacional,Luiz Fernando Alves,Lateral,3,0,35,7.8
+2024-11-20,Santos,Thales Montenegro,Goleiro,0,1,14,7.3
+2024-12-01,Internacional,Enzo Viana,Goleiro,2,1,15,9.5
+2024-09-16,Cruzeiro,Dr. Valentim Cunha,Meia,3,1,35,7.3
+2024-11-20,Palmeiras,Dr. Valentim Cunha,Volante,0,0,63,7.3
+2025-04-04,Flamengo,Agatha Souza,Goleiro,0,0,28,5.7
+2025-03-16,Internacional,Isaque Fogaça,Lateral,3,0,46,9.6
+2025-03-12,Cruzeiro,Ana Beatriz Souza,Zagueiro,2,0,4,5.1
+2024-11-23,Internacional,Apollo Sampaio,Zagueiro,3,2,48,6.9
+2024-12-17,Santos,Maria Liz Caldeira,Lateral,2,0,76,5.3
+2025-04-23,Corinthians,Leandro Siqueira,Meia,3,2,5,8.5
+2024-08-01,Grêmio,Enzo Viana,Meia,2,0,52,9.7
+2025-04-20,Corinthians,Aylla Ramos,Meia,1,0,0,9.8
+2024-08-28,São Paulo,Anna Liz da Conceição,Goleiro,0,1,71,5.1
+2024-11-08,Palmeiras,Dr. Luiz Gustavo Cavalcanti,Atacante,2,2,49,9.3
+2024-12-05,Grêmio,Marina Novais,Atacante,2,0,16,5.7
+2025-02-11,Atlético-MG,Heitor Casa Grande,Meia,0,1,65,9.0
+2024-11-18,Internacional,Emilly Garcia,Volante,1,1,49,7.9
+2024-08-26,Corinthians,Helena Lopes,Zagueiro,3,0,37,7.3
+2025-02-23,Atlético-MG,Srta. Rebeca Araújo,Goleiro,0,0,3,7.3
+2024-09-30,Flamengo,João Lucas Rodrigues,Meia,1,1,52,6.7
+2025-02-14,Corinthians,Miguel Vargas,Lateral,1,0,66,9.4
+2024-07-16,Palmeiras,Maria Cecília Albuquerque,Zagueiro,2,2,20,5.8
+2024-05-22,Internacional,Marina Teixeira,Atacante,0,0,11,6.0
+2024-12-31,Flamengo,Sra. Carolina Leão,Zagueiro,0,2,72,5.5
+2024-09-25,Santos,Maria Liz Caldeira,Atacante,2,2,47,5.3
+2024-12-23,São Paulo,Leandro Siqueira,Goleiro,2,0,51,6.0
+2024-05-13,Cruzeiro,Maria Liz Caldeira,Atacante,1,2,77,7.3
+2025-04-03,Cruzeiro,Brayan Sampaio,Lateral,2,2,17,7.2
+2024-09-03,Corinthians,João Lucas Pereira,Goleiro,2,0,27,5.1
+2024-06-03,Flamengo,Maria Liz Caldeira,Zagueiro,1,0,16,6.7
+2024-05-25,São Paulo,Dr. Isaque Mendonça,Lateral,0,0,17,5.4
+2025-04-08,Internacional,Sr. Vinícius Vieira,Goleiro,3,2,41,6.4
+2024-11-17,São Paulo,Vitor Guerra,Zagueiro,2,2,69,8.0
+2024-12-27,Grêmio,Benício Vargas,Meia,1,1,3,9.3
+2024-07-04,Cruzeiro,Ísis da Rosa,Goleiro,2,2,30,7.1
+2025-04-11,Cruzeiro,Srta. Sofia Gonçalves,Atacante,1,2,3,5.0
+2024-08-29,Flamengo,Marina Novais,Atacante,2,1,56,8.6
+2024-08-14,Cruzeiro,Vitor Guerra,Lateral,0,0,69,9.8
+2024-12-17,Corinthians,João Lucas Rodrigues,Goleiro,3,0,11,5.6
+2024-06-27,Internacional,Bernardo Garcia,Atacante,2,2,76,7.7
+2024-06-19,Internacional,Isabelly Siqueira,Zagueiro,0,2,9,9.9
+2024-12-27,Cruzeiro,Alícia das Neves,Volante,0,2,72,8.8
+2024-12-12,Cruzeiro,Ana Luiza Cassiano,Lateral,1,2,48,9.3
+2024-11-25,Palmeiras,Sra. Carolina Leão,Meia,3,2,8,6.0
+2025-01-02,Corinthians,Leandro Siqueira,Atacante,3,0,71,9.1
+2024-07-12,Corinthians,Luiz Fernando Alves,Meia,0,2,77,7.6
+2024-08-28,Santos,Davi Lucca da Paz,Goleiro,1,2,13,9.5
+2025-04-09,Internacional,Daniel Aparecida,Goleiro,0,0,65,7.7
+2025-03-17,Cruzeiro,Srta. Rebeca Araújo,Lateral,1,1,66,8.1
+2024-05-28,São Paulo,João Lucas Pereira,Meia,0,1,26,8.9
+2024-05-15,Santos,Daniel Aparecida,Meia,0,2,54,5.7
+2024-06-30,Internacional,Ana Vitória Duarte,Zagueiro,0,2,73,6.7
+2025-03-25,São Paulo,Valentina da Mota,Volante,3,2,28,7.7
+2025-02-12,São Paulo,Eduarda Fernandes,Meia,1,2,35,7.7
+2024-10-04,Grêmio,Dr. Thomas Gonçalves,Lateral,1,1,37,6.1
+2025-02-22,Cruzeiro,Anna Liz da Conceição,Zagueiro,0,0,59,8.0
+2025-02-03,São Paulo,Letícia Viana,Meia,3,2,30,8.0
+2024-06-04,Cruzeiro,Dr. Benjamin Porto,Atacante,2,2,0,5.6
+2024-11-15,São Paulo,Dr. Luiz Gustavo Cavalcanti,Goleiro,0,2,53,7.6
+2025-05-01,Grêmio,Sofia Macedo,Goleiro,0,0,73,9.0
+2024-11-29,Santos,Srta. Ester Fernandes,Volante,0,1,74,9.6
+2024-10-10,Palmeiras,Maria Júlia Costa,Zagueiro,2,0,42,5.2
+2025-01-03,Corinthians,Dr. Luiz Gustavo Cavalcanti,Goleiro,2,1,87,6.6
+2025-02-08,Internacional,Vitor Guerra,Volante,1,0,48,5.9
+2024-09-10,Santos,Ana Luiza Aragão,Volante,1,1,62,10.0
+2025-02-22,Atlético-MG,Leandro Siqueira,Meia,1,2,50,6.0
+2024-09-05,Flamengo,Igor Abreu,Meia,1,2,17,6.5
+2025-04-28,Palmeiras,Ana Vitória Duarte,Atacante,3,0,37,8.8
+2024-07-14,Flamengo,Bruna Lopes,Meia,2,2,2,6.9
+2025-04-20,Corinthians,Sr. Vinícius Vieira,Volante,0,2,54,5.8
+2024-09-19,Atlético-MG,Evelyn Costa,Goleiro,0,2,66,6.2
+2025-01-16,Cruzeiro,Dr. Luiz Gustavo Cavalcanti,Goleiro,2,0,66,9.4
+2024-05-22,Cruzeiro,Sr. Vinícius Vieira,Lateral,3,1,31,9.3
+2024-12-07,São Paulo,Bernardo Garcia,Atacante,0,1,54,9.5
+2024-12-04,Atlético-MG,Sr. Alexandre Rios,Meia,2,0,18,7.9
+2025-04-01,Palmeiras,Alícia das Neves,Goleiro,2,0,19,6.7
+2024-11-01,Corinthians,Otávio Andrade,Volante,3,0,36,7.0
+2024-09-28,Santos,Julia Vargas,Meia,3,2,85,8.9
+2025-05-01,Cruzeiro,Nicolas Cirino,Atacante,2,0,80,6.3
+2024-12-26,Palmeiras,Clarice Cirino,Goleiro,1,1,3,5.7
+2025-05-13,Palmeiras,Otávio Andrade,Meia,2,1,17,7.6
+2025-02-23,São Paulo,Dr. Benjamin Porto,Atacante,1,0,36,8.3
+2024-08-14,Atlético-MG,Maria Liz Caldeira,Meia,2,0,30,9.4
+2024-11-26,Palmeiras,Mariane Moraes,Meia,0,0,70,7.9
+2024-09-30,Grêmio,Mariane Rocha,Atacante,1,1,63,6.8
+2024-11-09,Flamengo,Srta. Rebeca Araújo,Meia,3,2,25,5.3
+2025-04-16,Cruzeiro,Sr. Vitor Aragão,Volante,0,2,38,8.1
+2024-11-22,Palmeiras,Ísis da Rosa,Atacante,1,0,55,6.1
+2025-04-11,São Paulo,Liz Aragão,Lateral,3,2,80,7.5
+2025-04-03,Palmeiras,Agatha Souza,Zagueiro,1,0,72,5.4
+2025-01-26,Flamengo,Isadora da Cruz,Meia,2,1,24,6.2
+2025-01-27,Palmeiras,Luan Costela,Lateral,1,1,11,6.8
+2024-06-25,Flamengo,Maria Cecília Albuquerque,Goleiro,1,0,54,7.6
+2025-01-09,Cruzeiro,Liz Aragão,Meia,0,2,79,9.2
+2024-06-24,Palmeiras,Isadora da Cruz,Volante,2,2,25,5.3
+2024-06-12,Atlético-MG,Aylla Ramos,Zagueiro,0,1,6,5.2
+2024-07-29,Atlético-MG,Melissa da Cunha,Lateral,3,1,58,9.7
+2024-06-10,São Paulo,Olivia da Rosa,Lateral,1,2,16,8.3
+2024-10-13,Corinthians,Helena Ramos,Meia,1,2,36,7.7
+2024-07-12,Atlético-MG,Otávio Andrade,Volante,2,2,3,9.0
+2024-06-12,Palmeiras,Sr. Alexandre Rios,Meia,1,1,65,5.1
+2024-08-16,Palmeiras,Ana Beatriz Souza,Lateral,2,0,12,6.9
+2025-05-03,Corinthians,Olivia da Rosa,Atacante,3,0,61,5.4
+2024-12-16,Grêmio,Maria Flor Pastor,Volante,2,0,9,5.5
+2025-02-17,São Paulo,Letícia Viana,Goleiro,1,0,2,7.3
+2025-03-16,Palmeiras,Vitor Gabriel Teixeira,Zagueiro,1,0,24,6.4
+2025-03-11,Santos,João Lucas Pereira,Goleiro,0,2,36,8.9
+2024-08-19,Internacional,Olivia da Rosa,Atacante,3,2,61,8.1
+2024-12-28,Atlético-MG,Raul Brito,Volante,2,0,62,6.2
+2024-11-26,Palmeiras,Maria Flor Pastor,Zagueiro,0,0,2,9.1
+2025-04-05,Grêmio,Dr. Luiz Gustavo Cavalcanti,Goleiro,0,2,19,10.0
+2024-10-02,Corinthians,Isabelly Siqueira,Zagueiro,1,0,87,9.5
+2024-09-03,Internacional,Thales Lima,Meia,2,0,72,9.5
+2024-06-14,Palmeiras,Sr. Vitor Aragão,Goleiro,3,2,28,9.4
+2024-06-12,Palmeiras,Eduarda Fernandes,Zagueiro,0,2,39,9.7
+2024-10-07,Palmeiras,Valentina da Mota,Volante,2,1,71,8.5
+2024-08-08,Palmeiras,Isabelly Monteiro,Meia,3,0,27,5.4
+2025-05-01,Palmeiras,Maria Fernanda da Paz,Meia,3,1,57,7.9
+2025-03-22,Palmeiras,Maria Fernanda da Paz,Lateral,0,0,32,9.4
+2024-10-24,Cruzeiro,Mariane Rocha,Goleiro,2,2,47,8.5
+2024-06-24,Santos,João Felipe Sá,Zagueiro,3,2,26,8.8
+2024-12-04,Grêmio,Igor Abreu,Zagueiro,0,2,30,9.1
+2024-11-29,Grêmio,Ana Beatriz Souza,Zagueiro,3,1,77,8.8
+2025-01-03,Atlético-MG,Ana Vitória Duarte,Meia,1,2,16,5.6
+2025-01-15,Cruzeiro,Srta. Ester Fernandes,Atacante,2,1,70,7.7
+2024-12-14,Palmeiras,Helena Lopes,Volante,3,2,36,5.5
+2024-06-30,São Paulo,Marcela Campos,Volante,1,2,63,8.5
+2024-07-15,Flamengo,Dr. Isaque Mendonça,Atacante,0,1,89,5.4
+2025-02-26,Palmeiras,Maria Sophia Moura,Meia,3,2,51,8.8
+2024-12-04,Flamengo,Guilherme Alves,Lateral,2,1,86,7.2
+2025-03-03,Palmeiras,Helena Sales,Volante,0,2,12,9.3
+2025-04-01,Atlético-MG,Helena Sales,Meia,2,1,46,8.4
+2024-11-11,Corinthians,Arthur Jesus,Atacante,3,0,20,9.5
+2025-03-31,São Paulo,Guilherme Alves,Lateral,0,0,2,6.6
+2024-11-30,Internacional,João Lucas Pereira,Zagueiro,0,2,63,9.3
+2025-04-25,Palmeiras,João Lucas Pereira,Volante,3,2,71,5.8
+2024-08-23,Flamengo,Evelyn Costa,Meia,3,2,26,9.2
+2024-05-25,Corinthians,Evelyn Costa,Volante,0,1,2,5.9
+2024-11-26,Santos,Marina Novais,Atacante,2,0,83,7.2
+2025-02-14,Santos,Helena Ramos,Atacante,1,0,1,9.0
+2024-10-07,Flamengo,Maria Flor Pimenta,Meia,1,1,63,7.0
+2024-06-20,Internacional,João Vitor Correia,Lateral,0,0,32,9.8
+2025-02-10,Cruzeiro,Sr. Vitor Aragão,Atacante,2,0,16,5.5
+2025-01-08,Internacional,Maria Liz Caldeira,Volante,3,0,73,8.9
+2025-05-13,Flamengo,Alícia das Neves,Goleiro,0,0,76,5.4
+2024-12-04,São Paulo,Vitor Guerra,Atacante,2,1,37,7.8
+2024-05-28,Palmeiras,João Lucas Pereira,Zagueiro,1,2,43,5.5
+2024-12-12,Corinthians,Guilherme Alves,Goleiro,1,0,31,6.5
+2024-11-11,Cruzeiro,Maria Flor Pimenta,Zagueiro,3,1,83,6.7
+2024-05-21,Atlético-MG,Cauê da Cunha,Volante,3,1,57,8.9
+2025-01-13,Corinthians,Dr. Benjamin Porto,Volante,1,1,74,8.6
+2025-01-09,Atlético-MG,Mariane Moraes,Meia,0,0,18,9.9
+2025-02-03,Cruzeiro,Evelyn Costa,Meia,2,2,43,7.8
+2024-11-20,Corinthians,Benício Vargas,Meia,3,0,58,8.3
+2024-12-04,Corinthians,Srta. Ester Fernandes,Meia,0,1,62,6.0
+2024-10-10,Flamengo,Marina Novais,Meia,2,1,60,9.2
+2025-02-11,São Paulo,Mariane Rocha,Volante,1,1,48,7.6
+2024-09-06,São Paulo,Julia Vargas,Volante,1,2,33,9.0
+2024-12-26,Corinthians,Ayla Ramos,Atacante,0,2,17,8.2
+2024-11-21,Flamengo,Luiz Gustavo da Cruz,Zagueiro,3,1,86,8.2
+2025-05-13,Palmeiras,Bernardo Garcia,Meia,1,0,40,6.2
+2024-06-15,Cruzeiro,Isadora da Cruz,Volante,1,2,69,8.3
+2025-02-05,Santos,Dr. Valentim Cunha,Zagueiro,2,0,4,6.6
+2025-02-19,Cruzeiro,Benicio Andrade,Meia,2,2,30,6.2
+2024-06-28,Internacional,Maria Sophia Moura,Zagueiro,0,1,75,9.1
+2025-04-26,Grêmio,Dr. Thomas Gonçalves,Lateral,3,0,56,5.8
+2024-12-13,Santos,Bernardo Garcia,Meia,3,0,48,9.2
+2024-06-01,Cruzeiro,Dr. Valentim Cunha,Atacante,3,2,60,5.2
+2024-10-08,Palmeiras,Agatha Souza,Meia,3,1,28,8.2
+2025-04-18,Internacional,Nicolas Cirino,Meia,0,0,50,5.2
+2024-08-10,São Paulo,João Felipe Sá,Zagueiro,3,2,42,5.1
+2024-11-13,Palmeiras,Helena Sales,Goleiro,2,2,55,7.6
+2024-09-19,Atlético-MG,Luan Costela,Atacante,3,2,44,5.7
+2024-10-31,Atlético-MG,Bruna Lopes,Zagueiro,0,0,7,5.8
+2024-07-06,Grêmio,Maria Liz Caldeira,Zagueiro,0,2,89,6.9
+2025-03-31,Palmeiras,Isaque Fogaça,Goleiro,1,2,75,5.6
+2025-04-03,São Paulo,Sr. Alexandre Rios,Goleiro,2,2,79,9.1
+2025-03-28,Grêmio,Dr. Léo Vargas,Atacante,3,1,63,5.2
+2025-01-27,Flamengo,Dr. Benjamin Porto,Goleiro,3,0,72,5.5
+2024-09-06,Santos,Cauê da Cunha,Volante,1,0,3,8.3
+2025-03-13,Palmeiras,Isaque Fogaça,Meia,0,2,82,9.3
+2025-05-05,Cruzeiro,Dr. Luiz Gustavo Cavalcanti,Goleiro,0,2,64,6.8
+2025-02-20,Grêmio,Thiago Garcia,Volante,0,0,32,6.2
+2024-07-07,Corinthians,Luan Costela,Atacante,1,2,71,8.3
+2024-11-07,Palmeiras,Sr. Ryan Fonseca,Goleiro,2,0,25,9.8
+2024-11-24,Internacional,Dr. Valentim Cunha,Meia,0,1,24,6.9
+2024-10-16,Grêmio,Heitor Casa Grande,Volante,3,2,42,8.8
+2025-04-16,Palmeiras,Srta. Raquel Garcia,Meia,0,2,79,8.2
+2025-02-21,Santos,Benicio Andrade,Lateral,2,2,67,9.7
+2024-10-19,Corinthians,Sr. Vinícius Vieira,Atacante,0,0,51,8.4
+2024-06-11,Corinthians,Bruna Lopes,Zagueiro,3,1,17,7.0
+2024-12-04,São Paulo,Dr. Léo Vargas,Goleiro,1,2,6,8.4
+2024-07-01,Atlético-MG,Thales Lima,Goleiro,1,0,41,9.6
+2024-09-10,São Paulo,Brayan Sampaio,Atacante,0,0,46,9.8
+2024-09-30,Internacional,Marina Teixeira,Atacante,3,0,25,6.1
+2025-03-12,Cruzeiro,Davi Lucca da Paz,Goleiro,1,2,36,6.5
+2025-03-09,Corinthians,Zoe Cavalcante,Volante,2,1,88,5.5
+2024-08-17,Flamengo,Ísis da Rosa,Zagueiro,0,2,48,8.7
+2025-01-26,Flamengo,Marina Teixeira,Goleiro,1,0,14,6.2
+2025-01-16,Santos,Sra. Carolina Leão,Meia,0,0,24,9.9
+2025-05-04,Atlético-MG,Luiz Fernando Alves,Zagueiro,2,1,38,8.6
+2024-12-30,Atlético-MG,Dra. Heloísa Martins,Volante,1,2,67,8.6
+2025-01-21,Atlético-MG,Benicio Andrade,Meia,0,2,72,6.6
+2024-06-10,Internacional,Dr. Benjamin Porto,Volante,0,0,59,5.3
+2025-04-05,Grêmio,Bruna Lopes,Atacante,3,1,66,7.7
+2025-01-05,Corinthians,Maria Liz Caldeira,Atacante,1,2,43,8.3
+2024-10-22,Corinthians,Julia Vargas,Atacante,3,1,43,5.4
+2024-07-12,Santos,Ísis da Rosa,Zagueiro,1,1,54,8.8
+2025-03-29,Cruzeiro,João Lucas Rodrigues,Lateral,3,1,22,7.0
+2025-04-03,Internacional,Letícia Viana,Volante,3,0,29,7.6
+2025-02-20,Internacional,Isaque Fogaça,Goleiro,0,1,13,5.6
+2024-07-09,Palmeiras,Ana Vitória Duarte,Goleiro,0,1,90,6.2
+2024-09-06,Corinthians,Raul Brito,Atacante,2,1,67,9.4
+2024-07-04,Corinthians,Benício Vargas,Lateral,2,1,59,9.3
+2024-08-10,Flamengo,Davi Lucca da Paz,Atacante,1,0,34,8.4
+2024-08-10,Internacional,Maria Cecília Sá,Volante,1,0,14,7.0
+2025-02-16,Palmeiras,Srta. Ester Fernandes,Zagueiro,1,1,9,9.1
+2024-06-15,Internacional,Sr. Alexandre Rios,Volante,2,1,64,8.0
+2024-11-09,São Paulo,Enzo Viana,Lateral,0,1,24,8.3
+2025-02-22,Cruzeiro,Marina Teixeira,Zagueiro,3,0,78,9.8
+2024-11-25,São Paulo,Thales Montenegro,Meia,3,2,5,5.0
+2024-05-15,Palmeiras,Helena Ramos,Lateral,2,2,4,8.9
+2025-01-24,Santos,Alícia das Neves,Atacante,2,1,30,8.5
+2025-04-24,Atlético-MG,Liz Aragão,Goleiro,2,0,72,8.9
+2024-08-05,Corinthians,Brayan Sampaio,Volante,0,2,39,9.1
+2025-02-17,São Paulo,Evelyn Costa,Volante,3,1,49,5.7
+2025-01-12,Corinthians,Brayan Sampaio,Lateral,3,1,13,5.9
+2024-06-28,Grêmio,Ísis da Rosa,Zagueiro,1,2,20,5.1
+2024-06-23,Grêmio,Dr. Isaque Mendonça,Zagueiro,3,2,4,6.1
+2024-06-15,Palmeiras,Luiz Fernando Alves,Meia,1,0,44,5.2
+2024-07-22,Corinthians,Helena Ramos,Lateral,2,0,51,6.3
+2024-07-29,São Paulo,Sr. Vinícius Vieira,Volante,3,1,51,9.3
+2025-01-21,Grêmio,Davi Lucca da Paz,Meia,0,0,63,8.9
+2024-12-03,Santos,Leandro Siqueira,Zagueiro,3,0,9,9.7
+2024-11-25,Cruzeiro,Marina Teixeira,Volante,2,2,33,6.9
+2025-04-07,Cruzeiro,Ana Luiza Aragão,Goleiro,3,2,87,9.4
+2025-04-06,Flamengo,Otávio Andrade,Meia,3,0,71,5.4
+2024-05-15,Flamengo,Srta. Rebeca Araújo,Lateral,3,0,4,7.5
+2025-01-12,São Paulo,Sr. Vitor Aragão,Volante,2,2,6,8.9
+2025-04-17,Grêmio,Letícia Viana,Atacante,1,1,37,5.4
+2024-06-30,Flamengo,Srta. Sofia Gonçalves,Goleiro,0,1,78,6.0
+2025-02-22,São Paulo,Vitor Gabriel Teixeira,Atacante,0,0,88,7.7
+2025-01-24,Palmeiras,Dr. Isaque Mendonça,Meia,3,2,1,8.0
+2024-09-16,Palmeiras,Sr. Vitor Aragão,Zagueiro,2,0,39,8.0
+2025-04-23,Santos,Nicolas Cirino,Atacante,3,1,88,5.8
+2025-03-31,São Paulo,Luiz Fernando Alves,Volante,3,2,45,5.1
+2025-04-26,Corinthians,João Vitor Correia,Atacante,2,2,11,9.6
+2024-11-10,Grêmio,Thales Lima,Atacante,0,1,7,8.7
+2025-05-13,Atlético-MG,Miguel Vargas,Volante,3,2,85,8.8
+2025-04-03,Internacional,Mariane Rocha,Meia,0,1,1,5.7
+2025-03-01,São Paulo,Ágatha Viana,Zagueiro,2,2,22,9.2
+2024-06-01,Internacional,Srta. Raquel Garcia,Meia,0,0,55,8.1
+2024-08-31,Corinthians,Miguel Vargas,Meia,1,2,24,8.8
+2025-04-08,Cruzeiro,Ayla Ramos,Goleiro,3,0,2,10.0
+2025-04-03,Corinthians,Marcela Campos,Zagueiro,1,2,88,7.8
+2025-01-15,Atlético-MG,Maria Júlia Costa,Lateral,1,0,12,7.7
+2025-03-15,Internacional,Dr. Léo Vargas,Zagueiro,1,0,77,6.0
+2024-06-09,Grêmio,Dr. Thomas Gonçalves,Lateral,3,2,69,9.4
+2024-05-14,São Paulo,Pedro Fogaça,Volante,1,1,25,7.0
+2024-05-26,Internacional,Marina Teixeira,Zagueiro,1,1,3,5.9
+2024-07-21,São Paulo,Aylla Ramos,Volante,0,1,2,5.3
+2024-10-27,Atlético-MG,Pedro Fogaça,Atacante,3,1,29,9.0
+2024-09-06,Corinthians,Ana Luiza Aragão,Atacante,2,1,23,6.7
+2025-02-20,Internacional,Sra. Fernanda da Mata,Volante,3,2,47,6.9
+2024-06-11,Atlético-MG,Ísis da Rosa,Goleiro,1,2,46,10.0
+2024-08-29,Flamengo,Aylla Ramos,Atacante,3,2,90,8.4
+2024-10-02,Atlético-MG,Melissa da Cunha,Zagueiro,3,0,60,9.9
+2024-07-16,Flamengo,Marina Novais,Atacante,1,0,69,7.6
+2024-05-21,Corinthians,Thiago Garcia,Zagueiro,2,1,25,9.4
+2025-03-19,Grêmio,João Lucas Rodrigues,Goleiro,0,1,63,7.4
+2025-03-02,São Paulo,Olivia da Rosa,Zagueiro,2,0,23,8.6
+2024-07-27,Santos,Dr. Luiz Gustavo Cavalcanti,Atacante,3,0,30,9.6
+2024-08-23,São Paulo,Luiz Fernando Alves,Atacante,3,1,29,5.2
+2024-10-10,Corinthians,Ísis da Rosa,Volante,1,1,79,6.9
+2024-08-03,Santos,Caroline Duarte,Atacante,3,0,44,9.3
+2024-08-06,São Paulo,Isaque Fogaça,Zagueiro,2,0,20,7.7
+2025-04-15,Atlético-MG,Isabelly Monteiro,Zagueiro,3,2,19,5.6
+2024-11-12,Atlético-MG,Marina Teixeira,Zagueiro,1,1,56,7.5
+2024-12-31,Palmeiras,Vitor Barbosa,Lateral,2,1,36,7.8
+2025-03-21,Corinthians,Isadora da Cruz,Meia,3,0,60,5.6
+2024-09-19,Grêmio,Vitor Gabriel Teixeira,Zagueiro,0,2,85,7.8
+2025-05-01,Cruzeiro,Maria Cecília Albuquerque,Meia,1,1,42,5.3
+2024-06-28,Flamengo,Aylla Ramos,Zagueiro,1,1,69,9.2
+2024-11-07,Grêmio,Letícia Viana,Zagueiro,1,0,65,5.5
+2024-11-21,Corinthians,Olivia da Rosa,Atacante,3,2,39,5.6
+2025-03-23,Corinthians,Emilly Garcia,Lateral,2,0,63,6.7
+2025-04-22,São Paulo,Vitor Guerra,Volante,1,1,14,6.0
+2024-06-15,Internacional,Mariane Rocha,Atacante,2,0,39,9.9
+2024-12-23,Flamengo,Helena Lopes,Zagueiro,0,1,2,9.5
+2024-10-19,São Paulo,Luiz Gustavo da Cruz,Atacante,2,2,88,7.0
+2024-12-03,Corinthians,Vitor Barbosa,Lateral,2,1,7,6.4
+2024-06-27,Santos,Benicio Andrade,Meia,0,2,8,7.0
+2024-11-12,Cruzeiro,Isaque Fogaça,Zagueiro,3,1,11,5.8
+2024-08-03,Corinthians,Enzo Viana,Lateral,1,2,39,7.5
+2025-05-10,Flamengo,Bruna Lopes,Meia,3,2,3,9.0
+2024-09-27,Internacional,Thiago Garcia,Goleiro,3,2,45,6.6
+2024-07-16,Atlético-MG,Marina Teixeira,Atacante,0,1,3,10.0
+2024-05-20,Atlético-MG,Ágatha Viana,Meia,0,2,67,8.6
+2024-09-11,Grêmio,Luiz Gustavo da Cruz,Meia,3,0,8,9.1
+2024-11-21,Internacional,Liz Aragão,Volante,3,0,10,9.5
+2024-11-01,Santos,Luiz Fernando Alves,Zagueiro,1,2,75,6.7
+2024-07-12,Grêmio,Dr. Valentim Cunha,Zagueiro,1,0,84,7.1
+2024-12-31,Santos,Srta. Rebeca Araújo,Zagueiro,1,2,56,7.2
+2025-01-15,Internacional,Aylla Ramos,Meia,3,2,14,6.3
+2024-12-27,São Paulo,Breno Oliveira,Zagueiro,1,2,39,5.0
+2024-09-25,Atlético-MG,Isabelly Monteiro,Goleiro,3,0,71,5.4
+2024-11-14,Corinthians,Pedro Fogaça,Zagueiro,0,2,37,6.8
+2024-11-17,Corinthians,Maria Flor Pastor,Meia,0,1,13,9.5
+2024-09-30,Atlético-MG,Melissa da Cunha,Lateral,3,0,78,6.3
+2025-01-19,Internacional,Maria Júlia Costa,Lateral,2,1,45,7.3
+2024-05-14,Grêmio,Maria Flor Pimenta,Atacante,2,2,29,9.0
+2024-10-05,São Paulo,Clarice Cirino,Atacante,1,1,86,5.6
+2025-04-14,Corinthians,Enzo Viana,Zagueiro,2,0,27,5.1
+2024-07-14,Santos,Thiago Garcia,Volante,1,1,52,7.7
+2025-05-01,Flamengo,Ana Beatriz Souza,Goleiro,3,0,51,6.5
+2025-01-09,Grêmio,Luiz Gustavo da Cruz,Goleiro,2,1,40,5.2
+2024-10-28,Cruzeiro,Alícia das Neves,Goleiro,0,1,85,9.5
+2024-10-22,Atlético-MG,Breno Oliveira,Meia,1,0,47,5.2
+2025-04-18,Palmeiras,Luiz Fernando Alves,Meia,0,0,66,7.4
+2024-07-29,Santos,Vitor Gabriel Teixeira,Lateral,0,1,87,9.8
+2024-08-30,Atlético-MG,Sofia Macedo,Volante,1,1,46,5.7
+2024-07-21,São Paulo,Evelyn Costa,Atacante,3,0,50,7.2
+2024-10-14,Corinthians,Pedro Fogaça,Volante,3,1,75,7.4
+2024-09-02,Palmeiras,Valentina da Mota,Zagueiro,2,2,0,6.3
+2024-06-17,Internacional,Maria Liz Caldeira,Goleiro,1,0,60,7.4
+2025-02-25,Cruzeiro,Liz Aragão,Volante,1,0,56,6.7
+2024-07-02,Corinthians,Maria Fernanda da Paz,Atacante,2,0,83,6.0
+2025-03-10,Internacional,Ana Luiza Aragão,Atacante,0,1,7,5.2
+2024-05-20,Flamengo,Dr. Léo Vargas,Meia,0,0,63,7.6
+2024-06-24,Internacional,Melissa da Cunha,Meia,0,0,16,5.6
+2024-10-05,Atlético-MG,Ísis da Rosa,Goleiro,2,0,63,8.5
+2024-07-21,Flamengo,Maria Fernanda da Paz,Volante,2,0,11,8.4
+2025-04-15,Atlético-MG,Mariane Rocha,Zagueiro,0,0,90,5.0
+2024-08-10,Atlético-MG,Ana Luiza Aragão,Volante,1,1,65,8.3
+2024-06-19,São Paulo,Isaque Fogaça,Meia,2,2,27,7.7
+2024-10-21,Flamengo,Eduarda Fernandes,Zagueiro,2,2,40,9.7
+2025-04-04,Santos,Marcela Lima,Zagueiro,2,2,76,5.1
+2025-02-26,Corinthians,Agatha Souza,Goleiro,2,2,83,8.2
+2024-07-29,Palmeiras,Evelyn Costa,Atacante,2,1,39,9.1
+2024-07-24,Corinthians,Apollo Sampaio,Meia,2,1,84,9.0
+2024-10-22,Santos,Miguel Vargas,Goleiro,1,0,53,9.3
+2024-07-11,Corinthians,Igor Abreu,Goleiro,0,1,29,7.2
+2025-01-15,Corinthians,Maria Cecília Sá,Volante,3,2,40,7.2
+2024-08-22,Santos,Zoe Cavalcante,Volante,0,2,33,5.8
+2025-05-09,Atlético-MG,Vitor Gabriel Teixeira,Meia,3,0,64,9.7
+2025-01-07,Palmeiras,Mariane Rocha,Lateral,2,2,90,7.0
+2024-06-18,Flamengo,Ana Luiza Cassiano,Meia,3,1,47,6.1
+2024-08-24,Internacional,Apollo Sampaio,Volante,0,0,49,7.4
+2025-03-16,Cruzeiro,Nicolas Cirino,Lateral,2,0,3,5.5
+2025-03-03,Internacional,Emilly Garcia,Lateral,1,2,49,6.6
+2025-03-25,Grêmio,Ana Beatriz Souza,Zagueiro,0,1,36,9.8
+2025-03-31,Corinthians,Otávio Andrade,Atacante,3,1,72,9.9
+2024-09-11,São Paulo,Aylla Ramos,Meia,3,1,67,9.9
+2024-11-02,Flamengo,Thales Lima,Zagueiro,0,1,52,9.2
+2025-04-22,Corinthians,Davi Lucca da Paz,Zagueiro,3,0,50,5.9
+2024-08-13,Grêmio,Luan Costela,Lateral,2,2,0,7.9
+2024-09-30,Corinthians,Thales Lima,Zagueiro,2,2,16,8.7
+2025-03-10,Cruzeiro,Maria Liz Caldeira,Goleiro,3,1,18,6.0
+2024-06-27,Cruzeiro,Dr. Valentim Cunha,Meia,0,0,35,9.5
+2025-04-01,Grêmio,Julia Vargas,Lateral,1,0,46,9.3
+2024-11-28,Internacional,Sr. Vitor Aragão,Volante,0,0,55,6.4
+2024-06-03,Internacional,Aylla Ramos,Lateral,2,1,47,5.5
+2024-08-19,Internacional,Ísis da Rosa,Zagueiro,3,1,74,6.0
+2024-10-07,Atlético-MG,João Lucas Pereira,Lateral,2,0,80,9.3
+2024-09-09,Palmeiras,Mariane Rocha,Lateral,2,2,3,9.0
+2025-02-17,Santos,Maria Flor Pimenta,Volante,0,0,80,9.2
+2024-07-11,Cruzeiro,Thiago Garcia,Atacante,2,2,68,7.6
+2024-08-05,Atlético-MG,Maria Vitória Cunha,Zagueiro,3,1,85,8.6
+2024-12-02,Grêmio,Maria Vitória Cunha,Volante,1,0,23,8.7
+2025-01-20,Santos,Marina Novais,Lateral,2,1,7,10.0
+2024-11-13,Atlético-MG,Ana Beatriz Souza,Lateral,0,0,36,8.7
+2024-06-21,Cruzeiro,Bruna Lopes,Meia,3,0,0,9.2
+2024-11-16,Cruzeiro,Miguel Vargas,Goleiro,1,1,77,7.0
+2025-03-31,Internacional,Cauê da Cunha,Lateral,3,2,13,9.0
+2025-04-17,Palmeiras,Igor Abreu,Meia,2,2,15,8.4
+2025-03-29,Atlético-MG,Sr. Vinícius Vieira,Zagueiro,3,1,59,5.7
+2025-04-29,Cruzeiro,Sra. Fernanda da Mata,Volante,1,2,66,9.0
+2024-09-09,Cruzeiro,Ísis da Rosa,Lateral,1,0,52,9.2
+2025-03-23,Santos,Ana Beatriz Souza,Meia,0,0,18,6.8
+2025-05-13,Santos,Maria Liz Caldeira,Goleiro,2,2,31,7.2
+2025-03-12,São Paulo,Maria Flor Pimenta,Atacante,3,1,13,7.3
+2025-05-05,São Paulo,João Felipe Sá,Atacante,1,2,3,5.7
+2024-11-03,Cruzeiro,Isaque Fogaça,Volante,2,2,77,9.4
+2024-12-25,Palmeiras,Cauê da Cunha,Goleiro,3,0,78,5.5
+2025-01-14,Palmeiras,Marcela Campos,Atacante,1,0,86,7.9
+2024-10-20,Santos,Guilherme Alves,Meia,3,0,63,6.6
+2024-06-22,Santos,Apollo Sampaio,Lateral,2,0,26,9.3
+2024-08-18,São Paulo,Isaque Fogaça,Lateral,0,2,48,6.9
+2024-08-14,Corinthians,Bernardo Garcia,Goleiro,1,2,89,7.8
+2024-06-15,Santos,Ísis da Rosa,Zagueiro,2,2,84,8.6
+2024-12-27,Grêmio,Sr. Alexandre Rios,Volante,2,0,67,8.5
+2024-09-23,Santos,Marina Teixeira,Volante,2,2,11,10.0
+2025-03-23,Grêmio,Thomas da Rocha,Volante,3,0,46,5.6
+2024-08-10,Corinthians,Ester Casa Grande,Goleiro,0,1,12,7.1
+2024-12-21,Santos,Agatha Souza,Atacante,2,1,55,8.2
+2024-11-27,Atlético-MG,Igor Abreu,Meia,1,0,87,9.7
+2024-06-28,Palmeiras,Enzo Viana,Volante,1,0,27,8.6
+2025-01-22,Flamengo,Zoe Cavalcante,Meia,3,2,12,5.3
+2024-08-29,Internacional,Dr. Isaque Mendonça,Meia,3,2,52,8.4
+2025-02-04,Grêmio,Dra. Heloísa Martins,Zagueiro,1,0,13,7.1
+2024-06-12,Corinthians,Aylla Ramos,Volante,1,0,42,9.4
+2024-08-14,Internacional,Apollo Sampaio,Volante,2,2,80,7.6
+2024-11-20,Internacional,João Felipe Sá,Zagueiro,2,2,33,5.9
+2025-01-26,Grêmio,Clarice Cirino,Goleiro,2,1,6,6.7
+2025-01-19,Grêmio,Zoe Cavalcante,Meia,2,2,50,5.1
+2025-05-11,Cruzeiro,Daniel Aparecida,Goleiro,3,0,85,5.8
+2025-03-17,Corinthians,Helena Sales,Goleiro,0,1,27,7.4
+2025-02-21,Atlético-MG,Luan Costela,Zagueiro,3,1,8,6.2
+2024-09-28,São Paulo,Isabelly Siqueira,Lateral,2,1,16,6.1
+2025-01-29,Atlético-MG,Maria Flor Pastor,Zagueiro,0,1,44,6.4
+2024-06-01,Grêmio,Maria Flor Pimenta,Volante,2,2,27,8.2
+2024-12-24,Flamengo,Sofia Macedo,Volante,1,1,59,7.7
+2024-09-06,Santos,Sr. Ryan Fonseca,Zagueiro,1,0,4,7.5
+2024-08-21,Cruzeiro,Dr. Luiz Gustavo Cavalcanti,Goleiro,1,1,26,8.8
+2025-04-26,Grêmio,Sr. Ryan Fonseca,Meia,1,1,61,9.0
+2025-02-26,Corinthians,Marina Novais,Atacante,0,0,32,5.7
+2025-05-11,Palmeiras,Sr. Vitor Aragão,Volante,3,1,40,6.0
+2024-08-01,Cruzeiro,Emilly Garcia,Lateral,1,1,75,6.3
+2024-12-08,Palmeiras,Thiago Garcia,Atacante,1,1,25,5.1
+2024-08-16,Corinthians,Helena Sales,Lateral,0,1,16,9.8
+2024-10-09,Palmeiras,Sr. Vinícius Vieira,Meia,1,1,64,7.3
+2025-05-01,São Paulo,Valentina da Mota,Zagueiro,1,0,85,8.0
+2025-03-20,São Paulo,Mariane Rocha,Volante,1,2,42,5.2
+2024-08-16,Cruzeiro,Ana Vitória Duarte,Lateral,1,0,26,5.1
+2024-07-05,São Paulo,Melissa da Cunha,Atacante,3,2,26,9.8
+2024-07-16,Santos,Evelyn Costa,Goleiro,2,0,34,5.3
+2025-02-17,Flamengo,Thales Montenegro,Meia,3,0,83,7.9
+2024-12-29,São Paulo,Apollo Sampaio,Zagueiro,0,1,25,9.6
+2025-01-12,Atlético-MG,Dr. Isaque Mendonça,Lateral,2,0,4,5.2
+2024-09-30,Internacional,Julia Vargas,Meia,0,0,67,7.9
+2024-06-22,Cruzeiro,Srta. Rebeca Araújo,Meia,2,1,18,5.7
+2024-05-25,Atlético-MG,Ester Casa Grande,Zagueiro,3,0,20,8.8
+2024-11-30,São Paulo,João Lucas Pereira,Zagueiro,3,0,7,5.9
+2024-10-24,Atlético-MG,Sr. Ryan Fonseca,Volante,1,0,90,5.3
+2025-04-01,Corinthians,Bernardo Garcia,Goleiro,2,2,23,9.1
+2025-04-04,São Paulo,Julia Vargas,Meia,3,1,3,5.8
+2024-06-03,Flamengo,Otávio Andrade,Meia,3,2,68,7.0
+2024-12-16,Santos,Maria Flor Pastor,Meia,0,1,69,5.3
+2025-04-07,Cruzeiro,Brayan Sampaio,Atacante,0,0,83,6.2
+2025-01-04,Internacional,Sofia Macedo,Volante,3,1,35,8.7
+2025-04-26,Atlético-MG,Ayla Ramos,Zagueiro,1,1,24,6.3
+2025-04-22,Santos,Sofia Macedo,Atacante,3,2,15,8.8
+2024-06-15,Internacional,Marina Teixeira,Goleiro,3,2,30,8.8
+2024-12-08,Palmeiras,Melissa da Cunha,Goleiro,2,1,85,6.3
+2024-12-17,São Paulo,Clarice Cirino,Lateral,0,0,64,8.5
+2025-04-17,São Paulo,Arthur Jesus,Goleiro,2,1,14,8.6
+2024-06-10,Internacional,Leandro Siqueira,Zagueiro,2,0,56,6.4
+2025-01-03,Santos,Evelyn Costa,Goleiro,0,1,5,8.3
+2024-10-09,Corinthians,Arthur Jesus,Goleiro,3,2,54,7.7
+2024-11-14,Corinthians,Dr. Léo Vargas,Volante,3,1,82,8.9
+2024-11-08,Cruzeiro,Sra. Carolina Leão,Zagueiro,0,1,33,7.2
+2024-08-29,Cruzeiro,Nicolas Cirino,Meia,2,1,48,7.7
+2024-05-20,Grêmio,Ágatha Viana,Atacante,3,0,63,8.6
+2024-07-21,Santos,Dr. Thomas Gonçalves,Volante,3,2,1,9.4
+2025-04-26,Santos,Maria Flor Pimenta,Atacante,3,2,66,9.3
+2024-10-19,Corinthians,Isaque Fogaça,Volante,3,0,11,6.4
+2025-05-11,Grêmio,Ágatha Viana,Volante,0,1,4,8.7
+2025-05-13,Grêmio,Nicolas Cirino,Goleiro,1,1,18,8.4
+2024-06-10,Palmeiras,Marina Novais,Volante,0,0,83,8.4
+2024-06-23,Atlético-MG,Maria Sophia Moura,Lateral,3,1,19,6.4
+2024-12-26,Santos,Maria Flor Pastor,Zagueiro,1,0,73,5.9
+2024-11-17,Grêmio,Dr. Valentim Cunha,Atacante,0,0,81,8.5
+2025-02-10,Flamengo,Maria Júlia Costa,Goleiro,3,2,2,6.0
+2025-04-03,Corinthians,Maria Vitória Cunha,Zagueiro,3,1,37,9.8
+2024-08-19,Atlético-MG,Olivia da Rosa,Lateral,0,2,19,6.5
+2024-06-15,São Paulo,Thiago Garcia,Volante,2,2,65,6.3
+2024-08-28,Internacional,Maria Cecília Sá,Atacante,2,2,9,7.3
+2024-05-15,Internacional,Nicolas Cirino,Volante,2,1,28,5.9
+2024-10-19,Santos,Dr. Isaque Mendonça,Meia,2,2,21,9.7
+2025-04-26,Cruzeiro,Benício Vargas,Volante,1,1,24,5.3
+2024-09-06,Flamengo,Igor Abreu,Volante,2,0,8,7.3
+2024-06-11,São Paulo,Agatha Souza,Meia,1,1,31,8.4
+2024-08-08,Internacional,Aylla Ramos,Zagueiro,1,2,53,6.6
+2024-11-07,Grêmio,Clarice Cirino,Volante,2,2,3,7.2
+2024-12-29,Corinthians,Mariane Rocha,Goleiro,2,0,40,6.2
+2025-01-28,Cruzeiro,Olivia da Rosa,Goleiro,0,2,51,5.1
+2024-07-06,Flamengo,Vitor Barbosa,Lateral,3,1,39,6.8
+2024-10-31,Corinthians,Anna Liz da Conceição,Zagueiro,0,2,15,5.4
+2025-03-28,Atlético-MG,Dr. Isaque Mendonça,Zagueiro,1,2,18,7.5
+2024-11-16,Cruzeiro,Sr. Ryan Fonseca,Lateral,1,1,64,6.3
+2025-04-11,Cruzeiro,Srta. Rebeca Araújo,Atacante,1,0,72,6.0
+2024-08-06,Santos,Olivia da Rosa,Goleiro,3,0,53,9.3
+2025-03-10,Cruzeiro,Nicolas Cirino,Meia,1,0,57,6.2
+2024-08-31,Internacional,Maria Fernanda da Paz,Volante,1,2,36,8.9
+2024-11-10,Palmeiras,Helena Lopes,Atacante,3,2,57,5.1
+2025-04-02,Internacional,Brayan Sampaio,Meia,2,1,87,9.6
+2024-09-11,Flamengo,Ísis da Rosa,Lateral,1,1,0,9.6
+2024-08-13,Grêmio,Marcela Lima,Volante,0,1,70,8.6
+2025-02-11,São Paulo,Liz Aragão,Lateral,3,0,0,6.5
+2025-04-03,Cruzeiro,Miguel Vargas,Goleiro,0,0,62,5.4
+2025-05-02,Santos,Ísis da Rosa,Atacante,3,2,4,6.6
+2025-05-01,Atlético-MG,Maria Vitória Cunha,Goleiro,0,0,60,7.0
+2025-01-13,Corinthians,Olivia da Rosa,Atacante,0,1,4,8.4
+2024-07-22,Atlético-MG,Maria Vitória Cunha,Lateral,1,0,85,6.5
+2024-12-03,Grêmio,Otávio Andrade,Meia,3,1,22,7.1
+2024-06-11,Cruzeiro,Luiz Fernando Alves,Zagueiro,0,1,17,6.5
+2024-09-13,Flamengo,Ana Beatriz Souza,Goleiro,1,2,31,9.5
+2024-09-09,Corinthians,Benicio Andrade,Zagueiro,0,1,27,6.6
+2024-08-04,Atlético-MG,Sofia Macedo,Atacante,2,2,14,8.7
+2025-03-09,Cruzeiro,Melissa da Cunha,Goleiro,1,0,18,8.4
+2025-05-01,Flamengo,Helena Sales,Zagueiro,1,2,12,9.4
+2024-09-11,Flamengo,Emilly Garcia,Meia,0,2,87,8.5
+2024-10-12,Grêmio,Vitor Guerra,Goleiro,2,2,57,7.5
+2025-01-13,Flamengo,Anna Liz da Conceição,Goleiro,2,0,2,7.8
+2024-07-29,Santos,Dr. Luiz Gustavo Cavalcanti,Volante,0,0,85,9.2
+2025-02-19,Corinthians,Ester Casa Grande,Atacante,0,2,18,9.3
+2025-04-24,Corinthians,Sr. Vitor Aragão,Meia,1,1,56,9.0
+2025-03-26,Palmeiras,Marcela Campos,Atacante,1,2,56,8.7
+2025-02-23,São Paulo,Maria Flor Pastor,Goleiro,0,1,65,7.6
+2025-02-23,São Paulo,Emilly Garcia,Meia,2,1,66,6.1
+2025-03-20,Cruzeiro,Nicolas Cirino,Atacante,3,2,59,8.6
+2025-01-14,Palmeiras,Anna Liz da Conceição,Goleiro,0,2,60,5.5
+2024-06-25,Santos,Benicio Andrade,Goleiro,1,1,44,6.8
+2025-02-01,São Paulo,Arthur Jesus,Lateral,0,2,63,8.6
+2025-03-23,Atlético-MG,Mariane Rocha,Goleiro,2,1,28,5.8
+2024-08-27,Atlético-MG,Srta. Sofia Gonçalves,Lateral,0,1,35,9.3
+2024-11-26,Internacional,Anna Liz da Conceição,Zagueiro,3,1,60,8.6
+2024-12-05,Cruzeiro,Nicolas Cirino,Goleiro,3,0,58,9.3
+2024-09-28,Flamengo,Dr. Léo Vargas,Zagueiro,1,2,89,7.3
+2024-12-16,Flamengo,Anna Liz da Conceição,Atacante,0,2,66,9.7
+2024-10-12,Flamengo,Marina Novais,Meia,3,0,12,8.3
+2024-10-10,Internacional,Marcela Lima,Meia,2,2,3,7.3
+2024-09-30,Internacional,Valentina da Mota,Volante,1,0,83,6.8
+2024-08-06,Cruzeiro,Leandro Siqueira,Meia,2,1,69,7.1
+2025-05-03,Corinthians,Heitor Casa Grande,Meia,3,1,49,8.9
+2024-11-13,Cruzeiro,Nicolas Cirino,Meia,2,0,17,9.2
+2025-05-11,Flamengo,Dr. Luiz Gustavo Cavalcanti,Meia,3,1,47,9.1
+2024-07-16,Corinthians,Maria Júlia Costa,Lateral,2,2,15,7.1
+2025-03-17,Corinthians,Cauê da Cunha,Lateral,0,2,53,7.8
+2024-06-19,Grêmio,Srta. Ester Fernandes,Atacante,1,2,77,9.6
+2025-04-01,São Paulo,João Vitor Correia,Lateral,1,2,2,8.1
+2024-06-27,Corinthians,Clarice Cirino,Volante,0,0,18,7.2
+2025-01-09,Santos,Dr. Thomas Gonçalves,Lateral,2,2,54,8.1
+2024-12-22,Grêmio,Srta. Rebeca Araújo,Meia,3,1,3,9.3
+2024-08-16,São Paulo,Ana Luiza Cassiano,Goleiro,1,2,31,7.3
+2024-11-20,Atlético-MG,Dr. Luiz Gustavo Cavalcanti,Zagueiro,3,2,74,5.8
+2024-05-18,Atlético-MG,Dr. Benjamin Porto,Lateral,2,0,53,6.4
+2025-05-11,Flamengo,Emilly Garcia,Volante,0,2,75,5.2
+2025-03-10,Flamengo,Evelyn Costa,Atacante,1,1,19,8.4
+2025-04-15,Atlético-MG,Nicolas Cirino,Lateral,2,1,19,9.8
+2024-09-12,Cruzeiro,Dr. Léo Vargas,Atacante,0,0,65,7.9
+2024-08-05,Palmeiras,Benicio Andrade,Atacante,1,2,71,5.5
+2024-10-04,Internacional,Dr. Thomas Gonçalves,Meia,3,1,29,9.6
+2024-05-27,São Paulo,Ísis da Rosa,Atacante,1,2,6,7.5
+2024-08-24,Cruzeiro,Thomas da Rocha,Lateral,0,2,87,9.4
+2024-12-29,Corinthians,Srta. Rebeca Araújo,Volante,0,1,80,8.1
+2025-04-11,Santos,Bruna Lopes,Meia,1,1,19,6.7
+2024-08-02,Atlético-MG,Mariane Moraes,Goleiro,0,1,28,5.4
+2025-05-06,Palmeiras,Isabelly Siqueira,Volante,1,1,19,5.3
+2025-03-30,São Paulo,João Lucas Pereira,Meia,3,2,36,8.8
+2024-07-24,Cruzeiro,Maria Fernanda da Paz,Volante,3,2,10,6.6
+2024-05-21,Cruzeiro,Helena Ramos,Zagueiro,2,0,35,8.4
+2024-12-07,São Paulo,Vitor Guerra,Atacante,3,2,81,6.7
+2024-06-30,Cruzeiro,Otávio Andrade,Atacante,1,2,10,7.8
+2024-08-15,Grêmio,Emilly Garcia,Atacante,1,1,23,8.1
+2025-03-08,Atlético-MG,Aylla Ramos,Goleiro,2,2,56,8.6
+2024-12-16,Cruzeiro,Julia Vargas,Goleiro,1,0,88,7.9
+2025-04-28,Cruzeiro,Aylla Ramos,Zagueiro,2,2,62,5.6
+2025-02-04,Flamengo,João Vitor Correia,Goleiro,3,1,90,7.6
+2024-09-10,Santos,Helena Lopes,Volante,3,1,82,8.3
+2025-03-06,Corinthians,Thomas da Rocha,Zagueiro,3,2,38,7.3
+2025-04-03,Cruzeiro,Thales Lima,Meia,0,0,5,7.8
+2024-08-31,Internacional,Pedro Fogaça,Volante,2,0,76,8.3
+2024-11-12,Internacional,Mariane Rocha,Meia,1,2,27,7.5
+2024-09-13,Palmeiras,Maria Vitória Cunha,Atacante,3,0,37,9.8
+2024-12-19,Santos,Guilherme Alves,Atacante,3,2,9,6.8
+2024-12-06,Flamengo,Nicolas Cirino,Meia,2,0,61,9.9
+2024-10-22,Santos,Sra. Fernanda da Mata,Atacante,0,1,83,6.2
+2024-11-03,São Paulo,Thales Lima,Meia,2,1,48,8.1
+2024-08-28,Flamengo,Dr. Luiz Gustavo Cavalcanti,Volante,0,0,14,6.0
+2025-01-22,Cruzeiro,Maria Júlia Costa,Meia,2,1,71,6.0
+2025-04-29,Atlético-MG,Dr. Valentim Cunha,Goleiro,0,2,1,8.8
+2024-09-01,Flamengo,Ana Beatriz Souza,Meia,3,1,81,5.9
+2024-11-12,Grêmio,Ísis da Rosa,Goleiro,3,2,14,9.6
+2024-12-04,Grêmio,Otávio Andrade,Volante,1,0,56,7.2
+2025-03-20,Flamengo,Luan Costela,Lateral,2,1,79,6.2
+2025-05-02,Flamengo,Sra. Carolina Leão,Goleiro,0,2,61,8.5
+2024-08-01,Cruzeiro,Davi Lucca da Paz,Atacante,2,2,42,8.3
+2025-03-13,Grêmio,Luiz Fernando Alves,Atacante,1,1,36,8.7
+2025-02-19,Internacional,Maria Flor Pimenta,Goleiro,0,2,10,6.5
+2024-06-28,Corinthians,Ana Vitória Duarte,Lateral,2,2,16,8.3
+2024-06-06,Internacional,Dr. Valentim Cunha,Zagueiro,1,2,36,9.4
+2024-07-21,Internacional,Dr. Léo Vargas,Goleiro,2,1,12,5.1
+2024-11-20,Flamengo,Zoe Cavalcante,Volante,1,2,57,6.4
+2024-11-14,Cruzeiro,Dr. Thiago Sousa,Lateral,3,0,41,6.7
+2024-07-24,Flamengo,Helena Lopes,Volante,3,1,3,6.0
+2025-05-08,Santos,Breno Oliveira,Volante,2,2,13,7.2
+2024-09-01,Palmeiras,Maria Cecília Sá,Zagueiro,3,1,72,8.8
+2024-10-20,Cruzeiro,Dr. Isaque Mendonça,Lateral,2,0,66,8.8
+2024-09-24,Flamengo,João Lucas Pereira,Lateral,3,0,52,6.2
+2025-03-29,Palmeiras,Otávio Andrade,Zagueiro,3,2,3,6.6
+2024-07-27,Flamengo,Isadora da Cruz,Zagueiro,1,2,20,7.1
+2025-04-01,São Paulo,Maria Liz Caldeira,Meia,1,0,37,8.4
+2024-11-08,São Paulo,Heitor Casa Grande,Atacante,0,0,87,5.6
+2024-11-15,Internacional,Sofia Macedo,Volante,2,1,20,9.1
+2025-04-07,Cruzeiro,Miguel Vargas,Lateral,3,1,9,6.6
+2024-08-17,Atlético-MG,Cauê da Cunha,Meia,3,0,52,7.3
+2025-04-25,Internacional,Evelyn Costa,Meia,0,2,1,8.7
+2025-04-01,Corinthians,Ana Beatriz Souza,Lateral,3,2,89,8.9
+2024-05-28,Internacional,Mariane Rocha,Zagueiro,1,0,57,7.2
+2024-06-20,Palmeiras,Sra. Fernanda da Mata,Volante,0,0,54,6.1
+2024-11-21,Flamengo,Apollo Sampaio,Goleiro,2,1,53,9.5
+2025-02-23,Flamengo,Benício Vargas,Atacante,2,0,79,6.8
+2025-03-29,Flamengo,Aylla Ramos,Atacante,1,0,16,9.2
+2024-10-06,Internacional,Srta. Ester Fernandes,Atacante,1,2,71,9.0
+2024-11-09,Flamengo,Sra. Fernanda da Mata,Meia,3,2,59,5.6
+2024-06-02,Flamengo,Miguel Vargas,Goleiro,1,1,46,7.4
+2024-11-20,Internacional,Isabelly Monteiro,Lateral,3,1,17,6.7
+2025-02-21,Atlético-MG,Luan Costela,Lateral,2,2,34,5.4
+2025-03-21,São Paulo,Zoe Cavalcante,Lateral,3,1,47,5.2
+2025-01-22,Flamengo,Ester Casa Grande,Lateral,1,0,31,8.8
+2025-02-20,Grêmio,Heitor Casa Grande,Atacante,3,2,79,9.1
+2025-01-24,São Paulo,Igor Abreu,Zagueiro,3,0,65,7.8
+2024-09-13,Cruzeiro,Dra. Heloísa Martins,Lateral,2,0,44,9.2
+2024-06-12,Cruzeiro,Maria Flor Pastor,Lateral,1,1,17,5.2
+2024-08-14,Atlético-MG,Helena Ramos,Zagueiro,2,1,44,8.3
+2024-06-11,Internacional,Dr. Thiago Sousa,Zagueiro,0,1,3,8.8
+2024-11-04,Palmeiras,João Lucas Pereira,Zagueiro,3,0,73,7.9
+2024-08-20,Cruzeiro,Helena Lopes,Lateral,1,2,42,9.9
+2024-08-26,São Paulo,Arthur Jesus,Goleiro,2,0,31,8.4
+2025-03-13,Corinthians,Benício Vargas,Goleiro,3,1,10,7.3
+2024-08-16,Santos,Helena Ramos,Volante,2,1,17,5.6
+2025-01-13,Santos,Miguel Vargas,Zagueiro,2,0,46,7.1
+2025-03-21,Atlético-MG,Ana Beatriz Souza,Goleiro,3,1,24,9.0
+2024-08-10,Santos,Ayla Ramos,Atacante,2,2,40,5.3
+2024-07-26,São Paulo,Thomas da Rocha,Zagueiro,1,2,74,5.1
+2024-11-15,Internacional,Igor Abreu,Goleiro,3,1,63,6.4
+2024-10-13,Palmeiras,Dr. Luiz Gustavo Cavalcanti,Lateral,2,0,17,9.3
+2024-09-07,Internacional,Maria Flor Pastor,Volante,2,2,47,8.5
+2025-04-01,São Paulo,Alícia das Neves,Zagueiro,2,2,26,7.8
+2024-12-19,Atlético-MG,Helena Lopes,Atacante,2,0,42,9.0
+2024-11-13,Flamengo,Benicio Andrade,Meia,3,0,89,5.5
+2024-08-15,Internacional,Evelyn Costa,Volante,0,1,22,6.1
+2024-10-05,Atlético-MG,Raul Brito,Volante,0,0,28,6.7
+2025-01-12,São Paulo,Thiago Garcia,Meia,1,0,63,6.5
+2024-06-30,São Paulo,Helena Sales,Volante,0,1,62,6.8
+2024-07-15,Palmeiras,Vitor Barbosa,Atacante,3,1,44,6.7
+2024-12-29,Internacional,Evelyn Costa,Volante,1,2,35,5.6
+2025-03-21,Internacional,Isabelly Monteiro,Volante,2,2,56,5.7
+2024-11-20,São Paulo,Isabelly Siqueira,Zagueiro,0,2,74,6.8
+2025-05-13,São Paulo,Evelyn Costa,Volante,1,0,41,7.2
+2024-09-14,Atlético-MG,Vitor Gabriel Teixeira,Lateral,1,1,30,8.3
+2025-03-20,Grêmio,Maria Cecília Albuquerque,Lateral,2,0,31,8.1
+2025-03-21,Palmeiras,Ana Vitória Duarte,Volante,3,0,15,8.2
+2025-05-10,Grêmio,Sra. Fernanda da Mata,Lateral,3,0,10,7.8
+2025-01-17,Atlético-MG,Vitor Guerra,Zagueiro,3,2,80,9.4
+2024-05-27,Flamengo,Sofia Macedo,Volante,0,1,70,6.3
+2025-04-25,São Paulo,Thiago Garcia,Zagueiro,2,1,42,9.8
+2024-11-05,Corinthians,Ágatha Viana,Goleiro,1,1,48,8.4
+2024-06-30,Internacional,Ana Beatriz Souza,Volante,1,0,9,8.5
+2024-07-24,Flamengo,Caroline Duarte,Goleiro,1,1,46,5.3
+2025-04-06,Internacional,Maria Flor Pastor,Volante,1,2,26,8.7
+2024-12-08,Santos,Ana Vitória Duarte,Volante,3,0,75,5.1
+2024-06-03,Santos,Julia Vargas,Volante,2,1,64,8.4
+2024-08-17,Cruzeiro,Ágatha Viana,Zagueiro,2,0,77,7.0
+2024-11-26,Grêmio,Dr. Valentim Cunha,Volante,0,2,23,6.8
+2024-08-23,Grêmio,Thales Montenegro,Atacante,1,1,75,5.8
+2025-03-13,São Paulo,Igor Abreu,Volante,1,1,79,10.0
+2025-05-10,Santos,Marcela Campos,Goleiro,0,1,37,6.5
+2025-02-01,Grêmio,Vitor Gabriel Teixeira,Meia,3,2,77,7.2
+2025-01-13,Internacional,Mariane Moraes,Goleiro,0,2,13,5.6
+2024-06-03,Flamengo,Dr. Benjamin Porto,Atacante,2,1,4,5.5
+2024-07-27,Atlético-MG,Sra. Carolina Leão,Lateral,0,0,30,6.6
+2024-06-27,Corinthians,Dr. Luiz Gustavo Cavalcanti,Atacante,2,0,83,7.8
+2024-07-29,Internacional,Clarice Cirino,Atacante,1,0,68,6.9
+2024-12-08,Cruzeiro,Leandro Siqueira,Volante,3,2,74,9.1
+2024-12-02,Cruzeiro,Cauê da Cunha,Meia,1,1,15,10.0
+2024-06-03,Corinthians,Apollo Sampaio,Zagueiro,0,2,0,7.0
+2024-07-03,São Paulo,Isabelly Monteiro,Meia,3,2,32,8.2
+2024-10-28,Grêmio,Maria Júlia Costa,Volante,3,0,19,8.8
+2025-04-02,Corinthians,Thiago Garcia,Atacante,2,0,42,5.9
+2024-08-31,Santos,Maria Liz Caldeira,Volante,3,2,52,9.0
+2024-05-15,Corinthians,Maria Flor Pimenta,Volante,3,1,89,5.5
+2024-12-23,Atlético-MG,Srta. Raquel Garcia,Meia,3,0,19,8.3
+2025-05-01,Atlético-MG,Srta. Rebeca Araújo,Volante,2,2,54,6.2
+2025-04-22,Internacional,Julia Vargas,Lateral,2,1,45,8.0
+2024-10-22,Flamengo,Luiz Gustavo da Cruz,Lateral,3,1,46,6.8
+2025-04-27,Atlético-MG,Maria Cecília Albuquerque,Volante,0,1,11,6.8
+2024-07-29,Grêmio,Sr. Ryan Fonseca,Meia,3,0,12,8.8
+2024-08-29,Internacional,Maria Flor Pastor,Volante,1,2,48,8.4
+2025-04-02,Internacional,Otávio Andrade,Meia,2,1,27,7.9
+2025-05-13,Santos,Dr. Luiz Gustavo Cavalcanti,Meia,2,0,35,5.8
+2025-03-16,Flamengo,Maria Cecília Sá,Atacante,1,0,44,5.6
+2024-11-13,Corinthians,Sofia Macedo,Meia,3,1,37,7.3
+2024-11-13,Atlético-MG,Benício Vargas,Goleiro,1,0,40,5.9
+2025-03-20,Atlético-MG,Isabelly Siqueira,Atacante,2,0,0,5.8
+2024-08-31,Palmeiras,Pedro Fogaça,Goleiro,3,2,89,6.1
+2024-10-12,Palmeiras,Agatha Souza,Meia,2,0,23,9.0
+2024-10-31,São Paulo,Srta. Raquel Garcia,Lateral,3,1,17,5.9
+2024-11-13,Corinthians,Sofia Macedo,Lateral,2,2,3,8.1
+2025-04-11,Atlético-MG,Pedro Fogaça,Atacante,1,1,74,9.0
+2024-06-20,São Paulo,Thales Montenegro,Zagueiro,0,2,70,8.4
+2024-06-30,Atlético-MG,Dr. Léo Vargas,Meia,1,1,43,5.2
+2024-06-28,Corinthians,Thales Montenegro,Atacante,0,1,41,7.4
+2024-07-12,Internacional,Marina Novais,Lateral,2,0,20,5.1
+2024-06-23,Flamengo,Anna Liz da Conceição,Meia,2,1,51,5.1
+2025-03-26,Internacional,Thales Montenegro,Lateral,2,2,81,6.9
+2025-03-20,Flamengo,Nicolas Cirino,Zagueiro,2,2,81,6.3
+2024-09-04,Cruzeiro,Benício Vargas,Zagueiro,3,2,5,7.3
+2024-11-01,Santos,Luiz Fernando Alves,Lateral,3,2,13,5.8
+2024-12-14,Corinthians,Ana Luiza Aragão,Goleiro,1,0,21,5.3
+2024-09-22,Grêmio,Davi Lucca da Paz,Meia,3,2,73,7.7
+2025-05-10,Atlético-MG,Helena Sales,Lateral,2,2,82,8.7
+2025-05-13,Corinthians,Guilherme Alves,Volante,2,1,76,9.8
+2024-07-04,Cruzeiro,Bruna Lopes,Zagueiro,3,2,3,5.0
+2024-07-05,Cruzeiro,Otávio Andrade,Meia,2,0,59,6.3
+2024-07-14,Atlético-MG,Julia Vargas,Goleiro,1,0,43,5.2
+2024-12-07,Cruzeiro,Dr. Thiago Sousa,Goleiro,0,1,11,9.9
+2025-04-01,Santos,Benicio Andrade,Goleiro,2,2,5,8.4
+2024-12-03,Santos,Thales Montenegro,Atacante,0,2,77,6.4
+2024-07-01,Santos,Mariane Rocha,Lateral,3,2,31,7.4
+2025-01-12,São Paulo,Mariane Rocha,Goleiro,3,1,66,9.8
+2024-11-17,Cruzeiro,Thomas da Rocha,Atacante,0,0,68,5.5
+2024-08-29,Palmeiras,Isaque Fogaça,Zagueiro,1,2,44,7.4
+2025-03-24,Palmeiras,Ísis da Rosa,Lateral,2,2,52,8.4
+2024-12-02,Internacional,Igor Abreu,Volante,3,0,64,7.0
+2024-09-30,Internacional,Miguel Vargas,Atacante,2,1,75,8.7
+2025-05-11,Flamengo,Thiago Garcia,Volante,2,0,48,9.8
+2025-03-05,Palmeiras,Luiz Gustavo da Cruz,Atacante,0,1,86,7.8
+2024-09-09,Corinthians,Helena Ramos,Meia,1,2,85,9.4
+2024-06-21,Grêmio,Clarice Cirino,Goleiro,0,1,22,6.5
+2024-07-29,Atlético-MG,Marcela Campos,Atacante,0,2,17,7.9
+2024-12-10,Grêmio,Maria Flor Pastor,Lateral,0,1,87,8.7
+2024-09-11,Corinthians,Davi Lucca da Paz,Zagueiro,3,2,5,6.7
+2024-10-09,Santos,Sra. Fernanda da Mata,Meia,1,0,76,7.2
+2024-05-20,Grêmio,Mariane Rocha,Goleiro,3,0,65,6.4
+2025-02-05,Santos,Guilherme Alves,Lateral,0,0,37,5.5
+2024-10-08,Palmeiras,Maria Fernanda da Paz,Lateral,2,0,23,5.2
+2024-10-20,Flamengo,Valentina da Mota,Meia,2,1,0,6.0
+2025-04-24,Flamengo,Julia Vargas,Goleiro,3,1,18,9.0
+2024-05-25,Internacional,Agatha Souza,Goleiro,1,2,33,5.9
+2024-11-21,Atlético-MG,Thales Montenegro,Zagueiro,0,0,44,7.9
+2025-04-02,Internacional,Marcela Campos,Goleiro,3,2,38,8.6
+2025-03-12,Santos,Thales Montenegro,Volante,3,0,72,8.0
+2024-06-02,Cruzeiro,Melissa da Cunha,Meia,0,1,3,6.3
+2025-02-21,Corinthians,Raul Brito,Meia,2,0,19,9.0
+2025-03-12,Palmeiras,Evelyn Costa,Meia,3,1,73,6.0
+2024-09-06,Cruzeiro,Maria Cecília Sá,Atacante,3,0,10,6.1
+2024-06-08,São Paulo,Thales Lima,Volante,0,1,72,8.8
+2024-11-24,Internacional,Dr. Thiago Sousa,Volante,2,2,39,9.0
+2024-06-27,Atlético-MG,Helena Sales,Atacante,1,2,68,8.8
+2024-05-14,Palmeiras,Dr. Thomas Gonçalves,Volante,2,0,1,9.8
+2025-04-02,Atlético-MG,Mariane Rocha,Zagueiro,2,1,66,6.6
+2024-06-10,Internacional,João Lucas Rodrigues,Meia,2,1,58,5.0
+2024-08-16,Cruzeiro,Vitor Gabriel Teixeira,Goleiro,3,2,34,9.2
+2024-10-06,Corinthians,Zoe Cavalcante,Atacante,2,0,88,9.5
+2025-01-12,Corinthians,Maria Flor Pimenta,Zagueiro,3,2,41,7.7
+2024-09-24,Atlético-MG,Ágatha Viana,Zagueiro,1,0,5,8.5
+2024-12-26,Internacional,Helena Sales,Atacante,0,2,80,8.3
+2025-05-11,Corinthians,Julia Vargas,Volante,2,2,37,5.0
+2025-04-22,Grêmio,Dr. Luiz Gustavo Cavalcanti,Atacante,2,2,19,6.4
+2025-04-07,Atlético-MG,Melissa da Cunha,Meia,0,0,62,5.4
+2024-10-26,Corinthians,Enzo Viana,Atacante,0,2,26,9.8
+2024-09-24,Internacional,Ester Casa Grande,Volante,2,0,74,8.4
+2025-04-15,Palmeiras,Helena Lopes,Volante,0,0,58,8.0
+2024-09-03,Grêmio,Thomas da Rocha,Lateral,3,2,61,7.0
+2025-03-27,Flamengo,Dra. Heloísa Martins,Volante,2,1,49,6.5
+2025-02-05,Internacional,Ágatha Viana,Zagueiro,3,2,7,8.5
+2024-09-02,Santos,Julia Vargas,Meia,3,1,12,9.9
+2024-07-04,Santos,Evelyn Costa,Zagueiro,1,1,70,9.4
+2025-03-19,Santos,Ana Luiza Cassiano,Atacante,3,2,53,7.4
+2024-06-14,Santos,Dr. Thiago Sousa,Atacante,0,0,60,8.9
+2024-09-16,Grêmio,Breno Oliveira,Zagueiro,1,0,42,7.3
+2024-11-20,Atlético-MG,Alícia das Neves,Volante,0,2,5,6.6
+2024-08-23,Grêmio,Vitor Barbosa,Volante,3,2,36,6.0
+2024-08-01,Santos,Ana Vitória Duarte,Goleiro,2,1,63,6.4
+2025-04-01,Atlético-MG,Helena Sales,Atacante,2,1,17,8.6
+2025-01-13,Flamengo,Leandro Siqueira,Volante,3,0,81,5.4
+2025-02-17,Flamengo,Dr. Valentim Cunha,Zagueiro,0,2,59,10.0
+2024-09-24,Palmeiras,Otávio Andrade,Zagueiro,1,0,12,5.4
+2025-03-20,Flamengo,Srta. Raquel Garcia,Meia,1,0,78,8.9
+2024-11-22,Corinthians,Ana Beatriz Souza,Zagueiro,1,1,67,9.9
+2024-10-26,Palmeiras,Brayan Sampaio,Atacante,1,1,64,9.4
+2024-06-18,São Paulo,Helena Sales,Meia,1,1,8,5.0
+2024-09-03,Corinthians,Dr. Thiago Sousa,Lateral,1,2,37,10.0
+2025-03-20,Flamengo,Dra. Heloísa Martins,Lateral,1,2,56,6.5
+2025-03-05,Internacional,Cauê da Cunha,Volante,1,0,40,7.7
+2025-04-13,Palmeiras,Aylla Ramos,Atacante,1,2,88,9.2
+2025-05-10,Internacional,Maria Cecília Sá,Lateral,0,1,34,8.8
+2024-06-11,São Paulo,Luiz Fernando Alves,Meia,1,0,64,9.8
+2025-01-10,Grêmio,João Felipe Sá,Volante,2,0,53,5.1
+2024-08-03,Flamengo,Zoe Cavalcante,Zagueiro,3,2,16,9.1
+2024-07-21,Atlético-MG,Luan Costela,Meia,2,2,33,6.9
+2024-08-18,Atlético-MG,Marcela Campos,Lateral,1,1,49,6.6
+2025-02-07,Internacional,Benício Vargas,Goleiro,3,0,53,5.6
+2024-09-26,Internacional,Liz Aragão,Zagueiro,1,0,22,9.8
+2024-06-01,Atlético-MG,Heitor Casa Grande,Volante,2,1,78,8.5
+2024-07-25,Santos,Vitor Barbosa,Meia,1,2,79,9.9
+2025-04-11,Corinthians,Heitor Casa Grande,Lateral,2,0,33,7.3
+2024-07-13,Atlético-MG,Ester Casa Grande,Lateral,1,2,81,9.6
+2024-09-06,Flamengo,Maria Cecília Albuquerque,Atacante,3,1,9,5.7
+2025-01-26,São Paulo,Marina Teixeira,Atacante,3,0,73,9.8
+2025-01-26,Corinthians,Emilly Garcia,Volante,3,0,31,6.8
+2024-07-16,Flamengo,Emilly Garcia,Atacante,2,1,57,5.9
+2025-03-10,Palmeiras,Ester Casa Grande,Meia,2,0,86,7.1
+2025-01-04,Flamengo,Cauê da Cunha,Zagueiro,0,0,47,6.2
+2024-07-06,Santos,Igor Abreu,Atacante,3,0,16,6.2
+2024-05-19,Palmeiras,Marcela Campos,Goleiro,3,1,87,6.5
+2024-08-20,Flamengo,Isabelly Siqueira,Atacante,3,1,74,6.2
+2024-11-20,Atlético-MG,Helena Sales,Zagueiro,0,0,17,8.6
+2024-11-20,Grêmio,Igor Abreu,Zagueiro,0,0,13,8.8
+2024-08-17,São Paulo,Isaque Fogaça,Lateral,3,2,8,6.6
+2024-12-28,Grêmio,Thiago Garcia,Zagueiro,3,1,88,8.5
+2024-05-28,Flamengo,Isaque Fogaça,Meia,2,1,41,7.8
+2025-04-15,Flamengo,Dr. Thiago Sousa,Lateral,2,0,54,9.2
+2024-08-17,São Paulo,Zoe Cavalcante,Meia,1,2,45,8.7
+2024-09-14,Cruzeiro,Maria Cecília Albuquerque,Atacante,1,0,48,5.1
+2024-08-29,Cruzeiro,Helena Sales,Volante,1,2,77,7.7
+2024-06-27,Atlético-MG,Sr. Alexandre Rios,Zagueiro,0,0,83,6.1
+2024-12-27,São Paulo,Vitor Guerra,Lateral,1,1,29,6.5
+2025-02-25,Flamengo,Thales Lima,Atacante,3,1,25,7.6
+2024-08-31,São Paulo,Maria Fernanda da Paz,Zagueiro,1,0,86,6.2
+2024-11-30,Flamengo,Thomas da Rocha,Volante,1,2,45,8.0
+2024-06-20,Cruzeiro,Ana Vitória Duarte,Volante,1,2,33,9.7
+2025-05-13,Internacional,Caroline Duarte,Volante,1,1,11,9.2
+2025-01-09,Grêmio,Srta. Rebeca Araújo,Lateral,1,2,52,5.4
+2024-08-31,Atlético-MG,Nicolas Cirino,Meia,2,2,63,9.1
+2025-04-06,Atlético-MG,João Felipe Sá,Meia,0,2,2,6.0
+2024-05-17,Grêmio,Maria Flor Pimenta,Meia,0,2,37,9.3
+2024-11-03,Corinthians,Maria Sophia Moura,Atacante,1,1,33,5.3
+2025-04-02,Flamengo,Aylla Ramos,Lateral,1,2,0,7.8
+2024-06-02,Palmeiras,Luiz Fernando Alves,Atacante,0,1,68,5.6
+2025-01-09,Flamengo,Marcela Lima,Zagueiro,1,0,50,7.4
+2025-03-20,Santos,Alícia das Neves,Zagueiro,2,0,9,9.1
+2025-03-08,Cruzeiro,Benicio Andrade,Meia,1,0,13,9.3
+2025-03-10,Grêmio,Maria Liz Caldeira,Meia,3,1,38,9.5
+2025-03-29,Atlético-MG,Melissa da Cunha,Goleiro,1,1,37,5.2
+2024-06-01,Internacional,Luan Costela,Zagueiro,2,1,5,7.8
+2025-05-13,Internacional,Dra. Heloísa Martins,Lateral,1,0,69,8.1
+2025-05-05,Atlético-MG,Valentina da Mota,Goleiro,2,1,55,8.8
+2024-11-07,Santos,Raul Brito,Zagueiro,3,1,25,7.3
+2024-11-30,Palmeiras,Maria Flor Pastor,Volante,3,1,86,5.6
+2024-07-11,Atlético-MG,Sr. Alexandre Rios,Meia,1,1,46,7.1
+2025-01-26,São Paulo,Srta. Ester Fernandes,Lateral,1,0,17,6.7
+2024-12-29,Cruzeiro,Ana Beatriz Souza,Volante,0,1,86,8.8
+2024-09-10,Palmeiras,Ayla Ramos,Zagueiro,3,0,46,6.4
+2024-12-08,São Paulo,Davi Lucca da Paz,Lateral,1,0,18,6.0
+2024-05-21,Internacional,Maria Vitória Cunha,Goleiro,3,1,52,5.6
+2024-11-10,Santos,Letícia Viana,Zagueiro,1,1,12,6.6
+2024-05-24,Cruzeiro,Ayla Ramos,Zagueiro,2,1,74,8.7
+2024-06-10,Grêmio,Maria Liz Caldeira,Volante,1,2,6,9.7
+2024-12-29,Atlético-MG,Maria Fernanda da Paz,Atacante,3,0,31,5.8
+2024-06-09,Grêmio,Cauê da Cunha,Zagueiro,3,0,40,5.7
+2024-09-19,Cruzeiro,Brayan Sampaio,Volante,3,2,14,5.9
+2024-06-27,Internacional,Apollo Sampaio,Volante,2,1,60,5.2
+2024-12-29,Grêmio,Maria Júlia Costa,Meia,2,2,15,6.7
+2025-04-27,São Paulo,Maria Vitória Cunha,Meia,1,0,43,7.2
+2024-06-14,Flamengo,Mariane Rocha,Goleiro,3,0,53,8.2
+2025-01-11,Cruzeiro,Luiz Gustavo da Cruz,Meia,1,1,76,7.2
+2025-04-03,Internacional,Vitor Gabriel Teixeira,Meia,0,2,55,8.1
+2024-05-14,Corinthians,Marcela Lima,Lateral,0,2,37,6.6
+2024-12-29,Corinthians,Dr. Luiz Gustavo Cavalcanti,Lateral,1,1,3,9.6
+2024-08-03,Cruzeiro,Benicio Andrade,Goleiro,2,1,35,8.1
+2024-12-04,Grêmio,Thales Montenegro,Lateral,2,1,62,8.3
+2025-01-26,Santos,Sra. Carolina Leão,Volante,0,0,44,6.2
+2024-11-27,São Paulo,Vitor Barbosa,Zagueiro,1,0,38,8.3
+2024-11-25,Cruzeiro,Srta. Ester Fernandes,Atacante,1,1,38,5.1
+2024-07-04,Internacional,Miguel Vargas,Atacante,3,0,58,7.1
+2024-05-25,Atlético-MG,Alícia das Neves,Goleiro,3,2,30,8.8
+2025-03-18,Corinthians,Srta. Raquel Garcia,Zagueiro,2,0,89,7.9
+2024-11-29,São Paulo,Maria Vitória Cunha,Atacante,3,1,35,8.8
+2024-10-22,Internacional,Ana Luiza Aragão,Volante,2,0,55,8.6
+2024-06-25,Atlético-MG,João Felipe Sá,Volante,2,2,27,6.6
+2025-04-26,Flamengo,Bernardo Garcia,Meia,2,1,44,6.0
+2024-09-02,São Paulo,Zoe Cavalcante,Volante,3,2,43,6.1
+2024-11-27,Grêmio,Vitor Gabriel Teixeira,Lateral,1,1,68,5.0
+2024-12-07,Santos,Caroline Duarte,Meia,1,1,9,8.5
+2025-04-03,Corinthians,Marina Teixeira,Goleiro,3,0,77,5.9
+2025-04-01,Flamengo,Melissa da Cunha,Goleiro,0,1,56,5.9
+2024-08-19,Cruzeiro,Ana Luiza Cassiano,Lateral,2,2,49,5.1
+2025-05-13,Cruzeiro,Daniel Aparecida,Atacante,0,2,48,9.9
+2024-08-16,Internacional,Maria Flor Pastor,Goleiro,2,1,90,8.1
+2024-10-22,Cruzeiro,Otávio Andrade,Volante,3,1,53,9.5
+2025-04-05,Cruzeiro,Marina Teixeira,Zagueiro,2,1,56,6.4
+2024-06-07,Flamengo,Apollo Sampaio,Meia,2,1,20,7.0
+2024-12-26,Corinthians,Clarice Cirino,Meia,1,0,54,5.4
+2024-11-21,Palmeiras,Luiz Fernando Alves,Atacante,2,0,76,6.7
+2024-07-29,Flamengo,Ana Vitória Duarte,Lateral,2,2,62,8.1
+2024-07-01,São Paulo,Agatha Souza,Goleiro,2,2,1,7.2
+2024-05-14,Corinthians,Aylla Ramos,Meia,2,1,70,7.7
+2025-04-11,Cruzeiro,Igor Abreu,Volante,1,0,68,5.3
+2024-06-30,Cruzeiro,Helena Sales,Goleiro,3,2,23,8.5
+2024-07-30,Santos,Liz Aragão,Volante,1,0,29,8.9
+2025-03-05,Atlético-MG,Arthur Jesus,Goleiro,2,0,14,5.2
+2025-04-01,Corinthians,Maria Liz Caldeira,Lateral,2,0,75,8.5
+2025-04-01,Flamengo,Leandro Siqueira,Zagueiro,2,2,58,5.9
+2024-11-18,Internacional,Thales Montenegro,Atacante,3,2,17,8.3
+2024-10-06,Palmeiras,Luan Costela,Atacante,2,1,33,6.9
+2024-09-02,Internacional,Nicolas Cirino,Goleiro,2,0,71,9.8
+2025-03-16,Palmeiras,Letícia Viana,Atacante,3,1,3,9.2
+2024-10-20,Santos,Dr. Valentim Cunha,Volante,1,2,77,8.4
+2024-07-10,São Paulo,Ana Luiza Cassiano,Volante,2,0,0,8.7
+2025-03-05,Grêmio,Isabelly Siqueira,Zagueiro,1,2,17,8.9
+2025-03-01,Flamengo,Vitor Gabriel Teixeira,Atacante,0,2,33,5.3
+2024-11-12,Corinthians,Sr. Vinícius Vieira,Volante,2,1,69,9.2
+2025-03-04,Corinthians,Enzo Viana,Atacante,1,1,50,5.4
+2024-11-28,Flamengo,Brayan Sampaio,Meia,3,1,3,5.4
+2024-09-16,Flamengo,Raul Brito,Atacante,2,0,73,5.0
+2024-08-28,Corinthians,Marina Teixeira,Atacante,3,2,2,7.2
+2025-03-31,Cruzeiro,Thomas da Rocha,Atacante,2,2,55,7.5
+2024-05-15,São Paulo,Sr. Ryan Fonseca,Atacante,0,2,5,8.4
+2024-06-21,Flamengo,Luiz Gustavo da Cruz,Goleiro,0,1,76,7.0
+2024-08-19,Internacional,Ísis da Rosa,Lateral,2,1,11,8.6
+2024-09-10,Atlético-MG,Olivia da Rosa,Meia,0,0,52,7.8
+2025-02-04,Cruzeiro,Marcela Lima,Goleiro,0,1,79,7.8
+2025-03-16,Corinthians,Letícia Viana,Zagueiro,2,1,70,5.9
+2024-06-23,São Paulo,Sr. Vinícius Vieira,Lateral,3,2,74,7.2
+2024-10-23,Internacional,Dr. Benjamin Porto,Volante,0,1,49,7.2
+2024-11-12,Atlético-MG,Olivia da Rosa,Goleiro,0,2,69,8.5
+2024-12-09,Internacional,Ana Luiza Cassiano,Zagueiro,3,1,83,5.6
+2024-10-18,Flamengo,Evelyn Costa,Meia,0,0,21,9.0
+2024-07-24,Atlético-MG,Thales Montenegro,Atacante,1,0,36,7.2
+2024-06-01,Palmeiras,Otávio Andrade,Goleiro,3,1,34,7.4
+2025-05-06,Santos,Maria Vitória Cunha,Lateral,0,2,52,5.6
+2024-05-20,Cruzeiro,Maria Cecília Albuquerque,Lateral,1,1,26,6.1
