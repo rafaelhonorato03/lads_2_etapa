@@ -5,7 +5,7 @@
 Este projeto foi desenvolvido como parte do processo seletivo da LADS, com o objetivo de demonstrar habilidades em programação Python e ciência de dados. O trabalho foi estruturado para apresentar tanto o domínio técnico quanto a capacidade de análise e storytelling com dados.
 
 ### Estrutura do Projeto:
-O projeto foi dividido em duas partes principais:
+O projeto está dividido em duas partes principais:
 
 1. **Demonstração de Técnicas de Programação**:
    - Geração de dados fictícios utilizando bibliotecas como `Faker` e `NumPy`.
@@ -20,15 +20,15 @@ O projeto foi dividido em duas partes principais:
 
 ### Passos Tomados:
 1. **Geração de Dados Fictícios**:
-   - Criamos um conjunto de dados fictícios representando o desempenho de jogadores de futebol ao longo de um ano.
+   - Um conjunto de dados fictícios foi criado para representar o desempenho de jogadores de futebol ao longo de um ano.
    - As variáveis incluem: data, time, jogador, posição, gols, assistências, minutos jogados e nota.
 
 2. **Exploração e Manipulação de Dados**:
-   - Exploramos os dados gerados para entender sua estrutura e características.
-   - Realizamos manipulações como filtragem de jogadores, agrupamento por time e criação de novas colunas para análises mais detalhadas.
+   - Os dados gerados foram explorados para entender sua estrutura e características.
+   - Foram realizadas manipulações como filtragem de jogadores, agrupamento por time e criação de novas colunas para análises mais detalhadas.
 
 3. **Visualização de Dados**:
-   - Utilizamos `Matplotlib` e `Seaborn` para criar gráficos que contam uma história com os dados.
+   - Foram utilizados `Matplotlib` e `Seaborn` para criar gráficos que contam uma história com os dados.
 
 4. **Próximos Passos**:
    - Implementar análises preditivas para prever variáveis como notas ou gols com base em outras características dos jogadores.
@@ -45,7 +45,7 @@ O projeto foi dividido em duas partes principais:
   - Identificação de padrões e insights nos dados.
 
 ### Como Executar:
-1. Certifique-se de ter o Python instalado em sua máquina.
+1. Certifique-se de ter o Python instalado na máquina.
 2. Instale as dependências necessárias com o comando:
    ```bash
    pip install -r requirements.txt
