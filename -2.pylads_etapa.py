@@ -1,17 +1,18 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-
-import pandas as pd
-import numpy as np
+from faker import Faker
 
 np.random.seed(42)  # Para garantir reprodutibilidade
 
+# Criando uma instância do Faker
+fake = Faker('pt_BR')  # Usando o local 'pt_BR' para gerar dados em português
+
 # Criando dados de exemplo
-datas = pd.date_range(start='2023-01-01', end='2023-12-31', freq='D')
+datas = [fake.date_between(start_date='-1y', end_date='today') for _ in range(1000)]  # 1000 datas aleatórias no último ano
 times = ['Flamengo', 'Palmeiras', 'Corinthians', 'São Paulo', 'Grêmio', 'Internacional', 'Atlético-MG', 'Cruzeiro', 'Santos']
 posicoes = ['Goleiro', 'Zagueiro', 'Lateral', 'Volante', 'Meia', 'Atacante']
-jogadores = [f'Jogador_{i}' for i in range(1, 101)]  # 100 jogadores fictícios
+jogadores = [fake.name() for _ in range(100)]  # 100 nomes fictícios de jogadores
 
 # Gerando 1000 registros aleatórios
 n_registros = 1000
@@ -46,4 +47,4 @@ df_scores['data'] = df_scores['data'].astype('object')
 df_scores.to_csv('dados_scores.csv', index=False)
 
 # Visualizando as primeiras linhas
-df_scores.head()
+print(df_scores.head())
